@@ -1,0 +1,5 @@
+mkdir -m 755 opt
+
+git clone https://github.com/quarto-dev/quarto-cli
+cd quarto-cli
+./configure.sh
