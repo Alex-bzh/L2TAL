@@ -1,0 +1,21 @@
+[project]
+name = "L2TAL"
+version = "0.1.0"
+description = "Resources for L2TAL at Inalco"
+authors = ["Alexandre Roulois <alexandre.roulois@u-paris.fr>"]
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-arm64", "osx-64", "win-64"]
+
+[tasks]
+start = "jupyter lab"
+
+[dependencies]
+jupyterlab = "4.*"
+jupyterlab-latex = "3.*"
+matplotlib = "3.*"
+numpy = "1.25.*"
+pandas = "2.*"
+pip = "23.3.*"
+python = "3.11.*"
+seaborn = "0.13.*"
+tabulate = "0.9.*"
