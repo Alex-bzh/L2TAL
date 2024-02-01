@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.549">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Alexandre Roulois">
+
+<title>Les jeux de caractères codés</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="charset_files/libs/clipboard/clipboard.min.js"></script>
+<script src="charset_files/libs/quarto-html/quarto.js"></script>
+<script src="charset_files/libs/quarto-html/popper.min.js"></script>
+<script src="charset_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="charset_files/libs/quarto-html/anchor.min.js"></script>
+<link href="charset_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="charset_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="charset_files/libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="charset_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="charset_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="charset_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="charset_files/libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<style>html{ scroll-behavior: smooth; }</style>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table des matières</h2>
+   
+  <ul>
+  <li><a href="#de-lorigine-des-algorithmes" id="toc-de-lorigine-des-algorithmes" class="nav-link active" data-scroll-target="#de-lorigine-des-algorithmes">De l’origine des algorithmes</a>
+  <ul class="collapse">
+  <li><a href="#la-numération-de-position" id="toc-la-numération-de-position" class="nav-link" data-scroll-target="#la-numération-de-position">La numération de position</a></li>
+  <li><a href="#conversions-entre-différentes-bases" id="toc-conversions-entre-différentes-bases" class="nav-link" data-scroll-target="#conversions-entre-différentes-bases">Conversions entre différentes bases</a></li>
+  <li><a href="#le-codage-des-couleurs" id="toc-le-codage-des-couleurs" class="nav-link" data-scroll-target="#le-codage-des-couleurs">Le codage des couleurs</a></li>
+  </ul></li>
+  <li><a href="#un-charset" id="toc-un-charset" class="nav-link" data-scroll-target="#un-charset">Un <em>charset</em> ?</a></li>
+  <li><a href="#principes-de-lencodage-de-caractères" id="toc-principes-de-lencodage-de-caractères" class="nav-link" data-scroll-target="#principes-de-lencodage-de-caractères">Principes de l’encodage de caractères</a>
+  <ul class="collapse">
+  <li><a href="#le-décodage-naturel-des-caractères" id="toc-le-décodage-naturel-des-caractères" class="nav-link" data-scroll-target="#le-décodage-naturel-des-caractères">Le décodage naturel des caractères</a></li>
+  <li><a href="#comment-linformatique-encode-t-elle-linformation" id="toc-comment-linformatique-encode-t-elle-linformation" class="nav-link" data-scroll-target="#comment-linformatique-encode-t-elle-linformation">Comment l’informatique encode-t-elle l’information&nbsp;?</a></li>
+  </ul></li>
+  <li><a href="#code-baudot" id="toc-code-baudot" class="nav-link" data-scroll-target="#code-baudot">Code Baudot</a></li>
+  <li><a href="#vers-luniformisation" id="toc-vers-luniformisation" class="nav-link" data-scroll-target="#vers-luniformisation">Vers l’uniformisation</a>
+  <ul class="collapse">
+  <li><a href="#ascii" id="toc-ascii" class="nav-link" data-scroll-target="#ascii">ASCII</a></li>
+  <li><a href="#unicode" id="toc-unicode" class="nav-link" data-scroll-target="#unicode">Unicode</a></li>
+  <li><a href="#utf-8" id="toc-utf-8" class="nav-link" data-scroll-target="#utf-8">UTF-8</a></li>
+  </ul></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Les jeux de caractères codés</h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Auteur·rice</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Alexandre Roulois <a href="mailto:alexandre.roulois@cnrs.fr" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="http://www.llf.cnrs.fr">
+            Laboratoire de linguistique formelle
+            </a>
+          </p>
+        <p class="affiliation">
+            <a href="https://www.cnrs.fr/fr">
+            Centre National de la Recherche Scientifique
+            </a>
+          </p>
+        <p class="affiliation">
+            <a href="https://u-paris.fr/">
+            Université Paris Cité
+            </a>
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="de-lorigine-des-algorithmes" class="level2">
+<h2 class="anchored" data-anchor-id="de-lorigine-des-algorithmes">De l’origine des algorithmes</h2>
+<p>Le terme algorithme provient aussi bien du mathématicien Muḥammad ibn Mūsā al-Khwārizmī (780-850 env.) dont le nom a été latinisé en <em>Algaurizin</em>, <em>Algorizmi</em> ou encore <em>Algoritmi</em>, que du terme grec <em>arithmos</em> qui signifie <em>nombre</em>.</p>
+<p>Au Moyen Âge, le terme <em>augorisme</em> désigne la science du calcul utilisant les chiffres arabes dans un système de numération de position. Plus tard, l’algorithme devient l’ensemble des opérations mises en œuvre dans un calcul. Et, en informatique, il traduit l’ordre d’exécution des séquences d’un programme dans l’obtention d’un résultat.</p>
+<section id="la-numération-de-position" class="level3">
+<h3 class="anchored" data-anchor-id="la-numération-de-position">La numération de position</h3>
+<p>La numération de position en base décimale est utilisée au quotidien. Elle repose sur deux principes fondamentaux&nbsp;:</p>
+<ul>
+<li>l’utilisation de dix signes pour compter [0-9]</li>
+<li>la position des signes est porteuse de sens (7503 € ≠ 0375 €)</li>
+</ul>
+<p>Le cerveau dispose naturellement d’un programme pour décoder les nombres :</p>
+<p><span class="math display">\[
+\begin{aligned}
+7503 &amp;= 7000 + 500 + 00 + 3 \\
+7503 &amp;= 7 \times 1000 + 5 \times 100 + 0 \times 10 + 3 \times 1 \\
+7503 &amp;= 7 \times 10^3 + 5 \times 10^2 + 0 \times 10^1 + 3 \times 10^0
+\end{aligned}
+\]</span></p>
+<p>En informatique, la numération de position se calcule en base binaire plutôt que décimale, ce qui implique l’utilisation de deux signes uniquement : 0 et 1. Considérant que depuis les années 70, l’unité de stockage est devenue le byte de 8 bits (octet), un octet permet de traduire 2<sup>8</sup> informations, soit 256.</p>
+</section>
+<section id="conversions-entre-différentes-bases" class="level3">
+<h3 class="anchored" data-anchor-id="conversions-entre-différentes-bases">Conversions entre différentes bases</h3>
+<p>Imaginons un nombre codé sur l’octet <code>01110010</code> en dehors de tout jeu de caractère. Si on le décompose, on obtient le nombre 144 dans la notation décimale&nbsp;:</p>
+<p><span class="math display">\[
+\begin{aligned}
+114 &amp;= 0 \times 2^7 + 1 \times 2^6 + 1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 0 \times 2^0 \\
+114 &amp;= 0 \times 128 + 1 \times 64 + 1 \times 32 + 1 \times 16 + 0 \times 8 + 0 \times 4 + 1 \times 2 + 0 \times 1 \\
+114 &amp;= 0 + 64 + 32 + 16 + 0 + 0 + 1 + 0
+\end{aligned}
+\]</span></p>
+<p>La conversion d’un nombre décimal vers sa représentation en binaire se résoud grâce à la division euclidienne&nbsp;:</p>
+<p><span class="math display">\[
+\begin{aligned}
+114 &amp;= 0 \times 2^7 + 114 \\
+114 &amp;= 1 \times 2^6 + 50 \\
+50 &amp;= 1 \times 2^5 + 18 \\
+18 &amp;= 1 \times 2^4 + 2 \\
+2 &amp;= 0 \times 2^3 + 2 \\
+2 &amp;= 0 \times 2^2 + 2 \\
+0 &amp;= 1 \times 2^1 + 0 \\
+0 &amp;= 0 \times 2^0 + 0
+\end{aligned}
+\]</span></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Convertir des nombres supérieurs à 128
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Par extension, la conversion en binaire d’un nombre supérieur à 128 nécessiterait plus d’un octet. Pour connaître le nombre d’octets, il suffit d’arrondir à l’entier supérieur le résultat de la division du nombre à représenter par 128&nbsp;:</p>
+<p><span class="math display">\[
+x = \lceil 244 \div 128 \rceil
+\]</span></p>
+</div>
+</div>
+<p>La conversion du binaire en hexadécimal se révèle quant à elle extrêmement économique pour l’informatique en terme de stockage. En effet, 2<sup>8</sup> est égal à 16<sup>2</sup>. La notation hexadécimale ayant besoin de 16 signes, on utilise alors au-delà du chiffre 9 les caractères latins de <em>A</em> à <em>F</em>.</p>
+<p>Le mécanisme de conversion implique les étapes suivantes&nbsp;:</p>
+<ol type="1">
+<li>découper l’octet en deux parties égales&nbsp;;</li>
+<li>convertir les deux parties en base décimale&nbsp;;</li>
+<li>remplacer par la correspondance hexadécimale pour les résultats au-dessus de 9.</li>
+</ol>
+<p>Considérons l’octet <code>11110100</code>&nbsp;:</p>
+<div class="grid">
+<div class="g-col-6">
+<p>Conversion de la partie <code>1111</code>&nbsp;:</p>
+<p><span class="math display">\[
+\begin{aligned}
+&amp;= 1 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2^0 \\
+&amp;= 8 + 4 + 2 + 1 \\
+&amp;= 15
+\end{aligned}
+\]</span></p>
+</div>
+<div class="g-col-6">
+<p>Conversion de la partie <code>0100</code>&nbsp;:</p>
+<p><span class="math display">\[
+\begin{aligned}
+&amp;= 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 0 \times 2^0 \\
+&amp;= 0 + 4 + 0 + 0 \\
+&amp;= 4
+\end{aligned}
+\]</span></p>
+</div>
+</div>
+<p>L’octet <code>11110100</code> vaut par conséquent F4 en hexadécimal.</p>
+</section>
+<section id="le-codage-des-couleurs" class="level3">
+<h3 class="anchored" data-anchor-id="le-codage-des-couleurs">Le codage des couleurs</h3>
+<p>Une teinte est le résultat d’un mélange de différentes proportions des trois couleurs primaires&nbsp;: le rouge, le vert et le bleu. Ce système est appelé RVB (RGB en anglais).</p>
+<p>Chacune de ces couleurs étant codée sur un octet, une teinte est représentée par trois octets ou trois bytes de 8 bits, soit 24 bits au total, ce qui laisse un choix entre 16 777 216 combinaisons (2<sup>24</sup>).</p>
+<p>Par exemple, la couleur <em>aquamarine</em> est codée en binaire&nbsp;: <code>01111111 11111111 11010100</code>. La répartition s’effectue ainsi&nbsp;:</p>
+<ul>
+<li><strong>Rouge&nbsp;:</strong> <code>01111111</code></li>
+<li><strong>Vert&nbsp;:</strong> <code>11111111</code></li>
+<li><strong>Bleu&nbsp;:</strong> <code>11010100</code></li>
+</ul>
+<p>Après conversion en hexadécimal, on obtient le code 7F FF D4.</p>
+<p>Et pour effectuer la conversion de l’hexadécimal vers le binaire&nbsp;? Prenons la couleur <em>goldenrod</em>, notée DA A5 20&nbsp;:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/goldenrod.png" class="img-fluid figure-img"></p>
+<figcaption>Conversion de la couleur <em>goldenrod</em></figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="un-charset" class="level2">
+<h2 class="anchored" data-anchor-id="un-charset">Un <em>charset</em> ?</h2>
+<p><strong>Charset :</strong> <em>Character set</em>, association d’un caractère abstrait avec une représentation numérique (décimale, octale, hexadécimale…)</p>
+<p>Un <em>character set</em>, ou jeu de caractères, est indispensable à l’échange d’informations sur Internet. Le Morse, l’ASCII ou l’UTF-8 sont des exemples de jeux de caractères. Chaque système (serveur, BDD, système de fichiers…) doit savoir dans quel format sont échangées les informations.</p>
+</section>
+<section id="principes-de-lencodage-de-caractères" class="level2">
+<h2 class="anchored" data-anchor-id="principes-de-lencodage-de-caractères">Principes de l’encodage de caractères</h2>
+<section id="le-décodage-naturel-des-caractères" class="level3">
+<h3 class="anchored" data-anchor-id="le-décodage-naturel-des-caractères">Le décodage naturel des caractères</h3>
+<p>Le cerveau décode plus ou moins bien les caractères&nbsp;:</p>
+<div class="grid">
+<div class="g-col-6">
+<div class="sourceCode" id="cb1"><pre class="sourceCode txt code-with-copy"><code class="sourceCode default"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>小さな猫は牛乳を飲んでいます。</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="g-col-6">
+<div class="sourceCode" id="cb2"><pre class="sourceCode txt code-with-copy"><code class="sourceCode default"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>Mały kot pije mleko.</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+<p>Des traits forment des glyphes auxquels sont associés des caractères. Un processus de décodage par blocs est ensuite mobilisé pour obtenir des mots et des phrases, comme dans l’exemple&nbsp;:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode txt code-with-copy"><code class="sourceCode default"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>Lepetitchatboitdulait.</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Segmentation + décodage (français) = « Le petit chat boit du lait. »</p>
+</section>
+<section id="comment-linformatique-encode-t-elle-linformation" class="level3">
+<h3 class="anchored" data-anchor-id="comment-linformatique-encode-t-elle-linformation">Comment l’informatique encode-t-elle l’information&nbsp;?</h3>
+<p>En informatique, l’unité de base qui sert à l’échange d’informations est le <strong>bit</strong>. Or, le bit ne peut revêtir que deux formes primordiales, <code>0</code> ou <code>1</code>. Utilisé isolément, un bit ne permettrait d’encoder que deux caractères. Par exemple, avec la table de conversion suivante&nbsp;:</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">bit</th>
+<th style="text-align: center;">caractère</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><code>0</code></td>
+<td style="text-align: center;">a</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><code>1</code></td>
+<td style="text-align: center;">b</td>
+</tr>
+</tbody>
+</table>
+<p>On obtiendrait pour le texte « Le petit chat boit du lait. »&nbsp;:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode txt code-with-copy"><code class="sourceCode default"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>Le petit chat boit du lait.  </span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>?? ????? ??0? 1??? ?? ?0??.</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Clairement, un bit ne suffit pas pour encoder tous les caractères du message. Qu’en serait-il avec deux bits&nbsp;?</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">bit</th>
+<th style="text-align: center;">caractère</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><code>00</code></td>
+<td style="text-align: center;">a</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><code>01</code></td>
+<td style="text-align: center;">b</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><code>10</code></td>
+<td style="text-align: center;">c</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><code>11</code></td>
+<td style="text-align: center;">d</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb5"><pre class="sourceCode txt code-with-copy"><code class="sourceCode default"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>L  e   p  e  t  i  t  c  h  a  t  b  o  i  t  d  u  l  a  i  t  .</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>?? ??  ?? ?? ?? ?? ?? 10 ?? 00 ?? 01 ?? ?? ?? 11 ?? ?? 00 ?? ?? ??</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Si deux bits ne suffisent pas non plus, comment savoir, pour un message, la quantité de bits nécessaire&nbsp;?</p>
+<p>Faisons l’inventaire du besoin&nbsp;: <code>L</code> <code>e</code> <code>p</code> <code>t</code> <code>i</code> <code>c</code> <code>h</code> <code>a</code> <code>b</code> <code>o</code> <code>d</code> <code>u</code> <code>l</code> <code>.</code> = 15 caractères. Sachant que 1 bit ne peut représenter que 2 caractères (<span class="math inline">\(2^1\)</span>) et 2 bits seulement 4 caractères (<span class="math inline">\(2^2\)</span>), il nous faudrait 4 bits (<span class="math inline">\(2^4\)</span> caractères) pour représenter les 15 caractères du message.</p>
+</section>
+</section>
+<section id="code-baudot" class="level2">
+<h2 class="anchored" data-anchor-id="code-baudot">Code Baudot</h2>
+<p><strong>1832 :</strong> code Morse</p>
+<p>Dans le code Morse, un caractère est associé à un signal (lumière, son, geste), mais s’il existe une table de décodage universelle, le langage est quant à lui souvent chiffré.</p>
+<div class="grid">
+<div class="g-col-6">
+<p><strong>Code Morse&nbsp;:</strong></p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode txt code-overflow-wrap code-with-copy"><code class="sourceCode default"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>.-.. .- / .--. .... .- .-.. .- -. --. . / .- / .-. . .--. .-.. .. ..-.. / ... .- / - --- .. .-.. . .-.-.-</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="g-col-6">
+<p><strong>Décodage&nbsp;:</strong></p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode txt code-overflow-wrap code-with-copy"><code class="sourceCode default"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>La phalange a retiré sa toile.</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Quel serait le sens de la phrase décodée&nbsp;?</p>
+</div>
+</div>
+<p><strong>1874 :</strong> code Baudot</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/code-baudot.png" class="img-fluid figure-img"></p>
+<figcaption>Code Baudot</figcaption>
+</figure>
+</div>
+<p>Le code Baudot est codé sur 5 bits, ce qui lui permet de représenter 32 caractères (<span class="math inline">\(2^5\)</span>). Il se décline en plus en deux jeux distincts entre lesquels on peut basculer grâce aux caractères spéciaux <code>LTRS</code> et <code>FIGS</code>, ce qui double ses capacités de traitement pour parvenir à coder en tout 58 caractères différents. Certains sont effectivement communs aux deux jeux.</p>
+<p><strong>Exemple :</strong> <em>On boit le thé à 16 heures.</em></p>
+<div class="grid">
+<div class="g-col-6">
+<p><strong>Encodage Baudot :</strong></p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode txt code-overflow-wrap code-with-copy"><code class="sourceCode default"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>18 0C 04 19 18 06 10 04 12 01 04 10 14 01 04 03 04 1B 17 15 04 1F 14 01 07 0A 01 05 1B 1C</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="g-col-6">
+<p><strong>Transcription :</strong></p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode txt code-overflow-wrap code-with-copy"><code class="sourceCode default"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>O N SP B O I T SP L E SP T H E SP A SP FIGS 1 6 SP LTRS H E U R E S FIGS .</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+<p>Si le code Baudot permet de coder rapidement des messages courts, il reste défectif sur certains points (minuscules, diacritiques, alphabets autres que latin…). Ses performances sont toutefois intéressantes au vu de la légèreté du message codé&nbsp;: 150 bits sur nécessaires ici pour encoder la phrase (<span class="math inline">\(30 \times 5 = 150\)</span>).</p>
+</section>
+<section id="vers-luniformisation" class="level2">
+<h2 class="anchored" data-anchor-id="vers-luniformisation">Vers l’uniformisation</h2>
+<section id="ascii" class="level3">
+<h3 class="anchored" data-anchor-id="ascii">ASCII</h3>
+<section id="lapparition-dune-norme-pour-échange-de-linformation" class="level4">
+<h4 class="anchored" data-anchor-id="lapparition-dune-norme-pour-échange-de-linformation">L’apparition d’une norme pour échange de l’information</h4>
+<p>Dans les années 1960 apparaît une norme d’encodage de caractères, l’ASCII pour <em>American Standard Code for Information Interchange</em>. Elle contient 128 caractères dont 95 imprimables&nbsp;:</p>
+<ul>
+<li>62 caractères alphanumériques (A-Z, a-z, 0-9)</li>
+<li>33 signes de ponctuation</li>
+<li>33 caractères de contrôle (saut de ligne, tabulation, commandes…)</li>
+</ul>
+<p>Dans la norme ASCII, les caractères sont codés en binaire de <code>0000000</code> à <code>1111111</code>, de telle manière que, pour l’ensemble des informations elle ne sollicite que <strong>7 bits</strong>. Depuis 1970 environ, les ordinateurs travaillent toutefois sur un byte de 8 bits, appelé <strong>octet</strong>. Le 8<sup>e</sup> bit est alors fixé à 0&nbsp;:</p>
+<table class="table-striped table-hover table">
+<caption>Exemple de codage de caractères ASCII</caption>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Lettre</th>
+<th style="text-align: center;">Décimal</th>
+<th style="text-align: center;">Binaire</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">67</td>
+<td style="text-align: center;"><code>01000011</code></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">a</td>
+<td style="text-align: center;">97</td>
+<td style="text-align: center;"><code>01100001</code></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">t</td>
+<td style="text-align: center;">116</td>
+<td style="text-align: center;"><code>01110100</code></td>
+</tr>
+</tbody>
+</table>
+<p>« Le petit chat boit du lait. » en ASCII :</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode txt code-overflow-wrap code-with-copy"><code class="sourceCode default"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>01001100 01100101 00100000 01110000 01100101 01110100 01101001 01110100 00100000 01100011 01101000 01100001 01110100 00100000 01100010 01101111 01101001 01110100 00100000 01100100 01110101 00100000 01101100 01100001 01101001 01110100 00101110</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ascii.svg" class="img-fluid figure-img"></p>
+<figcaption>Table ASCII</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Avec combien de bits coder une information&nbsp;?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Pour calculer le nombre de bits nécessaires au codage d’une information, on comptabilise le nombre de divisions euclidiennes nécessaires pour obtenir un quotient nul.</p>
+<p>Par exemple, pour 128 caractères, sachant que le 1<sup>er</sup> est positionné au numéro 0&nbsp;:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  127 &amp;= 2 \times 63 + 2 \\
+  63 &amp;= 2 \times 31 + 1 \\
+  31 &amp;= 2 \times 15 + 1 \\
+  15 &amp;= 2 \times 7 + 1 \\
+  7 &amp;= 2 \times 3 + 1 \\
+  3 &amp;= 2 \times 1 + 1 \\
+  1 &amp;= 2 \times 0 + 1
+\end{aligned}
+\]</span></p>
+</div>
+</div>
+</section>
+<section id="une-volonté-daméliorer-la-communication" class="level4">
+<h4 class="anchored" data-anchor-id="une-volonté-daméliorer-la-communication">Une volonté d’améliorer la communication</h4>
+<p>L’avantage principal que revendique l’ASCII est une économie de stockage, car un caractère ne nécessite toujours qu’un seul octet pour être représenté. D’un autre côté, son impossibilité à encoder des caractères non latins a vu la prolifération de systèmes <em>ad hoc</em>.</p>
+<p>L’ASCII a par conséquent profité du 8<sup>e</sup> bit libre afin de s’étendre à 256 caractères (<span class="math inline">\(2^8\)</span>), une évolution qui n’a pas suffi pour endiguer la multiplication des jeux de caractères spécifiques&nbsp;:</p>
+<ul>
+<li>développement de l’ISO-8859-1 ou Latin1 pour les langues européennes, puis de l’ISO-8859-15 (Latin9) qui introduit le symbole €&nbsp;;</li>
+<li>les langues asiatiques évoluent de leur côté&nbsp;;</li>
+<li>les documents deviennent illisibles à l’international dès lors que l’on change les systèmes.</li>
+</ul>
+</section>
+</section>
+<section id="unicode" class="level3">
+<h3 class="anchored" data-anchor-id="unicode">Unicode</h3>
+<p>En 1991 paraît la première publication du consortium Unicode dont l’objectif est de fournir à l’ensemble des caractères de toutes les langues connues (110 000 env.) un nom ainsi qu’un identifiant numérique, et ce peu importe le système d’écriture (alphabétique, syllabique, logographique…)</p>
+<p>Chaque caractère dispose ainsi d’un point de code&nbsp;:</p>
+<ul>
+<li>préfixé <code>U+</code></li>
+<li>base hexadécimale sur 4 à 6 caractères selon le plan</li>
+</ul>
+<p>Les points de code sont ensuite encodés selon un format (UTF-8, UTF-16…). En ce qui concerne son encodage UTF-8, Unicode est compatible avec l’ASCII&nbsp;: ses 128 caractères sont en effet représentés par les mêmes octets aux points de code U+0000 à U+007F.</p>
+<table class="table-striped table-hover table">
+<caption>Exemples de caractères Unicode</caption>
+<colgroup>
+<col style="width: 15%">
+<col style="width: 35%">
+<col style="width: 15%">
+<col style="width: 35%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Caractère</th>
+<th>Nom</th>
+<th style="text-align: center;">Point de code</th>
+<th>Représentation binaire UTF-8</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">a</td>
+<td>Lettre minuscule latine a</td>
+<td style="text-align: center;">U+0061</td>
+<td><code>01100001</code></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">ἐ</td>
+<td>Lettre minuscule grecque epsilon esprit doux</td>
+<td style="text-align: center;">U+1F10</td>
+<td><code>11100001 10111100 10010000</code></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">㆞</td>
+<td>Marque d’annotation idéographique de la terre</td>
+<td style="text-align: center;">U+319E</td>
+<td><code>11100011 10000110 10011110</code></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">ܬ</td>
+<td>Lettre syriaque taw</td>
+<td style="text-align: center;">U+072C</td>
+<td><code>11011100 10101100</code></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="utf-8" class="level3">
+<h3 class="anchored" data-anchor-id="utf-8">UTF-8</h3>
+<p>En 1992 paraît l’UTF-8 (<em>Universal character set Transformation Format 8 bits</em>), inventé par Kenneth Thompson. Il s’agit d’un système de codage sur 4 octets <strong>maximum</strong>, rétrocompatible avec les anciens systèmes basés sur 1 octet.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/martine-utf8.jpg" class="img-fluid figure-img"></p>
+<figcaption>Martine écrit en UTF-8</figcaption>
+</figure>
+</div>
+<p>Potentiellement, l’UTF-8 peut représenter <span class="math inline">\(2^{32}\)</span> (&gt; 4 milliards) caractères soit l’ensemble de tous les systèmes d’écriture actuels. Il est proposé en 1996 au consortium Unicode et devient universel deux ans après.</p>
+<p><strong>Fonctionnement :</strong></p>
+<p>Si le 8<sup>e</sup> bit vaut <code>0</code>, on est en présence d’un caractère ASCII qui n’occupe comme espace de stockage qu’un byte de 8 bits, soit un octet. Si en revanche les 7<sup>e</sup> et 8<sup>e</sup> bits d’un octet valents tous les deux <code>1</code>, alors il s’agit du premier octet d’un caractère représenté sur plusieurs. Les octets de la suite sont alors encodés avec les deux derniers bits fixés à <code>10</code>.</p>
+<p>Prenons la phrase suivante&nbsp;: « Mały kot pije mleko. » Son encodage UTF-8 vaut&nbsp;:</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode txt code-overflow-wrap code-with-copy"><code class="sourceCode default"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>01001101 01100001 11000101 10000010 01111001 00100000 01101011 01101111 01110100 00100000 01110000 01101001 01101010 01100101 00100000 01101101 01101100 01100101 01101011 01101111 00101110 00001010</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Nous pouvons remarquer que le caractère ł est codé sur deux octets (<code>11000101 10000010</code>) quand tous les autres le sont sur un seul.</p>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copié");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copié");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+<script src="charset_files/libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

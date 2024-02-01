@@ -10,5 +10,4 @@ dependencies:
   - pandas
   - pip
   - python
-  - quarto
   - seaborn
