@@ -1,4 +1,6 @@
+ascii
 chardet
+iso_8859-1
 recode
 wget
 xxd
