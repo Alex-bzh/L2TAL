@@ -13,6 +13,7 @@ platforms = ["linux-64", "osx-arm64", "osx-64", "win-64"]
 start = "jupyter lab"
 
 [dependencies]
+chardet = "~=5.1"
 jupyterlab = "~=4.1"
 jupyterlab-latex = "~=3.0"
 matplotlib = "~=3.0"
