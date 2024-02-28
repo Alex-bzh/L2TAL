@@ -1,4 +1,5 @@
 ascii
+hexdump
 recode
 wget
 xxd
