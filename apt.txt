@@ -1,5 +1,4 @@
 ascii
 recode
-setxkbmap
 wget
 xxd
