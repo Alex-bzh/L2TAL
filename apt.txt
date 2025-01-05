@@ -1,4 +1,6 @@
 ascii
+enca
 recode
+uchardet
 wget
 xxd
