@@ -1,0 +1,350 @@
+---
+title: "La segmentation d’un texte"
+author:
+  name: "Alexandre Roulois"
+  email: alexandre.roulois@cnrs.fr
+  affiliation:
+    - name: "Institut de recherche en informatique fondamentale"
+      url: "http://www.irif.fr"
+    - name: "Centre National de la Recherche Scientifique"
+      url: "https://www.cnrs.fr/fr"
+    - name: "Université Paris Cité"
+      url: "https://u-paris.fr/"
+lang: fr
+format:
+  html:
+    footnotes: margin
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    theme:
+      light: flatly
+      dark: cyborg
+    toc: true
+  pdf:
+    toc: true
+    latex-engine: xelatex
+    CJKmainfont: "Hiragino Sans GB"
+    mainfont: "Arial Unicode MS"
+---
+
+## Tokenisation
+
+La tokenisation est le processus de segmentation d’un texte en unités significatives. Elle constitue souvent la première étape avant toute analyse de texte.
+
+Si l’unité du token n’est pas formellement définie, on considère souvent le mot en traitement automatique du langage.
+
+### Les critères de segmentation d’un texte en mots
+
+Le cerveau humain résoud assez facilement la tâche de segmentation d’un texte en mots :
+
+::: {.grid}
+
+::: {.g-col-6}
+
+> « Unécureuilagilegrimpedessuslecharme. »
+:::
+
+::: {.g-col-6}
+> « Un écureuil agile grimpe dessus le charme. »
+:::
+
+:::
+
+La décision s’effectue naturellement en fonction critères :
+
+- **Syntaxe :** La structure grammaticale attendue peut guider la segmentation.
+- **Prosodie :** Un texte lu fournit des indices rythmiques ou intonatifs pour signaler une segmentation particulière.
+- **Sens :** Les formes qui ne véhiculent pas de sens immédiat sont disqualifiés (« écureil » plutôt que « écu reuil ».
+- **Orthographe :** En l’absence d’un contexte d’énonciation défini (textos, tweets, langage codé, familier), la rigueur orthographique constitue une aide supplémentaire au décodage (« Un écureil agile » plutôt que « Un écureil agi le »).
+- **Fréquence d’usage :** Le mot « dessus » est bien plus fréquent que la séquence « des sus ».
+- **Contexte sémantique :** Les connaissances du monde influencent également la segmentation, comme savoir qu’il est naturel pour un écureuil d’être sur un arbre.
+- **Morphologie :** La reconnaissance des préfixes, suffixes et racines (« sus » étant archaïque) participe au choix de la segmentation la plus plausible.
+
+### Des systèmes d’écriture continue
+
+Sans parler de certaines langues anciennes comme le grec classique ou le latin avant la période médiévale qui étaient écrites en *scriptio continua*, l’utilisation de l’espace comme outil de segmentation entre mots n’est qu’une convention répandue dans de nombreuses langues modernes. Si l’on considère toutes les langues du monde, elle n’est ni universelle ni majoritaire. En effet, de nombreuses langues asiatiques ne délimitent pas les mots :
+
+- **Le chinois :** Chaque caractère d’un texte peut représenter un mot ou une partie d’un mot comme dans « 我喜欢吃苹果 » pour je (我) aimer (喜欢) manger (吃) pomme (苹果).
+- **Le japonais :** Mélange des kanjis (idéo-phonogrammes) et des kanas (syllabaires hiragana et katakana) sans séparation. La phrase « 私は毎朝コーヒーを飲みます » utilise :
+  - les kanjis 私 (je), 飲 (boire) et 毎朝 (chaque matin) ;
+  - les katakanas コーヒー (kōhī, café) ;
+  - et les hiraganas は (du), を (objet direct d’une action) et みます pour la conjugaison du verbe sous une forme polie au présent.
+- **Le thaï :** Bien que les phrases puissent être délimitées par des ponctuations, le texte est écrit en continu, comme dans « ฉันชอบกินแอปเปิ้ล » pour je (ฉัน) aime (ชอบ) manger (กิน) pomme (แอปเปิ้ล).
+- **Le lao et le khmer :** Similaires au thaï, les mots ne sont pas séparés.
+
+### Autres difficultés liées à la segmentation
+
+Même dans les langues qui recourent aux espaces pour séparer les mots, plusieurs phénomènes rendent la tâche de tokenisation complexe.
+
+#### Le cas de l’apostrophe
+
+L’apostrophe en français sert à marquer des contractions ou des élisions, qu’elles soient produites par des règles grammaticales ou par suppression d’une voyelle finale :
+
+- « J’aime » pour *Je aime*
+- « L’homme » pour *Le homme*
+
+En anglais, l’apostrophe ne joue pas un rôle de segmentation en soi : elle est surtout employée pour des contractions ou pour marquer la possession :
+
+- « Don't » pour *Do not*
+- « John's book » pour exprimer la propriété de John sur l’objet
+
+L’italien va lui aussi utiliser l’apostrophe pour marquer l’élision d’une voyelle comme dans « un’amica ».
+
+#### Les mots complexes
+
+Certaines associations de mots existants par ailleurs représentent un seul et même concept, comme les français *rendez-vous*, *chou-fleur*, ou le portugais *guarda-chuva*. Les outils de TAL les traiteront comme un seul token. Citons aussi l’exception française *aujourd’hui* construite autour de l’ancien français *hoi*, *hui* « le jour où l’on est » (emprunté au latin *hodie*).
+
+La question peut se poser aussi à propos de certaines expressions figées comme *pomme de terre* en français où les mots pris indépendamment renvoient à des réalités différentes de l’ensemble. Pour autant, en l’absence de signe de ponctuation pour les relier, ils seront considérés comme des tokens différents.
+
+Les procédés agglutinants sont généralement traités comme une seule unité, qu’ils proviennent de l’ajout d’affixes ayant chacun une fonction grammaticale, comme dans le cas du turc *Muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesinesiniz* (« Comme si vous faisiez partie de ceux qui ne peuvent pas être privés de leur pouvoir ») ou qu’ils soient formés d’une combinaison de plusieurs mots comme dans celui de l’allemand *Donaudampfschifffahrtsgesellschaftskapitän* (« Capitaine de la Compagnie de navigation à vapeur du Danube »).
+
+### Une étape parmi d’autres
+
+La tokenisation n’est ainsi qu’une étape technique incapable de représenter nettement la sémantique d’un texte. La seule présence des mots « pomme » et « terre » dans un énoncé ne signifie pas pour autant qu’il parle à coup sûr de pommes et de terre. Il pourrait tout aussi bien parler, comme nous l’avons vu, de « pommes de terre ».
+
+Pour surmonter ces ambiguïtés, des traitements ultérieurs viendront affiner l’interprétation sémantique. Ces traitements peuvent inclure :
+
+* L’utilisation de fenêtres contextuelles pour analyser les relations entre mots voisins et déterminer leur sens global ;
+* la reconnaissance des expressions figées ou collocations fréquentes, permettant d’identifier les unités de sens comme un tout ;
+* l’analyse syntaxique et morphologique pour mieux comprendre la structure grammaticale et les dépendances entre les mots ;
+* les modèles de langage (comme ceux basés sur des réseaux neuronaux) capables de désambiguïser le sens en tenant compte du contexte global d’une phrase ou d’un texte.
+
+Par conséquent, la tokenisation est certes essentielle mais elle reste limitée. Seul l’emploi de procédés complémentaires viendront révéler la richesse et la complexité du sens dans un texte.
+
+## Des outils pour la tokenisation
+
+Sans être exclusive, la liste à suivre présente quelques outils pour segmenter du texte. Le choix s’effectuera souvent selon la langue de travail.
+
+### Utilitaires en ligne de commande
+
+#### GREP
+
+L’utilitaire `grep` (*file pattern searcher*) associé à l’option `-o` n’affiche que les segments où le motif en paramètre a été repéré :
+
+```sh
+# whitespace tokenization
+echo 'Le petit chat boit du lait.' | grep -o '\S\+'
+
+# tokenization based on punctuation
+grep -o '[^[:punct:]]\+' file.txt
+```
+
+La commande fonctionne depuis un fichier qui lui est transmis :
+
+```sh
+grep -o '\S\+' file.txt
+```
+
+Comme `grep` est conçue pour de la recherche de motifs, des solutions plus adaptées existent pour effectuer une segmentation sur des règles plus complexes que l’espace ou la ponctuation.
+
+#### SED
+
+`sed` (*stream editor*) est un utilitaire très puissant qui permet d’éditer les lignes d’un flux en effectuant des remplacements (`s`), des suppressions (`d`) ou des insertions (`a`, `i`). Il repose sur l’utilisation des expressions rationnelles.
+
+##### Fonctionnement général de la commande de substitution
+
+Pour remplacer la première occurrence d’un motif :
+
+```sh
+# substitutes first occurrence of 'id' by 'it'
+echo 'Le petit chat boid du laid.' | sed 's/id/it/'
+```
+
+Pour cette fois-ci effectuer les remplacements autant de fois que possible :
+
+```sh
+echo 'Le petit chat boid du laid.' | sed 's/id/it/g'
+```
+
+##### Segmentation sur l’espace
+
+La segmentation sur l’espace (*whitespace tokenization*) peut se commander en demandant de lui substituer des retours à la ligne :
+
+```sh
+echo "Le petit chat boit du lait." | sed 's/ /\n/g'
+```
+
+Toutefois, la version GNU `sed` sous Linux ne traite pas le caractère `\n` comme un saut de ligne dans les remplacements. Une syntaxe alternative qui fonctionne également avec BSD `sed` sous MacOS recourt au caractère spécial `&` :
+
+```sh
+# whitespace tokenization on GNU sed
+echo "Le petit chat boit du lait." | sed 's/ /\'$'\n''/g'
+```
+
+Pour indiquer d’effectuer la segmentation sur un fichier en paramètre :
+
+```sh
+sed 's/ /\'$'\n''/g' file.txt
+```
+
+Si l’utilitaire renvoie ordinairement le flux dans la sortie standard, l’option `-i` effectue le remplacement en place dans les fichiers en paramètres :
+
+```sh
+sed -i 's/ /\'$'\n''/g' file.txt
+```
+
+Il est alors recommandé de conserver une sauvegarde en cas d’erreur dans l’expression à appliquer :
+
+```sh
+# copy the original 'file.txt' into a file named `file.txt.bak`
+sed -i.bak 's/ /\'$'\n''/g' file.txt
+```
+
+##### Autres règles de segmentation
+
+`sed` acceptant les expressions rationnelles, il est possible de concevoir des règles de segmentation personnalisées en faisant attention aux différentes versions implémentées dans les architectures (BSD ou GNU) :
+
+```sh
+# comma-based tokenization
+sed 's/,/\n/g' file.txt
+
+# tokenization based on non-alphanumeric characters (including punctuation)
+sed 's/[^[:alnum:]]\+/\n/g' file.txt
+
+# tokenization by capital letters (useful for camelCase or sentence-like segmentation)
+sed 's/\([A-Z]\)/\n\1/g' file.txt
+
+# tokenization by word length
+sed 's/\b\w\{5,\}\b/&\n/g' file.txt
+
+# tokenization by spaces and punctuationetc.)
+sed 's/[[:space:][:punct:]]\+/\n/g' file.txt
+```
+
+#### AWK
+
+`awk` est un langage qui permet de traiter des fichiers plats par lignes. Il est le plus souvent employé comme analyseur de fichiers structurés afin de renvoyer les informations de champs spécifiques :
+
+```sh
+# print the first field, considering the semi-colon as the field separator
+echo 'adj;Petite;petit' | awk -F ';' '{print $1}'
+
+# print 'Petite : adj'
+echo 'adj;Petite;petit' | awk -F ';' '{print $2, ":", $1}'
+
+# another example of a formatted output
+echo 'adj;Petite;petit' | awk -F ';' '{print "cat:", $1, "\nword:", $2, "\nlemma:", $3}'
+```
+
+En détournant cet usage, il est possible de confectionner un petit outil de segmentation basé sur l’espace :
+
+```sh
+echo 'Le petit chat boit du lait.' | awk '{for (i = 1; i <= NF; i++) print $i}'
+```
+
+Avec prise en charge d’un fichier en entrée, l’exemple donne :
+
+```sh
+awk '{for (i = 1; i <= NF; i++) print $i}' file.txt
+```
+
+Pour segmenter également sur les signes de ponctuation, on peut utiliser la sous-commande `gsub` pour insérer des espaces autour de ces caractères à l’aide d’une expression rationnelle qui permet de traiter les signes de ponctuation comme des éléments distincts lors de la segmentation :
+
+```sh
+awk '{gsub(/([[:punct:]])/, " \\1 "); for (i = 1; i <= NF; i++) print $i}' file.txt
+```
+
+Sur MacOS, l’interprétation des constructions de `awk` est parfois différente. Une expression plus portable devient :
+
+```sh
+awk '{gsub(/([[:punct:]])/, " & "); for (i = 1; i <= NF; i++) print $i}' file.txt
+```
+
+La prise en charge des expressions rationnelles permet de créer des règles personnalisées, qu’il conviendra toujours d’adapter en fonction des plateformes si elles ne fonctionnent pas telles quelles :
+
+```sh
+# comma-based tokenization
+awk '{gsub(",", "\n"); print}' file.txt
+
+# tokenization based on non-alphanumeric characters (punctuation included)
+awk '{gsub(/[^[:alnum:]]+/, "\n"); print}' file.txt
+
+# tokenization by capital letters
+awk '{gsub(/[A-Z]/, " &"); gsub(/ +/, "\n"); print}' file.txt
+
+# tokenization by spaces and punctuation
+awk '{gsub(/[^[:alnum:]]+/, "\n"); print}' file.txt
+```
+
+#### TR
+
+Un autre utilitaire pour manipuler le flux d’un texte est `tr` (*translate characters*). Il offre la capacité d’effectuer une concordance entre plusieurs caractères à remplacer :
+
+```sh
+# 'a' => 'e' ; 'e' => 'a' ; 't' => 'z'
+echo 'Le petit chat boit du lait.' | tr 'aet' 'eaz'
+```
+
+La segmentation sur l’espace s’effectue plus simplement qu’avec `sed` :
+
+```sh
+echo 'Le petit chat boit du lait.' | tr ' ' '\n'
+```
+
+Les remplacements peuvent naturellement s’opérer depuis un fichier :
+
+```sh
+tr ' ' '\n' < file.txt
+```
+
+En combinant les options `-c` (remplacement sur tous les autres caractères sauf ceux indiqués) et `-s` (fusion des caractères répétés), il est possible d’appliquer d’autres règles de segmentation :
+
+```sh
+# comma-based tokenization
+tr ',' '\n' < file.txt
+
+# tokenization based on non-alphanumeric characters (punctuation included)
+tr -cs '[:alnum:]' '\n' < file.txt
+
+# tokenization by capital letters
+tr 'A-Z' ' ' < file.txt | tr -s ' ' '\n'
+
+# tokenization by spaces and punctuation
+tr -cs '[:alnum:]' '\n' < file.txt
+```
+
+### Langages de programmation
+
+Nous avons plus haut présenté des utilitaires comme outils de segmentation en les détournant de leurs usages habituels. Pour cette raison, certaines tâches se révéleront assez difficiles à réaliser, notamment pour les langues qui ne reposent pas sur des motifs de séparation réguliers. Pour celles-ci, il se révélera indispensable d’installer des outils spécifiques, parmi lesquelles nous pouvons citer *OpenCC*, *ZPar* ou encore *Stanford NLP Toolkit*.
+
+Dans la pratique, il est plus courant de recourir à des langages de programmation pour lesquels il existe des bibliothèques qui prennent en charge les cas spécifiques.
+
+#### Perl
+
+Perl est un langage de programmation qui s’inspire des langages de scripts comme `sed` et `awk` et qui prend en charge les expressions rationnelles, ce qui le rend très efficace pour manipuler des séquences de textes.
+
+Un exemple de tokénisateur en Perl (*utf8-tokenize.perl*) est fourni avec la distribution de [*TreeTagger*](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/){target="_blank"} :
+
+```sh
+echo "A Lannister always pays his debts." | perl ./utf8-tokenize.perl
+```
+
+L’algorithme par défaut est prévu pour une segmentation sur l’espace. Des options permettent d’activer des comportements différenciés pour certaines langues :
+
+- `-e` : pour l’anglais ;
+- `-f` : pour le français ;
+- `-i` : pour l’italien ;
+- `-z` : pour le galicien.
+
+```sh
+echo "C’est aujourd’hui ton rendez-vous chez l’ostéopathe ?" | perl ./utf8-tokenize.perl -f
+```
+
+La commande considère correctement *aujourd’hui* comme un seul mot quand *rendez-vous* a été séparé en deux. Il est possible de lui transmettre un fichier pour gérer certaines spécificités du français avec l’option `-a` :
+
+```sh
+echo "C’est aujourd’hui ton rendez-vous chez l’ostéopathe ?" | perl ./utf8-tokenize.perl -f -a ./french-abbreviations
+```
+
+Le fichier *french-abbreviations*, consistant en une simple liste de mots, ne doit être constitué qu’en connaissance de cause, c’est-à-dire après analyse des erreurs résiduelles du tokénisateur.
+
+#### Python
+
+Le langage le plus populaire actuellement dispose de nombreux outils développés pour le TAL :
+
+- *Stanza* : Bibliothèque de traitement du langage naturel développée par Stanford, spécialisée dans l’analyse syntaxique et la reconnaissance d’entités nommées. Elle prend en charge plus de 70 langues, dont l’anglais, le français, l’espagnol, l’allemand, l’italien, le chinois, etc.
+- *NLTK* : La bibliothèque de référence pour l’enseignement du TAL, elle propose des outils pour la tokenisation, l’étiquetage et l’analyse grammaticale. Prévue initialement pour l’anglais, elle supporte dans une moindre mesure des outils pour le français, l’espagnol et l’allemand. Pour l’employer avec d’autres langues, il sera nécessaire d’installer d’autres ressources.
+- *spaCy* : Une bibliothèque performante pour le traitement rapide de grandes quantités de texte, avec des fonctionnalités avancées de traitement syntaxique et de modélisation de textes. Elle supporte une large gamme de langues, dont l’anglais, le français, l’allemand, l’espagnol, l’italien, le néerlandais, etc.
+
+Pour des tâches de segmentation basées sur l’espace, n’importe laquelle de ces bibliothèques fera l’affaire, mais dès lors que l’on touche à des écritures sans espace, comme certaines langues asiatiques, *Stanza* devient le choix par défaut à moins d’installer d’autres ressources comme *jieba* pour le chinois ou *MeCab* pour le japonais.

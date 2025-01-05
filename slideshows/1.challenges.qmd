@@ -1,0 +1,95 @@
+---
+title: "Les défis de la variabilité des langues humaines"
+title-slide-attributes:
+  data-background-color: "#002f2f"
+author: "Alexandre Roulois (Université Paris-Cité, IRIF, CNRS)"
+format:
+  pdf:
+    latex-engine: xelatex
+    CJKmainfont: "Hiragino Sans GB"
+    mainfont: "Arial Unicode MS"
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+    smaller: true
+    scrollable: true
+    theme: showcase.scss
+---
+
+# La diversité des langues humaines
+
+- Les langues humaines ont emprunté des voies multiples pour se développer
+- Entre richesse et différences
+- Défis pour la communication, la traduction et la préservation culturelle
+- Méthodes informatiques et statistiques pour les traiter
+
+## Des systèmes d’écriture variés
+
+- **Idéogrammes :** chinois (ex. *家*), japonais
+- **Alphabets syllabiques :** devanagari pour l’hindi (ex. *नमस्ते*)
+- **Mélanges :** kanji et kana en japonais (ex. *私は学生です*)
+
+Rôle clé dans la compréhension des textes historiques et modernes
+
+## Langues sans espaces
+
+- **Exemples :** chinois (*我喜欢学习*), japonais (*私は学生です*)
+- Segmentation en fonction du contexte
+- Risques de transmettre une information erronée
+- Enjeux de la traduction et de la recherche d’information
+
+## Morphologie complexe
+
+- **Agglutination :** turc (ex. *evlerimizden* pour « de nos maisons »)
+- **Particules :** japonais (*ね* pour valider une affirmation)
+- **Flexions riches :** hindi (*लड़का* pour « garçon » et *लड़कों* pour « des garçons »)
+
+Étudier ces systèmes permet de mieux modéliser les relations grammaticales
+
+# La variabilité linguistique
+
+## Variabilité lexicale
+
+- **Synonymie :** *voiture* et *automobile*
+- **Homonymie :** *maire* et *mère*
+- **Polysémie :** *palais* (édifice ou organe)
+- **Emprunts :** *weekend* en français
+
+Capturer la richesse des significations pour éviter les erreurs de compréhension
+
+## Variabilité morphologique
+
+- **Langues à morphologie riche :** finnois (*taloissa* pour « dans les maisons »)
+- **Langues isolantes :** relations grammaticales exprimées par l’ordre des mots comme dans le chinois (*我喜欢这本书*)
+- **Accords et déclinaisons** : allemand (*Ich mag dieses Buch*)
+
+Comprendre cette variabilité aide à construire des outils multilingues efficaces
+
+## Variabilité syntaxique
+
+- **Ordres des mots différents** :
+  - SVO : anglais (*I eat apples*)
+  - SOV : japonais (*私はリンゴを食べます*)
+- **Structures grammaticales spécifiques** : ex. verbes composés en allemand (*Ich werde essen*, "je vais manger").
+
+Faciliter la traduction automatique et la génération de texte
+
+## Variabilité sémantique et pragmatique
+
+- **Ambiguïté :** *Je déteste les avocats.*
+- **Influence culturelle sur le sens :**
+  - *pain* pour désigner une pâtisserie dans certaines îles des Caraïbes
+  - *déjeuner* pour désigner le repas du matin au Canada
+
+Explorer ces nuances est crucial pour améliorer les interactions homme-machine
+
+## Variabilité orthographique et phonétique
+
+- **Alphabets différents ou usage des diacritiques** : ex. français (*é*, *è*, *ê*)
+- **Influence des translittérations** : russe *борщ* translittéré en « borscht » ou *سلام* translittéré en « salam »
+
+# Conclusion
+
+- Les langues humaines posent des défis variés
+- Les comprendre permet de développer des technologies inclusives et respectueuses
+- Investir dans ces recherches contribue à la préservation des patrimoines linguistiques
