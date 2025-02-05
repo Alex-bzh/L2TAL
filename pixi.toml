@@ -1,5 +1,5 @@
 [project]
-name = "L2TAL"
+name = "TALB230B"
 version = "0.1.2"
 description = "Resources for L2TAL at Inalco"
 authors = ["Alexandre Roulois <alexandre.roulois@u-paris.fr>"]

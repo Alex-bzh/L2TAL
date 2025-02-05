@@ -1,4 +1,4 @@
-name: L2-tal
+name: TALB230B
 channels:
   - conda-forge
   - defaults
