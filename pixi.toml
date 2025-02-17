@@ -8,6 +8,7 @@ readme = "README.md"
 repository = "https://github.com/Alex-bzh/L2TAL"
 channels = ["conda-forge"]
 platforms = ["linux-64", "osx-arm64", "osx-64", "win-64"]
+requires-python = ">= 3.11"
 
 [tasks]
 start = "jupyter lab"
@@ -16,5 +17,4 @@ start = "jupyter lab"
 jieba = "0.42.*"
 jupyterlab = "4.3.*"
 jupyterlab-latex = "4.*"
-pip = ">23.*"
-python = ">3.10"
+pip = ">=23.*"
