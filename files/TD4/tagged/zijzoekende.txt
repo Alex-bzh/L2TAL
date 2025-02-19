@@ -1,0 +1,184 @@
+23805	< och_800 , wat_400 tobt_253 ze_300 toch_500 over_600 wat_420 misschien_500 wel_500 of_700 niet_500 was_275 gebeurd_206 ? >
+23806	< wat_400 er_510 voordien_510 of_700 nadien_510 ook_500 is_273 voorgevallen_206 , hij_300 hield_245 van_600 dat_370 buurmeisje_000 . >
+23807	< het_440 is_273 maar_500 het_370 beste_109 dat_710 hij_300 zo_510 gauw_500 mogelijk_150 vertrekt_243 en_700 dat_710 ze_300 hem_303 vergeet_253 . >
+23808	< ze_300 denkt_243 aan_600 hem_303 , met_600 wie_420 haar_330 vader_000 haar_303 graag_150 zou_275 zien_210 trouwen_200 . >
+23809	< een_450 flinke_103 boerenzoon_000 uit_600 een_450 naburig_100 dorp_000 . >
+23810	< de_370 tw`e`ede_490 zoon_000 , die_420 dus_510 geen_450 verplichtingen_001 heeft_253 aan_600 zijn_330 vader_000 , aan_600 de_370 ouderlijke_103 stee_000 . >
+23811	< ze_300 heeft_273 hem_303 op_600 een_450 bruiloft_000 leren_230 kennen_210 en_700 vaders_002 vergenoegde_217 blik_000 gezien_216 , toen_710 hij_300 haar_303 in_600 het_370 gezelschap_000 zag_255 van_600 de_370 zoon_000 van_600 een_450 oude_103 schoolvriend_000 . >
+23812	< later_154 thuis_500 heeft_273 ze_300 de_370 lofzang_000 moeten_230 aanhoren_210 op_600 de_370 familie_000 van_600 klaas_010 , haar_330 nieuwe_103 kennis_000 . >
+23813	< flinke_103 boeren_001 , een_450 keurige_103 , christelijke_103 familie_000 , een_450 grote_103 hoeve_000 , welgesteld_100 . >
+23814	< klaas_010 heeft_273 haar_303 ook_500 later_154 weer_500 opgewacht_216 , maar_700 ze_300 is_273 gewoon_150 vriendelijk_150 tegen_600 hem_303 blijven_230 doen_200 . >
+23815	< hij_300 is_273 aardig_100 , hij_300 is_273 niet_500 onknap_100 , maar_700 ze_300 is_273 niet_500 verliefd_100 op_600 hem_303 . >
+23816	< ze_300 zal_273 het_440 waarschijnlijk_150 ook_500 nooit_510 worden_230 . >
+23817	< ze_300 denkt_243 alleen_500 maar_500 aan_600 simon_010 . >
+23818	< boukje_010 zucht_243 nog_500 eens_500 , voor_710 ze_300 verder_154 gaat_243 met_600 stof_000 afnemen_210 . >
+23819	< het_370 leven_000 is_273 soms_510 erg_150 ingewikkeld_100 . >
+23820	< simon-bronkhorst_010 staat_243 voor_600 het_370 spiegeltje_000 dat_420 in_600 zijn_330 slaapkamer_000 boven_600 het_370 ladenkastje_000 hangt_243 en_700 kamt_253 zijn_330 donkerblonde_103 haar_000 , dat_420 langs_600 zijn_330 oren_001 en_700 voorhoofd_000 nat_100 is_273 van_600 de_370 wasbeurt_000 . >
+23821	< als_710 hij_300 klaar_100 is_273 , gaat_273 hij_300 op_600 de_370 rand_000 van_600 het_370 bed_000 zitten_200 en_700 trekt_2530 zijn_330 schoenen_001 aan_6205 . >
+23822	< schoenen_001 die_420 zijn_330 moeder_000 hem_303 gestuurd_216 heeft_273 . >
+23823	< schoenen_001 van_600 harm_010 die_420 nog_500 heel_500 goed_100 zijn_274 en_700 die_360 maar_500 in_600 de_370 kast_000 staan_244 , zoals_710 ze_300 schreef_245 . >
+23824	< harm_010 zal_273 ze_303 niet_500 meer_500 nodig_100 hebben_210 , bovendien_510 zal_273 hij_300 veel_450 beter_154 aan_600 nieuwe_123 kunnen_230 komen_200 . >
+23825	< maar_700 misschien_500 zal_273 harm_010 voorlopig_150 wel_500 soldatenlaarzen_001 blijven_230 dragen_210 , al_730 hoopt_243 hij_300 van_600 niet_500 . > 
+23826	< en_700 waarnaar_560 ze_300 zo_510 vreselijk_150 nieuwsgierig_100 is_273 : of_710 hij_300 de_370 koningin_000 ontmoet_216 heeft_273 . >
+23827	< er_510 werd_275 toch_500 verteld_216 dat_710 zij_300 soms_510 op_600 bezoek_000 kwam_245 in_600 het_370 gebouw_000 , of_700 de_370 club_000 of_700 hoe_520 dat_360 ook_500 heet_273 , om_650 met_600 de_370 engelandvaarders_001 te_650 praten_200 ? >
+23828	< ze_300 zou_275 hem_303 dat_360 dolgraag_500 vragen_210 , maar_700 ze_300 is_273 te_500 gebelgd_100 . >
+23829	< nog_500 meer_500 om_600 de_370 toon_000 waarop_560 , als_710 om_600 wat_420 hij_300 zei_255 . >
+23830	< leuk_100 hoor_287 ! >
+23831	< zijn_244 ze_300 voor_600 't_370 eerst_157 allemaal_440 weer_500 thuis_500 en_700 de_370 een_440 doet_243 nog_500 teruggetrokkener_209 dan_720 de_370 ander_440 . >
+23832	< ze_300 volgt_253 haar_330 moeder_000 meteen_500 naar_600 de_370 keuken_000 als_710 die_360 nog_500 een_450 tweede_490 kop_000 koffie_000 gaat_273 inschenken_210 . >
+23833	< " gezellig_100 h`e_800 , zijn_274 de_370 jongens_001 , " zegt_253 ze_300 sarcastisch_150 . >
+23834	< " was_275 dat_360 nu_510 zo_510 erg_100 , dat_710 ik_300 vroeg_245 naar_600 hun_330 belevenissen_001 ? " >
+23835	< " het_440 zal_273 wel_500 veel_450 en_700 veel_450 erger_104 zijn_230 geweest_236 dan_710 wij_300 ons_340 kunnen_274 voorstellen_220 , " zegt_253 cornelia_010 . >
+23836	< " harm_010 k`an_273 er_5400 nog_500 niet_500 over_6105 praten_200 , geloof_251 ik_300 . >
+23837	< en_700 waarom_520 zouden_276 we_300 hem_303 dwingen_210 die_370 herinneringen_001 op_6200 te_650 halen_2105 ? " >
+23838	< " ja_800 , u_300 vergoelijkt_252 het_440 natuurlijk_150 weer_500 , " willemiens_012 stem_000 klinkt_243 kattig_150 . >
+23839	< " hij_300 kan_273 toch_500 wel_500 vertellen_210 waar_530 hij_300 geweest_206 is_273 , welke_443 steden_001 ze_300 zijn_274 binnengetrokken_216 en_700 zo_510 . " >
+23840	< " elk_450 gevecht_000 , elke_453 veroverde_217 stad_000 zal_273 wel_500 herinneringen_001 oproepen_210 . >
+23841	< herinneringen_001 aan_600 gesneuvelde_207 of_700 gewonde_217 kameraden_001 , en_700 al_730 zegt_253 hij_300 nu_510 wel_500 dat_710 de_370 duitsers_001 niet_500 anders_500 verdiend_206 hebben_274 , het_370 zi`en_211 van_600 al_450 die_370 puinhopen_001 , die_370 lijken_001 , die_370 door_600 de_370 bombardementen_001 verminkte_217 lichamen_001 , zal_273 hem_303 toch_500 wel_500 hebben_230 aangegrepen_216 . " >
+23842	< " nou_510 , aan_600 de_370 toon_000 te_650 horen_200 waarop_560 hij_300 er_5400 over_6105 sprak_245 , zou_275 je_300 niet_500 zeggen_210 , dat_710 hij_300 er_5400 erg_150 kapot_100 van_6105 is_273 . " >
+23843	< willemien_010 wil_273 het_440 niet_500 opgeven_210 en_700 cornelia_010 doet_253 er_5400 verder_154 het_370 zwijgen_201 toe_6105 . >
+23844	< willemien_010 is_273 moeilijk_100 nu_510 ze_300 in_600 verwachting_000 is_273 . >
+23845	< gelukkig_100 is_273 evert_010 verstandig_100 en_700 trekt_2530 hij_300 het_440 zich_340 niet_500 aan_6205 als_710 ze_300 prikkelbaar_100 en_700 humeurig_100 is_273 . >
+23846	< hij_300 zal_273 wel_500 net_500 als_720 zij_300 denken_210 : als_710 het_370 kind_000 er_510 maar_500 is_243 , is_273 het_440 weer_500 over_500 . > 
+23847	< hij_300 roept_253 zacht_150 haar_330 naam_000 en_700 bidt_253 dan_510 of_710 god_010 hem_303 de_370 moed_000 wil_273 geven_210 verder_154 te_650 leven_200 . >
+23848	< of_710 god_010 hem_303 wil_273 leiden_210 op_600 de_370 weg_000 die_420 voor_600 hem_303 ligt_243 . >
+23849	< hem_303 wil_273 wijzen_210 welke_443 weg_000 hij_300 moet_273 gaan_210 . >
+23850	< hoe_520 lang_150 hij_300 daar_510 gelegen_206 heeft_273 , als_710 hij_300 een_450 hand_000 op_600 zijn_330 schouder_000 voelt_253 , weet_253 hij_300 niet_500 . >
+23851	< hij_300 denkt_253 dat_710 het_440 de_370 man_000 is_273 , die_420 hem_303 de_370 sleutel_000 heeft_273 gegeven_216 , de_370 doodgraver_000 , zoals_710 ze_300 hem_303 in_600 het_370 dorp_000 noemen_254 . >
+23852	< de_370 man_000 was_275 zeker_150 bang_100 dat_710 hij_300 al_500 weg_500 was_275 en_700 de_370 sleutel_000 had_275 meegenomen_216 . >
+23853	< hij_300 komt_243 haastig_150 overeind_500 , maar_700 het_440 is_273 lodes_012 stem_000 die_420 zegt_253 : >
+23854	< " kom_248 siem_010 , je_300 zult_272 nog_500 kou_000 vatten_210 zo_510 . " >
+23855	< het_440 is_273 altijd_510 lode_010 die_420 komt_243 als_710 hij_300 het_440 moeilijk_150 heeft_253 . >
+23856	< samen_500 lopen_244 ze_300 naar_600 de_370 uitgang_000 , lode_010 geeft_2530 de_370 sleutel_000 af_6205 en_700 dan_510 rijden_244 ze_300 naast_600 elkaar_340 naar_600 huis_000 . >
+23857	< ze_300 zeggen_254 niets_440 , maar_700 dat_360 hoeft_243 ook_500 niet_500 . >
+23858	< lode_010 is_243 er_510 , dat_360 is_273 genoeg_440 . >
+23859	< greetjes_012 broer_000 , die_420 hem_303 nu_510 van_600 alle_453 mensen_001 het_370 naaste_159 staat_243 en_700 het_370 beste_159 begrijpt_253 . >
+23860	< voor_600 simon_010 links-_5000 en_700 lode_010 rechts{af}_5005 slaat_243 , zegt_253 de_370 laatste_129 : >
+23861	< " als_710 je_300 behoefte_000 hebt_252 om_650 te_650 praten_200 , dan_510 kom_242 je_300 maar_500 . " >
+23862	< " ik_300 zal_271 het_440 zeker_150 doen_210 . " >
+23863	< simon_010 bedankt_253 hem_303 niet_500 , lode_010 wil_273 daar_5400 niets_440 over_6105 horen_210 . >
+23864	< hun_330 handen_001 liggen_244 even_500 vast_150 in_600 elkaar_340 , voor_600 ze_300 ieder_440 huns_332 weegs_002 gaan_254 . >
+23865	< lode_010 naar_600 ijselstein_010 waar_530 ze_300 zijn_330 ouders_001 hebben_274 gevangen_219 genomen_216 en_700 weggevoerd_216 , van_600 welke_423 tocht_000 zijn_330 vader_000 niet_500 is_273 teruggekomen_206 en_700 zijn_330 moeder_000 als_720 een_450 schaduw_000 van_600 wat_420 ze_300 eens_500 was_245 . >
+23866	< waar_530 de_370 plaats_000 van_600 greetje_010 altijd_510 leeg_100 zal_273 blijven_230 . >
+23867	< simon_010 naar_600 de_370 bronkhorst_010 , waar_530 zijn_330 vader_000 wacht_243 die_420 hem_303 eens_500 de_370 deur_000 heeft_273 gewezen_216 , waar_530 hanna_010 hem_303 met_600 haar_330 vergevensgezinde_103 houding_000 beschaamd_219 maakt_253 . >
+23868	< ze_300 hebben_254 beiden_441 hun_330 moeilijkheden_001 , simon_010 zou_275 niet_500 durven_230 beweren_210 dat_710 hij_300 de_370 zwaarste_109 last_000 te_650 dragen_210 heeft_273 . >
+23869	< hoe_520 anders_500 zal_273 lode_010 zich_340 zijn_330 eerste_493 huwelijksjaren_001 hebben_230 voorgesteld_216 . > 
+23870	< dan_510 is_273 het_440 niet_500 zo'n_370 schok_000 . " >
+23871	< " zo_800 , mag_271 ik_300 dat_360 opknappen_210 ? " >
+23872	< " nou_580 ja_800 , als_710 je_300 weer_500 thuis_500 bent_242 tenminste_510 en_700 anders_500 ... kom_242 je_300 toch_500 wel_500 eens_500 een_450 week-end_000 thuis_500 ? " >
+23873	< " kun_272 je_300 't_440 zelf_340 niet_500 zeggen_210 ? " >
+23874	< " jawel_800 . >
+23875	< moeder_000 , ik_300 ga_241 nu_510 weer_500 naar_600 germany_010 en_700 dan_510 ga_241 ik_300 naar_600 engeland_010 , want_700 ik_300 wil_241 naar_600 indi`e_010 en_700 ik_300 zal_271 toch_500 een_450 beetje_000 moeten_230 leren_200 hoe_520 je_440 in_600 een_450 rimboe_000 moet_272 vechten_200 ? >
+23876	< bedoel_252 je_300 dat_360 ? >
+23877	< zul_272 je_440 eens_500 zien_210 wat_400 we_300 dan_510 beleven_254 . >
+23878	< nee_800 , ik_300 heb_271 gezegd_216 dat_710 ik_300 nog_500 een_450 poosje_000 in_600 dienst_000 moet_271 blijven_230 en_700 dan_510 schrijf_251 ik_300 wel_500 dat_710 ik_300 waarschijnlijk_150 naar_600 engeland_010 ga_241 , dan_510 zeg_252 jij_300 maar_500 zoiets_360 van_600 : dan_510 zal_273 hij_300 ook_500 wel_500 naar_600 indi`e_010 moeten_200 . >
+23879	< dan_510 krijgt_273 ze_300 niet_500 alles_440 ineens_500 te_650 verwerken_210 . " >
+23880	< simon_010 zwijgt_243 er_5400 verder_154 over_6105 . >
+23881	< harm_010 heeft_253 gelijk_000 . >
+23882	< het_440 zou_275 moeder_000 erg_150 schokken_210 te_650 horen_210 dat_710 hij_300 naar_600 indi`e_010 wil_243 , maar_700 waarom_520 moet_273 hij_300 dat_360 nu_510 weer_500 opknappen_210 ? >
+23883	< hanneke_010 polsen_210 , moeder_000 voorbereiden_210 , hij_300 is_273 er_5400 klaar_100 mee_6105 . >
+23884	< enfin_800 , het_440 is_273 nog_500 niet_500 zo_510 ver_100 met_600 harm_010 . >
+23885	< hij_300 kan_273 wel_500 afgekeurd_216 worden_230 voor_600 de_370 tropen_001 . >
+23886	< in_600 het_370 dorp_000 gaan_2540 ze_300 een_450 caf`e_000 binnen_6205 . >
+23887	< simon_010 merkt_253 dan_510 meteen_500 dat_710 zijn_330 veronderstelling_000 juist_100 was_275 , dat_710 harm_010 al_500 wat_440 op_6200 had_2555 , voor_710 hij_300 op_600 hun_330 slaapkamer_000 aan_600 zijn_330 " slaapmutsje_000 " begon_245 . >
+23888	< hij_300 wordt_273 door_600 de_370 waard_000 en_700 een_450 paar_000 stamgasten_001 begroet_216 als_720 een_450 oude_103 bekende_123 . >
+23889	< tegen_600 simon_010 doen_244 ze_300 trouwens_500 ook_500 joviaal_150 , al_730 kent_253 hij_300 de_370 baas_000 en_700 de_370 gasten_001 alleen_500 maar_500 van_600 gezicht_000 en_700 is_273 hij_300 nog_500 nooit_510 in_600 het_370 caf`e_000 geweest_206 . >
+23890	< twee_470 mannen_001 wenken_254 harm_010 , maar_700 hij_300 doet_243 alsof_710 hij_300 het_440 niet_500 ziet_253 en_700 zoekt_253 een_450 plaats_000 in_600 een_450 hoek_000 , zo_510 ver_150 mogelijk_150 verwijderd_216 van_600 de_370 anderen_441 . >
+23891	< als_710 de_370 waard_000 bij_600 hen_303 komt_243 , bestelt_253 simon_010 een_450 biertje_000 , hoewel_710 hij_300 meer_454 zin_000 heeft_253 in_600 een_450 sterke_103 kop_000 koffie_000 , maar_700 hij_300 wil_273 niet_500 kinderachtig_100 zijn_230 . > 
+23892	< en_700 boukje_010 ? >
+23893	< in_600 een_450 opwelling_000 heeft_273 hij_300 gedacht_216 dat_710 hij_300 van_600 haar_303 zou_275 kunnen_230 houden_200 . >
+23894	< alleen_500 maar_500 in_600 een_450 opwelling_000 . >
+23895	< hier_510 is_243 greetje_010 weer_500 zo_510 dicht_500 bij_500 en_700 boukje_010 een_450 goede_103 vriendin_000 , voor_600 wie_420 hij_300 kameraadschap_000 voelt_253 , dat_360 heeft_253 met_600 liefde_000 niets_440 te_650 maken_200 . >
+23896	< het_440 zal_273 moeilijk_100 zijn_230 . >
+23897	< in_600 een_450 vreemde_103 omgeving_000 zal_273 hij_300 zichzelf_340 gemakkelijker_154 terugvinden_220 , maar_700 hij_300 zal_273 moeten_230 leren_210 met_600 de_370 herinneringen_001 te_650 leven_200 . >
+23898	< hij_300 zal_273 trees_010 zoveel_440 mogelijk_150 uit_600 de_370 weg_000 moeten_230 gaan_200 . >
+23899	< haar_330 gelijkenis_000 met_600 greetje_010 , de_370 liefde_000 die_420 ze_300 hem_303 zo_510 openlijk_150 toonde_255 , mogen_274 hem_303 niet_500 weer_500 zwak_100 en_700 weerloos_100 maken_210 . >
+23900	< hoe_520 hij_300 ook_500 verlangt_243 naar_600 warmte_000 en_700 genegenheid_000 , hij_300 moet_273 zich_340 niet_500 laten_230 verblinden_210 . >
+23901	< niet_500 door_600 hartstocht_000 , niet_500 door_600 gevoelens_001 van_600 vriendschap_000 en_700 medelijden_000 . >
+23902	< overmorgen_500 wordt_273 zijn_330 vader_000 begraven_216 . >
+23903	< de_370 dag_000 daarop_540 gaat_243 hij_300 naar_600 friesland_010 om_650 zijn_330 spullen_001 te_650 halen_210 , wiersma_010 en_700 zijn_330 vrouw_000 te_650 bedanken_210 voor_600 alles_440 wat_420 ze_300 voor_600 hem_303 gedaan_216 hebben_274 en_700 om_650 afscheid_000 te_650 nemen_210 . >
+23904	< hij_300 heeft_273 met_600 de_370 rouwkaart_000 een_450 brief_000 gestuurd_216 waarin_560 hij_300 schreef_255 dat_710 ze_300 het_440 wel_500 zouden_276 begrijpen_210 dat_710 hij_300 nu_510 wat_450 langer_154 thuis_500 bleef_245 en_700 ook_500 dat_710 zijn_330 besluit_000 vast_100 stond_245 , om_650 weer_500 voorgoed_500 naar_600 huis_000 te_650 gaan_200 , aangezien_710 zijn_330 broer_000 de_370 plaats_000 van_600 zijn_330 vader_000 niet_500 wilde_275 innemen_210 . >
+23905	< uit_600 beleefdheid_000 hebben_274 ze_300 wiersma_010 en_700 zijn_330 vrouw_000 uitgenodigd_216 de_370 begrafenis_000 bij_6200 te_650 wonen_2105 , maar_700 hij_300 heeft_273 geschreven_216 dat_710 gezien_600 de_370 verre_103 en_700 nu_510 nog_500 zo_510 moeilijke_103 reis_000 , ze_300 het_440 zouden_276 begrijpen_210 als_710 ze_300 niet_500 kwamen_246 . >
+23906	< die_370 brief_000 hebben_274 ze_300 al_500 wel_500 ontvangen_216 . >
+23907	< boukje_010 weet_253 nu_510 ook_500 , dat_710 hij_300 maar_500 voor_600 een_470 of_700 twee_470 dagen_001 terugkomt_243 . >
+23908	< ze_300 zal_273 er_5400 verdriet_000 van_6105 hebben_210 , dat_360 weet_253 hij_300 zeker_150 . >
+23909	< maar_700 ze_300 zal_273 hem_303 vergeten_210 , ze_300 zal_273 een_450 ander_440 vinden_210 , een_450 flinke_103 boerenzoon_000 die_420 haar_303 en_700 haar_330 ouders_001 gelukkig_100 zal_273 maken_210 . >
+23910	< zal_273 het_440 wiersma_010 ook_500 spijten_200 ? >
+23911	< heeft_273 hij_300 , zoals_710 moeder_000 veronderstelt_243 , gehoopt_216 dat_710 hij_300 die_370 schoonzoon_000 zou_275 worden_230 ? >
+23912	< wat_400 helpt_243 het_440 daarover_540 te_650 piekeren_200 ? >
+23913	< hij_300 hoort_243 hier_510 , op_600 de_370 bronkhorst_010 en_700 boukje_010 hoort_243 in_600 friesland_010 bij_600 haar_330 ouders_001 . > 
+23914	< maar_700 het_440 kan_243 wel_500 en_700 je_440 bent_272 alleen_100 ... voorgoed_500 . >
+23915	< eenzamer_104 dan_710 je_440 ooit_510 voordien_510 geweest_236 bent_272 . >
+23916	< het_440 was_275 onverantwoordelijk_100 om_650 zo_510 ver_100 te_650 gaan_200 , als_720 johann_010 en_700 ik_300 ... >
+23917	< het_440 mocht_245 niet_500 , maar_700 op_600 dat_370 moment_000 had_255 ik_300 maar_500 `e`en_470 verlangen_000 ... hem_303 helemaal_500 toebehoren_200 . >
+23918	< ik_300 weet_251 dat_710 het_440 verkeerd_100 was_275 ... ik_300 heb_271 alleen_500 aan_600 mezelf_340 gedacht_206 ... niet_500 aan_600 de_370 mogelijke_103 gevolgen_001 , maar_700 ... nu_510 ben_271 ik_300 zo_510 dankbaar_100 voor_600 zijn_330 kind_000 ... >
+23919	< nu_510 heb_251 ik_300 toch_500 iets_440 om_650 voor_600 te_650 leven_200 ... >
+23920	< alleen_500 ... het_440 doet_253 vaak_500 ook_500 pijn_000 ... >
+23921	< ik_300 denk_251 zo_510 dikwijls_500 : als_710 johann_010 hem_303 eens_500 zo_510 zien_210 kon_275 ... >
+23922	< hij_300 is_273 zo_510 lief_100 , die_370 kleine_103 schat_000 . " >
+23923	< " wil_272 je_300 nooit_510 voor_600 een_450 tweede_490 keer_000 trouwen_200 ? " >
+23924	< hanna_010 schudt_253 haar_330 hoofd_000 . >
+23925	< " ik_300 geloof_251 het_440 niet_500 ... zeker_150 weet_252 je_440 het_440 natuurlijk_150 nooit_510 . >
+23926	< maar_700 ik_300 moet_271 wel_500 heel_500 zeker_150 weten_210 dat_710 de_370 man_000 die_420 mij_303 zou_275 willen_230 hebben_210 , ook_500 van_600 johan_010 kan_273 houden_200 . >
+23927	< maar_700 och_800 " ... een_450 triest_100 glimlachje_000 vliegt_243 even_500 over_600 haar_330 gezicht_000 , " wie_400 wil_273 een_450 ongetrouwde_103 moeder_000 met_600 een_450 kind_000 ? >
+23928	< en_700 dan_510 nog_500 wel_500 een_450 kind_000 van_600 een_450 duitse_103 soldaat_000 ? " >
+23929	< boukje_010 kan_273 daar_5400 niets_440 op_6105 zeggen_210 . >
+23930	< ze_300 kan_273 er_5400 niet_500 om_6105 jokken_200 en_700 zeggen_210 dat_710 dat_360 nog_500 wel_500 zal_273 meevallen_200 . >
+23931	< ze_300 weet_253 immers_500 dat_710 hanneke_010 gelijk_000 heeft_253 ? >
+23932	< " kom_247 , we_300 zullen_274 weer_500 eens_500 naar_600 beneden_500 gaan_200 , " zegt_253 hanna_010 . >
+23933	< " als_710 ze_300 't_440 merken_254 dat_710 we_300 er_510 niet_500 zijn_244 , zullen_274 ze_300 't_440 vreemd_100 vinden_254 . " >
+23934	< ze_300 staat_2430 op_6205 en_700 kijkt_243 op_600 boukje_010 neer_500 , die_420 nog_500 wat_440 wil_273 zeggen_210 , maar_700 de_370 juiste_103 woorden_001 niet_500 kan_273 vinden_210 . >
+23935	< " weet_252 je_300 , ik_300 zou_275 je_303 graag_150 als_720 schoonzuster_000 hebben_210 en_700 ... ik_300 gun_251 siem_010 zo_510 , dat_710 hij_300 gelukkig_100 wordt_273 . " >
+23936	< boukje_010 kijkt_2530 haar_303 aan_6205 . >
+23937	< " je_300 moet_272 niet_500 denken_210 , dat_710 ik_300 voor_600 mijn_330 vader_000 en_700 zijn_330 boerderij_000 zou_275 kiezen_200 . >
+23938	< ik_300 weet_251 dat_710 het_440 waar_100 is_273 , wat_420 je_300 zei_255 , dat_710 geluk_000 het_370 allervoornaamste_109 is_273 in_600 het_370 leven_000 . > 
+23939	< hij_300 heeft_273 haar_303 verzocht_216 er_5400 niet_500 over_6105 te_650 oordelen_200 , ze_300 deed_245 of_710 hanna_010 wel_500 voor_600 iedere_453 duitser_000 te_650 krijgen_210 was_275 . >
+23940	< het_440 heeft_273 hem_303 ook_500 veel_450 pijn_000 gedaan_216 het_440 te_650 horen_210 . >
+23941	< maar_700 dat_710 het_440 absoluut_150 niet_500 waar_100 is_273 wat_420 zijn_330 moeder_000 zo_510 hatelijk_150 insinueerde_255 , daarvan_540 is_273 hij_300 overtuigd_216 . >
+23942	< hanna_010 is_273 geen_450 meisje_000 dat_420 voor_600 een_450 avontuur_000 te_650 vinden_210 is_273 , ze_300 heeft_273 van_600 de_370 vader_000 van_600 haar_330 kind_000 gehouden_206 . >
+23943	< die_370 gedachte_000 steekt_243 toch_500 . >
+23944	< toen_510 op_600 de_370 bruiloft_000 van_600 willemien_010 en_700 evert_010 heeft_273 hij_300 haar_303 gevraagd_216 of_710 hij_300 nog_500 eens_500 mocht_275 terugkomen_200 . >
+23945	< hij_300 was_275 hals_000 over_600 kop_000 verliefd_100 op_600 haar_303 geworden_236 . >
+23946	< ze_300 heeft_273 hem_303 afgewezen_216 . >
+23947	< " ik_300 vind_251 je_303 aardig_100 , meer_444 niet_500 , " heeft_273 ze_300 toen_510 tegen_600 hem_303 gezegd_216 . >
+23948	< toen_510 heeft_273 hij_300 haar_303 gevraagd_216 of_710 er_510 een_450 ander_440 in_600 haar_330 leven_000 is_273 en_700 ze_300 heeft_273 " nee_800 " geantwoord_216 . >
+23949	< " w`as_245 er_510 een_450 ander_440 ? " >
+23950	< hij_300 herinnert_253 zich_340 hun_330 gesprek_000 nog_500 , als_710 had_275 het_300 de_370 vorige_103 dag_000 plaatsgevonden_206 . >
+23951	< " wat_400 doet_253 dat_360 er_5400 nu_510 toe_6105 ? " en_700 ze_300 had_275 gekleurd_206 bij_600 die_370 woorden_001 . >
+23952	< hij_300 had_275 haar_303 gevraagd_216 of_710 ze_300 die_370 ander_440 niet_500 kon_275 vergeten_210 en_700 ze_300 had_275 " nee_800 " gezegd_216 . >
+23953	< hij_300 was_275 erg_150 teleurgesteld_216 geweest_236 , maar_700 toch_500 ook_500 nog_500 wel_500 hoopvol_100 . >
+23954	< er_510 w`as_275 iemand_440 geweest_206 en_700 op_600 de_370 duur_000 zou_275 ze_300 die_370 ander_440 vergeten_210 . >
+23955	< hij_300 heeft_273 veel_440 aan_600 haar_303 gedacht_206 en_700 dikwijls_500 op_600 't_370 punt_000 gestaan_206 haar_303 op_6200 te_650 zoeken_2105 . >
+23956	< hij_300 heeft_273 het_440 niet_500 gedurfd_216 . >
+23957	< hij_300 was_275 bang_100 weer_500 afgewezen_216 te_650 worden_230 . >
+23958	< later_154 heeft_273 hij_300 zichzelf_340 dat_360 kwalijk_100 genomen_216 . >
+23959	< ze_300 bleek_275 immers_500 die_370 ander_440 te_650 zijn_230 vergeten_216 ? >
+23960	< anders_500 had_275 ze_300 zich_340 niet_500 aan_600 die_370 duitser_000 gegeven_226 . >
+23961	< als_710 hij_300 die_370 ander_440 nu_510 eens_500 voor_500 was_275 geweest_236 ? >
+23962	< misschien_500 was_275 ze_300 dan_510 wel_500 van_600 hem_303 gaan_200 houden_200 . >
+23963	< hij_300 had_275 een_450 ellendige_103 tijd_000 gehad_216 . >
+23964	< hij_300 had_255 medelijden_000 met_600 haar_303 en_700 tevens_500 stemde_255 het_440 hem_303 bitter_100 dat_710 ze_300 tegen_600 hem_303 had_275 gezegd_216 dat_710 ze_300 niet_500 vergeten_200 kon_275 en_700 zich_340 wel_500 met_600 zo'n_370 mof_000 afgaf_265 . > 
+23965	< hij_300 zal_273 wel_500 niet_500 dezelfde_350 naam_000 dragen_210 , maar_700 hetzelfde_350 bloed_000 hebben_210 , dezelfde_350 aard_000 , liefde_000 voor_600 het_370 bezit_000 dat_420 zijn_330 erfdeel_000 is_273 . >
+23966	< daar_5400 wordt_273 tenminste_510 op_6105 gerekend_216 . >
+23967	< maar_700 hij_300 zit_243 hier_510 n`u_510 ! >
+23968	< hij_300 zit_243 hier_510 en_700 houdt_243 van_600 haar_303 en_700 zij_300 van_600 hem_303 en_700 hij_300 kan_273 het_440 haar_303 niet_500 zeggen_210 . >
+23969	< er_510 is_243 een_450 oude_103 , ongeschreven_100 wet_000 , die_420 zegt_253 dat_710 de_370 zoon_000 op_600 de_370 plaats_000 van_600 zijn_330 vader_000 hoort_243 en_700 de_370 dochter_000 ook_500 , als_710 er_510 geen_450 zoon_000 is_243 . >
+23970	< een_450 stee_000 , het_370 erfgoed_000 , vele_453 , vele_453 jaren_001 van_600 vader_000 op_600 zoon_000 overgegaan_206 , in_600 vreemde_103 handen_001 , dat_360 is_273 het_370 ergste_129 wat_420 een_450 boer_000 kan_273 overkomen_200 . >
+23971	< dat_360 is_273 bijna_500 niet_500 te_650 overleven_210 . >
+23972	< daarom_510 moet_273 er_5400 alles_440 aan_6105 worden_230 opgeofferd_216 , zelfs_500 het_370 geluk_000 van_600 een_450 kind_000 . >
+23973	< maar_700 hij_300 dan_510 ? >
+23974	< hij_300 blijft_243 toch_500 ook_500 op_600 de_370 bronkhorst_010 , hoewel_710 het_440 niet_500 strikt_150 noodzakelijk_100 is_273 ? >
+23975	< zijn_330 moeder_000 heeft_273 het_440 hem_303 toch_500 laten_230 weten_210 , dat_710 hij_300 vrij_100 is_273 ? >
+23976	< is_273 zijn_330 liefde_000 voor_600 dat_370 stukje_000 grond_000 waarop_560 hij_300 thuishoort_243 , groter_104 dan_720 zijn_330 liefde_000 voor_600 haar_303 ? >
+23977	< of_700 is_273 het_440 zijn_330 trots_000 die_420 het_440 hem_303 verbiedt_253 ? >
+23978	< is_273 hij_300 zo_510 conservatief_100 dat_710 hij_300 nog_500 vasthoudt_243 aan_600 dat_370 oude_103 begrip_000 dat_710 de_370 vrouw_000 de_370 man_000 moet_273 volgen_210 , in_600 plaats_000 van_600 omgekeerd_216 ? >
+23979	< of_700 is_273 het_440 alles_440 bij_600 elkaar_340 ? >
+23980	< zijn_330 gehechtheid_000 aan_600 de_370 bronkhorst_010 , zijn_330 plichtsgevoel_000 tegenover_600 zijn_330 moeder_000 , en_700 toch_500 ook_500 zijn_330 trots_000 ? >
+23981	< de_370 herinnering_000 aan_600 greetje_010 , aan_600 wie_420 hij_300 toch_500 nog_500 dikwijls_500 denkt_243 ? >
+23982	< wat_400 tobt_243 hij_300 daarover_540 ? >
+23983	< al_730 zou_275 hij_300 zich_340 kunnen_230 losmaken_220 van_600 alles_440 wat_420 hem_303 nu_510 nog_500 bindt_253 , boukje_010 zal_273 dat_360 nooit_510 accepteren_210 . >
+23984	< en_700 zij_300 zal_273 niet_500 naar_600 hem_303 kunnen_230 komen_200 . >
+23985	< hij_300 kan_273 het_440 haar_330 vader_000 niet_500 aandoen_210 . >
+23986	< haar_330 vader_000 , die_420 het_440 weet_253 , die_420 het_440 begrijpt_253 en_700 hem_303 desondanks_510 deze_370 martelgang_000 niet_500 heeft_273 bespaard_216 . >
+23987	< hoopt_243 wiersma_010 nog_500 ? >
+23988	< is_273 het_440 daarom_510 dat_710 hij_300 gekomen_206 is_273 , de_370 koffers_001 niet_500 heeft_273 meegebracht_216 , wensend_215 dat_710 ze_300 't_440 eens_100 , zullen_274 worden_230 , boukje_010 en_700 hij_300 ? > 

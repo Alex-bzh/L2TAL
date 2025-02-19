@@ -1,0 +1,280 @@
+22783	< op_600 de_370 televisie_000 , uit_600 hannover_010 . >
+22784	< herinner_252 je_300 je_340 dat_360 ? >
+22785	< de_370 meesten_449 van_600 mijn_330 vrienden_001 waren_276 verontwaardigd_216 . >
+22786	< en_700 dan_510 de_370 kranten_001 , die_420 leken_276 wel_500 gek_100 . >
+22787	< uiteindelijk_150 heeft_273 het_440 allemaal_440 niets_440 geholpen_206 . >
+22788	< hij_300 is_273 dood_100 . " >
+22789	< oberman_010 gaf_255 geen_450 antwoord_000 . >
+22790	< " heb_272 je_300 hem_303 echt_150 goed_150 gekend_216 ? " >
+22791	< vroeg_255 harry_010 . >
+22792	< " misschien_500 wel_500 , misschien_500 niet_500 . " >
+22793	< " je_300 werkte_245 toch_500 samen_500 met_600 hem_303 ? " >
+22794	< " hoe_520 weet_252 je_300 dat_360 ? " >
+22795	< " ik_300 hoorde_255 hoffner_010 zoiets_360 zeggen_210 . >
+22796	< ik_300 vermoedde_255 eigenlijk_150 al_500 , dat_710 je_300 niet_500 bij_600 de_370 crown_010 werkte_245 , omdat_710 die_370 mensen_001 een_450 eigen_350 manier_000 van_600 praten_200 en_700 van_600 grappen_001 maken_201 hebben_254 . >
+22797	< je_300 herkent_252 ze_300 zo_510 . >
+22798	< net_500 als_720 die_370 sportjournalist_000 die_420 jacobs_010 toen_510 interviewde_255 . >
+22799	< wist_255 je_300 dat_710 het_300 een_450 sportjournalist_000 was_275 ? " >
+22800	< harry_010 lachte_245 voor_600 zich_340 uit_630 . >
+22801	< hij_300 draaide_255 het_370 zijraam_000 open_100 om_650 zijn_330 gezicht_000 aan_600 de_370 twee_470 dienstdoende_103 soldaten_001 bij_600 de_370 uitgang_000 van_600 de_370 legerplaats_000 te_650 laten_230 zien_210 . >
+22802	< " alles_440 goed_100 , " zei_255 hij_300 . >
+22803	< een_440 van_600 de_370 soldaten_001 kwam_245 dichterbij_504 . >
+22804	< oberman_010 liet_275 nu_510 ook_500 zijn_330 gezicht_000 zien_210 . >
+22805	< " gaat_2420 u_300 niet_500 van_600 de_370 hoofdweg_000 af_6205 ? >
+22806	< u_300 rijdt_242 vlak_500 langs_600 de_370 oostzone_000 . " >
+22807	< ze_300 reden_2460 met_600 groot_100 licht_000 de_370 weg_000 op_6205 in_600 de_370 richting_000 van_600 schweinfurth_010 . >
+22808	< " wil_252 je_300 een_450 slok_000 ? " >
+22809	< vroeg_255 harry_010 , die_420 hem_303 tegelijkertijd_500 een_450 fles_000 aanreikte_255 . >
+22810	< " wat_400 weet_252 je_300 van_600 jacobs_010 ? " >
+22811	< antwoordde_255 oberman_010 . >
+22812	< " drink_257 toch_500 wat_440 . >
+22813	< het_440 is_273 doodstil_100 op_600 de_370 weg_000 . >
+22814	< wat_420 ik_300 van_600 jacobs_010 weet_251 , weet_251 ik_300 uit_600 de_370 kranten_001 . >
+22815	< en_700 die_370 schoft_000 , die_370 sportjournalist_000 , die_420 hem_303 abrupt_150 naar_600 zijn_330 seksuele_103 instelling_000 vroeg_245 . >
+22816	< ik_300 herinner_251 me_340 zijn_330 gezicht_000 . >
+22817	< hij_300 was_275 verbijsterd_216 . >
+22818	< net_500 genoeg_440 om_650 een_450 negatieve_103 indruk_000 op_600 die_370 varkensnekken_001 te_650 maken_210 . " >
+22819	< oberman_010 reikte_245 naar_600 de_370 fles_000 . >
+22820	< de_370 drank_000 was_275 sterker_104 dan_720 hij_300 had_275 verwacht_206 . >
+22821	< hij_300 hoestte_245 een_450 ogenblik_000 . >
+22822	< het_440 was_275 vreemd_100 , dacht_255 hij_300 , maar_700 het_440 kwam_2450 hem_303 voor_6205 , dat_710 hij_300 jacobs_010 zelf_350 , als_720 persoon_000 , niet_500 miste_255 . >
+22823	< hij_300 was_275 aan_600 zijn_330 nieuwe_103 werk_000 gaan_230 wennen_200 . >
+22824	< jacobs_010 was_275 een_450 herinnering_000 met_600 een_450 bepaalde_453 sfeer_000 . > 
+22825	< hij_300 slenterde_245 het_370 laatste_109 deel_000 . >
+22826	< het_440 kwam_2450 hem_303 voor_6205 dat_710 hij_300 , juist_150 omdat_710 hij_300 zo_510 gewoon_150 mogelijk_150 wilde_275 doen_200 , zich_340 zo_510 ongewoon_100 voelde_265 . >
+22827	< op_600 de_370 binnenplaats_000 speelden_246 jongens_001 en_700 meisjes_001 badminton_000 . >
+22828	< hij_300 liep_245 direct_150 naar_600 zijn_330 kamer_000 . >
+22829	< zonder_600 licht_000 te_650 maken_210 sloot_255 hij_300 de_370 deur_000 . >
+22830	< vermoeid_216 maar_700 opgelucht_216 ging_275 hij_300 op_600 het_370 bed_000 liggen_200 . >
+22831	< door_600 het_370 open_100 raam_000 drongen_2460 de_370 geluiden_001 van_600 de_370 binnenplaats_000 tot_600 hem_303 door_6205 . >
+22832	< hij_300 luisterde_245 naar_600 de_370 aanmoedigingen_001 voor_600 de_370 badmintonspelers_001 . >
+22833	< het_370 kletterende_203 water_000 van_600 de_370 fontein_000 klonk_245 op_600 de_370 achtergrond_000 . >
+22834	< hij_300 draaide_2450 zich_340 om_6205 op_600 zijn_330 buik_000 . >
+22835	< in_600 het_370 halfduister_000 zag_255 hij_300 zijn_330 tandenborstel_000 , tandpasta_000 en_700 handdoek_000 op_600 het_370 tafeltje_000 bij_600 het_370 raam_000 liggen_200 . >
+22836	< hij_300 mompelde_245 de_370 woorden_001 : " tandenborstel_090 , tandpasta_090 , handdoek_090 , " voor_600 zich_340 uit_630 . >
+22837	< hij_300 had_255 even_500 het_370 idee_000 , dat_710 hij_300 droomde_245 en_700 dat_710 hij_300 zich_340 tegelijkertijd_500 bewust_100 was_275 van_600 wat_420 hij_300 droomde_255 . >
+22838	< het_440 was_275 een_450 situatie_000 , die_420 hij_300 eerder_154 had_275 meegemaakt_216 . >
+22839	< een_450 gebeurtenis_000 die_420 zich_340 herhaalde_265 ; maar_700 zo_510 precies_150 , dat_710 hij_300 dacht_255 te_650 dromen_200 . >
+22840	< het_440 was_275 in_600 de_370 nacht_000 voor_600 de_370 bevrijding_000 . >
+22841	< hij_300 moest_275 met_600 de_370 andere_453 jongens_001 van_600 de_370 kostschool_000 wakker_100 blijven_230 , voor_600 het_370 geval_000 de_370 duitsers_001 , die_420 enkele_453 uren_001 tevoren_500 gevlucht_206 waren_276 , terug_500 zouden_276 komen_200 . >
+22842	< hij_300 was_275 moe_100 van_600 het_370 wachten_201 en_700 moe_100 van_600 hun_330 lange_103 discussie_000 . >
+22843	< wanneer_520 zouden_276 ze_300 komen_200 ? >
+22844	< zou_275 er_510 gevochten_206 worden_230 ? >
+22845	< wat_400 moesten_276 ze_300 doen_210 als_710 ze_300 in_600 een_450 vuurlinie_000 kwamen_276 te_650 liggen_200 . >
+22846	< zijn_330 schaarse_103 persoonlijke_103 bezittingen_001 had_275 hij_300 klaargelegd_216 op_600 zijn_330 bed_000 . >
+22847	< hij_300 probeerde_275 te_650 slapen_200 , maar_700 hij_300 was_275 te_500 gespannen_216 . >
+22848	< hij_300 wilde_275 het_440 meemaken_210 . >
+22849	< was_275 zijn_330 vader_000 maar_500 hier_510 . >
+22850	< in_600 de_370 vroege_103 morgen_000 was_275 het_440 begonnen_206 : het_370 gedreun_000 van_600 duizenden_471 motoren_001 was_275 tot_600 ver_150 in_600 de_370 omtrek_000 te_650 horen_210 . >
+22851	< in_600 het_370 vage_103 morgenlicht_000 reden_246 de_370 eerste_493 pantserwagens_001 , jeeps_001 , tanks_001 , motoren_001 langs_600 de_370 kostschool_000 , op_600 weg_000 naar_600 eindhoven_010 , nijmegen_010 , arnhem_010 . >
+22852	< de_370 jongens_001 waren_276 gaan_230 kijken_200 bij_600 de_370 weg_000 . >
+22853	< hij_300 was_275 binnengebleven_206 . > 
+22854	< hij_300 bladerde_245 wat_440 in_600 een_450 boek_000 dat_420 hij_300 op_600 het_370 hoofdkwartier_000 had_275 gevonden_216 . >
+22855	< er_510 was_245 vrijwel_500 niemand_440 die_420 engels_120 sprak_255 of_700 die_420 genoeg_450 fantasie_000 had_255 om_650 zijn_330 gebrekkige_103 arabisch_120 te_650 begrijpen_210 . >
+22856	< de_370 officier_000 kwam_275 naast_600 hem_303 zitten_200 . >
+22857	< hij_300 bestelde_245 eten_000 en_700 stak_2550 een_450 sigaret_000 op_6205 . >
+22858	< na_600 een_450 kort_100 stilzwijgen_000 begon_255 oberman_010 een_450 gesprek_000 . >
+22859	< " uw_330 operaties_001 worden_274 hier_510 niet_500 zo_510 gewaardeerd_216 ? " >
+22860	< " nee_800 . >
+22861	< men_440 denkt_253 dat_710 wij_300 hiermee_540 begonnen_206 zijn_274 . " >
+22862	< " is_273 dat_360 zo_510 ? " >
+22863	< vroeg_255 oberman_010 , die_420 wat_440 aarzelde_245 . >
+22864	< hij_300 was_275 nieuwsgierig_100 naar_600 wat_420 de_370 man_000 te_650 vertellen_210 had_255 , maar_700 hij_300 begreep_255 dat_710 hij_300 vermoeid_216 was_275 . >
+22865	< " nee_800 , beslist_209 niet_500 . >
+22866	< soedan_010 is_273 een_450 multiraciale_103 staat_000 . >
+22867	< we_300 hebben_254 een_450 islamitische_103 meerderheid_000 en_700 een_450 aantal_000 minderheden_001 . >
+22868	< toen_710 de_370 engelsen_121 hier_510 waren_276 werden_276 we_300 vaak_500 tegen_600 elkaar_340 uitgespeeld_216 . >
+22869	< dat_360 is_273 voorbij_100 . >
+22870	< we_300 moeten_274 nu_510 een_450 hechte_103 eenheid_000 vormen_210 . >
+22871	< zo_510 is_273 het_440 en_700 dat_360 moeten_274 de_370 verschillende_453 minderheden_001 aanvaarden_210 . >
+22872	< er_510 zijn_274 altijd_510 wel_500 strubbelingen_001 geweest_206 , maar_700 nog_500 nooit_510 op_600 deze_370 schaal_000 . >
+22873	< hoe_520 dan_510 ook_500 , we_300 maken_254 vorderingen_001 met_600 de_370 bestrijding_000 . " >
+22874	< " hoe_520 kan_243 dat_360 ? >
+22875	< ik_300 bedoel_251 , dat_710 ze_300 de_370 laatste_109 jaren_001 weer_500 opbloeien_244 ? >
+22876	< de_370 tegenstellingen_001 ? " >
+22877	< " ze_300 zijn_274 hun_330 betrekkelijk_150 bevoorrechte_217 positie_000 die_420 ze_300 onder_600 het_370 engelse_103 gezag_000 hadden_256 kwijtgeraakt_216 . >
+22878	< en_700 dan_510 , ze_300 worden_274 kennelijk_150 voorzien_216 van_600 wapens_001 door_600 allerlei_450 landen_001 die_420 zich_340 tegen_600 de_370 islam_000 keren_264 . " >
+22879	< oberman_010 knikte_245 . >
+22880	< de_370 kinderen_001 waren_276 tegen_600 de_370 avond_000 uit_600 de_370 kelder_000 onder_600 het_370 politiebureau_000 gekomen_206 . >
+22881	< ze_300 hadden_256 hun_330 spelletjes_001 onderbroken_216 om_650 van_600 dichtbij_500 de_370 herstelde_207 man_000 te_650 zien_210 eten_200 . >
+22882	< oberman_010 at_245 met_600 drie_470 buisjes_001 pillen_001 voor_600 zich_340 . >
+22883	< hij_300 was_275 genoodzaakt_216 geweest_236 pillen_001 uit_600 te_650 delen_210 : vitaminepillen_001 , zoutpillen_001 ... >
+22884	< nu_710 achmed_010 aan_600 zijn_330 eten_000 begon_245 , verzamelden_266 de_370 kinderen_001 zich_340 opnieuw_500 bij_600 hun_330 tafel_000 . >
+22885	< tot_600 hun_330 grote_103 teleurstelling_000 at_255 deze_360 zonder_600 pillen_001 . >
+22886	< de_370 warmte_000 leek_245 's_372 avonds_002 nog_500 drukkender_203 dan_720 overdag_500 . >
+22887	< over_600 zijn_330 voorhoofd_000 druppelde_245 zweet_000 . >
+22888	< zijn_330 handen_001 voelden_246 kleverig_100 . > 
+22889	< het_370 gebouw_000 waar_530 zij_300 werden_276 ingekwartierd_216 had_255 stromend_202 water_000 . >
+22890	< op_600 zijn_330 vraag_000 of_710 er_510 genoeg_450 water_000 was_275 werd_275 een_450 bevestigend_202 antwoord_000 gegeven_216 . >
+22891	< vanuit_600 het_370 waslokaal_000 had_255 hij_300 uitzicht_000 op_600 een_450 plein_000 met_600 palmbomen_001 . >
+22892	< hij_300 begon_275 in_600 de_370 palmen_001 te_650 zien_210 wat_420 een_450 arabisch_100 dichter_000 er_5400 eens_500 in_6105 zag_255 : een_450 boom_000 met_600 wortels_001 in_600 de_370 hemel_000 . >
+22893	< toen_710 hij_300 zich_340 had_275 gewassen_226 en_700 zich_340 stond_275 af_6200 te_650 drogen_2205 , realiseerde_255 hij_300 zich_340 hoeveel_450 beter_104 zijn_330 stemming_000 was_275 . >
+22894	< er_510 was_275 goed_100 en_700 veel_450 eten_000 . >
+22895	< bruine_103 bonen_001 , ma`ispap_000 , bananen_001 . >
+22896	< het_370 restaurant_000 had_255 overwerk_000 door_600 de_370 soldaten_001 . >
+22897	< het_440 viel_2450 oberman_010 weer_500 op_6205 , hoe_520 schoon_100 het_440 overal_510 was_275 . >
+22898	< de_370 toiletten_001 waren_276 verzorgd_216 , het_370 waslokaal_000 was_275 schoon_100 . >
+22899	< hij_300 bestelde_255 een_450 groot_100 glas_000 thee_000 en_700 begaf_265 zich_340 naar_600 buiten_500 op_600 het_370 terras_000 , waar_530 het_440 koeler_104 en_700 stiller_104 was_275 . >
+22900	< enkele_453 dorpsbewoners_001 bekeken_256 hem_303 vol_100 belangstelling_000 , maar_700 zeiden_256 niets_440 . >
+22901	< oberman_010 zou_275 ze_300 toch_500 niet_500 verstaan_216 hebben_230 . >
+22902	< hij_300 wilde_275 ongestoord_150 zitten_200 om_650 wat_450 aantekeningen_001 te_650 maken_210 . >
+22903	< in_600 het_370 westen_000 vervaagde_245 het_370 laatste_109 , rood-paarse_103 zonlicht_000 . >
+22904	< de_370 gasverlichting_000 werd_275 ontstoken_216 . >
+22905	< in_600 een_450 paar_000 minuten_001 gonsde_245 het_440 van_600 vliegen_001 en_700 muggen_001 , aangetrokken_216 door_600 het_370 licht_000 . >
+22906	< hij_300 stak_2550 een_450 sigaret_000 op_6205 en_700 bladerde_245 in_600 zijn_330 zakboekje_000 . >
+22907	< hij_300 bleef_275 steken_200 op_600 de_370 29ste_490 november_010 , toen_710 hij_300 zich_340 plotseling_150 realiseerde_255 , dat_710 dit_360 zijn_330 verjaardag_000 was_275 . >
+22908	< mooie_103 plaats_000 om_650 je_330 verjaardag_000 te_650 vieren_210 , dacht_255 hij_300 . >
+22909	< hij_300 vroeg_2550 zich_340 ineens_500 af_6205 waarom_520 zij_300 de_370 kuil_000 niet_500 hadden_276 dichtgegooid_216 en_700 waarom_520 zij_300 de_370 opgehangen_216 lichamen_001 niet_500 hadden_276 begraven_216 . >
+22910	< waren_276 ze_300 allemaal_440 overstuur_500 geweest_236 ? >
+22911	< waren_276 ze_300 bang_100 geweest_236 voor_600 een_450 aanval_000 of_700 was_275 het_440 angst_000 voor_600 ziekten_001 ? >
+22912	< de_370 soldaten_001 kwamen_246 een_440 voor_600 een_440 naar_600 buiten_500 en_700 namen_256 plaats_000 aan_600 de_370 tafeltjes_001 . >
+22913	< een_440 van_600 hen_303 praatte_245 met_600 de_370 dorpsbewoners_001 . >
+22914	< oberman_010 merkte_255 , dat_710 het_370 gesprek_000 over_600 hem_303 ging_245 . >
+22915	< hij_300 herkende_255 tenminste_510 de_370 namen_001 van_600 europese_103 landen_001 . > 
+22916	< " moeten_274 we_300 het_370 vuur_000 doven_210 ? " >
+22917	< vroeg_255 hij_300 . >
+22918	< achmed_010 knikte_245 . >
+22919	< " we_300 slapen_244 onder_600 onze_333 kleren_001 . >
+22920	< er_510 zullen_274 hier_510 veel_450 muggen_001 zijn_200 . " >
+22921	< vreemd_150 genoeg_450 voelde_265 hij_300 zich_340 niet_500 ontevreden_100 . >
+22922	< het_440 was_275 geen_450 vakantie_000 , maar_700 toch_500 had_255 hij_300 hetzelfde_350 gevoel_000 , alsof_710 alles_440 van_600 hem_303 was_275 afgevallen_206 . >
+22923	< niemand_440 wist_255 waar_520 hij_300 was_275 . >
+22924	< niemand_440 kon_275 hem_303 hier_510 opbellen_210 . >
+22925	< niemand_440 zou_275 hem_303 hier_510 kennen_210 . >
+22926	< behalve_720 deze_370 drie_470 mannen_001 was_245 er_510 ook_500 niemand_440 . >
+22927	< zij_300 leken_276 goede_103 vrienden_001 , vrienden_001 zoals_710 oberman_010 nooit_510 had_275 gehad_206 . >
+22928	< er_510 was_245 een_450 vriendschappelijke_103 sfeer_000 , die_420 hem_303 altijd_510 vreemd_100 was_275 geweest_236 . >
+22929	< hij_300 hoefde_275 niemand_440 van_600 de_370 drie_460 iets_440 te_650 leren_210 . >
+22930	< ze_300 schoten_246 feilloos_150 . >
+22931	< ze_300 zorgden_246 voor_600 zichzelf_340 . >
+22932	< ze_300 waren_276 voorzichtig_100 . >
+22933	< ze_300 ouwehoerden_246 niet_500 . >
+22934	< ondanks_600 het_370 aangebrande_207 vlees_000 , had_275 hij_300 zelden_500 zo_510 lekker_150 gegeten_216 . >
+22935	< met_600 zijn_330 handen_001 . >
+22936	< hij_300 had_275 genoten_206 van_600 de_370 voorbereidingen_001 . >
+22937	< van_600 het_370 bloed_000 dat_420 uit_600 de_370 nekken_001 droop_255 . >
+22938	< achmed_010 vertelde_255 dat_710 de_370 niloten_001 het_370 bloed_000 opvangen_254 en_700 er_5400 een_450 soort_000 pap_000 van_6105 maken_254 als_720 delicatesse_000 . >
+22939	< hij_300 begon_275 waardering_000 te_650 krijgen_210 voor_600 al_450 die_370 gebruiken_001 , die_420 hij_300 vroeger_154 als_720 goor_100 zou_275 hebben_230 afgedaan_216 . >
+22940	< hij_300 begreep_255 alles_440 beter_154 . >
+22941	< op_600 een_450 andere_453 manier_000 . >
+22942	< hij_300 voelde_265 zich_340 er_5400 bij_6105 betrokken_226 - zoals_720 hij_300 vroeger_154 , als_720 kind_000 , in_600 een_450 spel_000 betrokken_216 was_275 . >
+22943	< de_370 sportdag_000 van_600 de_370 school_000 , de_370 zwemwedstrijden_001 ... >
+22944	< het_370 liedje_000 dat_420 wahab_010 zong_255 kwam_2450 hem_303 bekend_100 voor_6205 . >
+22945	< de_370 muziek_000 , die_420 hij_300 hier_510 eerder_154 had_275 gehoord_216 . >
+22946	< dat_370 kattegejank_000 , zouden_276 zijn_330 collega's_001 zeggen_210 . >
+22947	< hij_300 realiseerde_255 zich_340 , dat_710 hij_300 zonder_650 de_370 tekst_000 te_650 verstaan_210 , door_600 de_370 sfeer_000 werd_275 geboeid_216 . >
+22948	< misschien_500 bevredigde_255 het_370 vreemde_123 zijn_330 onbewuste_103 afkeer_000 van_600 het_370 eigene_343 , van_600 alles_440 waaraan_560 hij_300 gewend_100 was_275 . >
+22949	< hij_300 gaapte_245 een_450 paar_000 keer_001 en_700 keek_2450 rond_6205 . >
+22950	< hij_300 zag_255 achmed_010 bezig_100 met_600 zijn_330 bed_000 . >
+22951	< " ga_272 je_300 slapen_200 ? " >
+22952	< " weet_252 jij_300 iets_440 beters_105 ? " >
+22953	< " nee_800 . >
+22954	< denk_252 je_300 dat_710 ze_300 terugkomen_244 ? " >
+22955	< " ik_300 weet_251 het_440 niet_500 . >
+22956	< ik_300 heb_251 slaap_000 . " >
+22957	< wat_400 dreef_245 die_370 mensen_001 ertoe_540 zich_340 te_650 beschilderen_220 ? > 
+22958	< kippen_001 , matten_001 , zakken_001 mais_000 , zakken_001 dammur_000 , bananen_001 , meloenen_001 enzovoort_500 . >
+22959	< oberman_010 sliep_245 de_370 hele_103 dag_000 tot_710 ze_300 vlakbij_500 mongalla_010 waren_246 . >
+22960	< toen_710 hij_300 wakker_100 werd_275 merkte_255 hij_300 hoe_520 hij_300 zweette_245 ; hij_300 dreef_245 in_600 de_370 deken_000 en_700 de_370 enkele_453 kledingstukken_001 , die_420 hij_300 aanhad_255 . >
+22961	< de_370 pater_000 waarschuwde_255 dat_710 hij_300 onder_600 de_370 dekens_001 moest_275 blijven_200 . >
+22962	< hij_300 voelde_255 een_450 paar_000 keer_001 obermans_012 polsslag_000 , nam_2550 de_370 temperatuur_000 op_6205 en_700 mompelde_255 iets_440 voor_600 zich_340 uit_630 . >
+22963	< oberman_010 was_275 zo_510 afwezig_100 dat_710 hij_300 het_370 sombere_103 gezicht_000 van_600 de_370 pater_000 niet_500 opmerkte_255 . >
+22964	< de_370 ziekte_000 , die_420 aanvankelijk_150 goedaardig_100 en_700 van_600 korte_103 duur_000 leek_275 te_650 zijn_230 , sloeg_2450 om_6205 . >
+22965	< hij_300 voelde_265 zich_340 ellendig_100 . >
+22966	< zijn_330 spieren_001 waren_276 pijnlijk_100 . >
+22967	< hij_300 rilde_245 van_600 onder_500 tot_600 boven_500 , had_255 hoofdpijn_000 en_700 een_450 brandende_203 dorst_000 . >
+22968	< toen_710 hij_300 in_600 een_450 helder_100 ogenblik_000 aan_600 de_370 pater_000 vertelde_255 dat_710 zij_300 ginds_510 in_600 het_370 moeras_000 water_000 hadden_276 gedronken_216 , schrok_245 deze_360 . >
+22969	< er_510 viel_275 voor_600 hem_303 weinig_450 anders_452 te_650 doen_210 , dan_720 hun_303 regelmatig_150 kinine-_0010 of_700 vitamine{pillen}_0015 te_650 geven_210 , warme_103 thee_000 te_650 brengen_210 en_700 de_370 deken_000 over_600 hen_303 heen_630 te_650 leggen_210 als_710 die_360 weggleed_245 . >
+22970	< zijn_330 ogen_001 brandden_246 . >
+22971	< hij_300 was_275 te_500 moe_100 om_650 ze_300 lang_150 open_100 te_650 houden_210 . >
+22972	< als_710 hij_300 erin_540 wreef_245 begonnen_276 ze_300 te_650 tranen_200 . >
+22973	< aan_600 de_370 oever_000 zag_255 hij_300 het_370 begin_000 van_600 het_370 oerwoud_000 . >
+22974	< hij_300 glimlachte_245 naar_600 de_370 pater_000 en_700 zuchtte_255 : >
+22975	< " echte_103 bomen_001 ... " . >
+22976	< de_370 pater_000 knikte_245 geruststellend_205 en_700 dekte_2550 hem_303 weer_500 toe_6205 . >
+22977	< hij_300 sliep_245 onrustig_150 . >
+22978	< af_500 en_700 toe_500 praatte_245 hij_300 . >
+22979	< losse_103 woorden_001 . >
+22980	< " anya-anya_010 ... achmed_010 ... crown_010 ... sprinkhanen_001 ... juba_010 ... dorst_000 ... " >
+22981	< hij_300 droomde_245 ijlend_205 . >
+22982	< de_370 koorts_000 overschreed_255 nu_510 de_370 veertig_470 graden_001 . >
+22983	< mongalla_010 had_255 een_450 kleine_103 haven_000 langs_600 de_370 nijl_010 . >
+22984	< er_510 lagen_246 enkele_453 zeilboten_001 . >
+22985	< langs_600 de_370 kade_000 stonden_246 palmen_001 . >
+22986	< het_440 was_275 er_510 druk_100 en_700 lawaaierig_100 . >
+22987	< vanonder_600 zijn_330 deken_000 hoorde_255 hij_300 het_370 schreeuwen_201 van_600 de_370 arbeiders_001 , die_420 een_440 van_600 de_370 schepen_001 losten_256 , het_370 gegil_000 van_600 kinderen_001 , nu_510 en_700 dan_510 de_370 stoomfluit_000 van_600 het_370 moederschip_000 en_700 tal_000 van_600 geluiden_001 die_420 hij_300 niet_500 thuis_500 kon_275 brengen_210 . > 
+22988	< het_440 gaat_243 erom_540 dat_710 je_300 even_500 een_450 idee_000 krijgt_252 van_600 wat_420 we_300 gaan_274 doen_210 . " >
+22989	< harry_010 knikte_245 . >
+22990	< schreyk_010 , nog_500 steeds_500 verrast_216 over_600 de_370 belangstelling_000 van_600 zijn_330 zoon_000 , schonk_2550 cognac_000 in_6205 . >
+22991	< hoffner_010 vervolgde_255 : >
+22992	< " shems_012 verhouding_000 met_600 het_370 inlands_100 kapitaal_000 is_273 verouderd_206 . >
+22993	< ze_300 werken_244 op_600 de_370 hogere_106 posten_001 met_600 eigen_350 mensen_001 . >
+22994	< wij_300 niet_500 . >
+22995	< onze_333 maatschappij_000 bestaat_243 vrijwel_500 geheel_150 uit_600 nigerianen_001 . " >
+22996	< " er_510 zijn_244 berichten_001 over_600 een_450 ophanden_100 zijnde_233 coup_000 , " zei_255 harry_010 . >
+22997	< zijn_330 vader_000 keek_2550 hem_303 opnieuw_500 verrast_219 aan_6205 . >
+22998	< " de_370 politieke_103 situatie_000 is_273 ronduit_500 chaotisch_100 , " hervatte_255 hoffner_010 zijn_330 betoog_000 . >
+22999	< " oberman_010 meende_255 dat_710 de_370 situatie_000 zich_340 zou_275 toespitsen_220 op_600 de_370 concessierechten_001 van_600 shem_010 in_600 oost-nigeria_010 . >
+23000	< daar_5400 kan_273 nu_510 wel_500 het_370 een_440 en_700 ander_440 van_6105 uitkomen_200 . >
+23001	< shem_010 investeert_253 kapitalen_001 in_600 de_370 oostprovincie_000 . >
+23002	< het_370 noorden_000 is_273 bang_100 van_600 het_370 zuiden_000 . >
+23003	< het_370 zuiden_000 is_273 verdeeld_216 in_600 oost_000 en_700 west_000 . >
+23004	< het_370 noorden_000 is_273 het_370 minst_447 ge`industrialiseerd_216 . >
+23005	< het_300 is_273 islamitisch_100 en_700 vooral_500 de_370 jongeren_126 staan_244 onder_600 invloed_000 van_600 pan-islamitische_103 idee`en_001 . >
+23006	< de_370 bedrijfsvoering_000 is_273 voor_600 een_450 belangrijk_100 deel_000 in_600 handen_001 van_600 oostnigerianen_001 . >
+23007	< zeker_150 de_370 shem-belangen_001 worden_274 door_600 oostnigerianen_001 in_600 het_370 hele_103 land_000 behartigd_216 . >
+23008	< als_710 die_370 mensen_001 van_600 hun_330 posten_001 verdwijnen_244 , betekent_253 dat_360 een_450 grote_103 tegenslag_000 ook_500 voor_600 de_370 regering_000 . >
+23009	< werkloosheid_000 en_700 inflatie_000 bedreigen_254 het_370 land_000 . >
+23010	< men_440 is_273 , meen_251 ik_300 , vorig_100 jaar_000 al_500 aan_600 de_370 goudreserves_001 begonnen_206 . >
+23011	< het_370 ongenoegen_000 ontlaadt_263 zich_340 voornamelijk_150 op_600 de_370 oostnigerianen_001 . >
+23012	< de_370 mensen_001 voelen_264 zich_340 misschien_500 intern_150 gekolonialiseerd_216 door_600 de_370 oostnigerianen_001 . " >
+23013	< " en_700 jullie_300 willen_274 die_370 ontwikkelingen_001 bevorderen_254 ? " >
+23014	< " gedeeltelijk_150 wel_500 . >
+23015	< onze_333 maatschappij_000 werkt_243 met_600 alle_453 bevolkingsgroepen_001 . >
+23016	< we_300 moeten_274 gewoon_150 een_450 aantal_000 mensen_001 bijeen_500 krijgen_210 die_420 het_370 belang_000 van_600 de_370 maatschappij_000 boven_600 de_370 kleinere_106 politieke_103 conflicten_001 willen_274 stellen_210 . >
+23017	< shem_010 bijvoorbeeld_500 is_273 meer_444 ge`interesseerd_216 in_600 de_370 ongestoorde_103 exploitatie_000 van_600 haar_330 grondstoffen_001 dan_720 in_600 de_370 controle_000 van_600 de_370 situatie_000 als_720 zodanig_360 . >
+23018	< wij_300 willen_254 meer_444 dan_720 een_450 paar_000 concessierechten_001 . >
+23019	< de_370 angst_000 voor_600 nationalisatie_000 enzovoorts_500 . >
+23020	< daar_5400 schieten_2441 we_300 allemaal_440 niets_440 mee_6105 op_6206 . > 
+23021	< " ja_800 voor_600 zichzelf_340 . >
+23022	< maar_700 dat_360 heeft_253 weinig_450 nut_000 . >
+23023	< hij_300 leefde_245 met_600 anderen_441 . >
+23024	< in_600 een_450 maatschappij_000 . >
+23025	< iedereen_440 zit_243 in_600 een_450 organisatie_000 . >
+23026	< daar_5400 is_273 niets_440 aan_6105 te_650 doen_210 . >
+23027	< je_440 weet_252 wel_500 dat_710 een_450 enkeling_000 eraan_540 ontsnapt_243 . >
+23028	< maar_700 die_360 staat_243 net_500 zo_510 als_720 die_370 idioot_000 , die_420 onlangs_500 in_600 zijn_330 eentje_460 op_600 de_370 toren_000 van_600 een_450 universiteitsgebouw_000 een_450 geweer_000 leegschoot_255 op_600 zijn_330 collega-studenten_001 beneden_500 op_600 de_370 campus_000 . >
+23029	< blind_100 verzet_000 tegen_600 een_450 organisatie_000 , dat_360 is_273 de_370 handeling_000 van_600 een_450 krankzinnige_123 . >
+23030	< al_730 het_370 andere_453 verzet_000 hoort_243 bij_600 de_370 organisatie_000 waar_5600 je_440 je_340 tegen_6105 verzet_262 . >
+23031	< ze_300 rekenen_254 gewoon_150 op_600 je_330 verzet_000 . >
+23032	< ze_300 effenen_254 de_370 weg_000 voor_600 je_330 verzet_000 tot_710 je_440 het_303 opgeeft_253 en_700 een_450 volwassen_100 lid_000 van_600 de_370 organisatie_000 wordt_273 . " >
+23033	< " en_700 jacobs_010 ? >
+23034	< en_700 oberman_010 ? " >
+23035	< " die_360 stierven_256 een_450 mooie_103 dood_000 . >
+23036	< de_370 organisatie_000 gaat_243 er_5400 zwanger_100 aan_6105 . >
+23037	< mensen_001 die_420 zo_510 mooi_150 sterven_244 . >
+23038	< je_340 daartegen_540 verzetten_220 is_273 zelfvernietiging_000 . >
+23039	< we_300 leven_244 maar_500 eenmaal_500 . >
+23040	< niemand_440 zal_273 ons_303 ooit_510 kennen_210 . >
+23041	< we_300 leven_244 zonder_600 geschiedenis_000 . >
+23042	< we_300 vechten_244 tegen_600 iets_440 dat_420 allang_500 gewonnen_206 heeft_273 . >
+23043	< niemand_440 wil_273 dat_360 toegeven_210 ; vandaar_510 dat_710 er_510 nog_500 centen_001 worden_274 verdiend_216 . " >
+23044	< hendrix_010 peuterde_245 in_600 zijn_330 neus_000 . >
+23045	< toen_710 hoffner_010 zweeg_245 , keek_2450 hij_300 plotseling_150 op_6205 . >
+23046	< hij_300 ergerde_265 zich_340 aan_600 zichzelf_340 en_700 schraapte_255 zijn_330 keel_000 . >
+23047	< " je_300 wilt_272 toch_500 graag_150 behouden_210 wat_420 je_300 hebt_252 . >
+23048	< je_300 hebt_252 toch_500 vier_470 kinderen_001 ? " >
+23049	< " ja_800 . >
+23050	< waarom_520 vraag_252 je_300 dat_360 ? " >
+23051	< " weet_252 je_300 hoe_520 het_440 er_510 in_600 soedan_010 uitziet_243 ? >
+23052	< weet_252 je_300 eigenlijk_150 wel_500 hoe_520 het_440 er_510 aan_600 de_370 overkant_000 uitziet_243 ? >
+23053	< wat_420 wij_300 doen_254 is_273 allemaal_440 luxe_000 . >
+23054	< maar_700 daar_510 aan_600 het_370 hongerfront_000 . >
+23055	< haha_800 , we_300 verdienen_254 er_5400 wat_440 aan_6105 . >
+23056	< we_300 sturen_254 de_370 overschotten_001 weg_500 . >
+23057	< oude_103 wapens_001 bijvoorbeeld_500 . >
+23058	< dan_510 kunnen_274 die_370 mensen_001 voor_600 hun_330 vrijheid_000 vechten_244 . >
+23059	< logisch_100 , je_440 gooit_252 ook_500 liever_154 een_450 bom_000 op_600 je_330 huis_000 dan_720 het_303 te_650 ontruimen_210 voor_600 een_450 arabier_000 die_420 zegt_253 dat_710 zijn_330 voorvader_000 daar_510 gewoond_206 heeft_273 . >
+23060	< ze_300 kunnen_274 zoveel_440 zeggen_210 . >
+23061	< ken_252 jij_300 de_370 kwestie_000 taft_010 ? " >
+23062	< " die_360 heb_271 ik_300 min_444 of_700 meer_444 gevolgd_216 . " > 

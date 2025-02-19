@@ -1,0 +1,194 @@
+31107	< ze_300 spraken_246 nogal_500 netjes_500 . >
+31108	< moeder_000 voelde_265 zich_340 gevleid_216 . >
+31109	< vroeger_154 hadden_276 ze_300 een_450 pension_000 gehad_216 . >
+31110	< en_700 ze_300 wilden_276 er_510 , vertelden_256 ze_300 , graag_150 weer_500 een_470 hebben_210 . >
+31111	< ze_300 hadden_256 er_5400 allang_500 een_450 mooie_103 plek_000 in_600 de_370 provincie_000 voor_6105 op_600 het_370 oog_000 . >
+31112	< maar_700 er_5400 kwam_245 nooit_510 iets_440 van_6105 . >
+31113	< ze_300 waren_276 arm_100 , hoewel_710 altijd_510 nog_500 een_450 beetje_000 deftig_100 . >
+31114	< kwam_245 een_440 van_600 de_370 twee_460 , dan_510 stak_2550 mijn_330 moeder_000 gauw_500 het_370 theelichtje_000 aan_6205 en_700 zette_255 een_450 glimmend_202 blikken_100 koektrommeltje_000 op_600 tafel_000 . >
+31115	< ze_300 zei_255 dan_510 ook_500 niet_500 dat_710 we_300 met_600 die_370 mensen_001 omgingen_246 , maar_700 dat_710 we_300 met_600 ze_303 converseerden_246 . >
+31116	< in_600 onze_333 natte_103 , voddige_103 kleren_001 stonden_246 we_300 daar_510 vlak_500 voor_600 hen_303 . >
+31117	< woedend_205 braakte_255 mijn_330 vader_000 eruit_540 : >
+31118	< " zie_252 je_300 het_440 godverdomme_800 nou_510 ? ! >
+31119	< heb_252 je_300 nou_510 godverdomme_800 je_330 zin_000 ? ! " >
+31120	< ( dat_360 was_275 tegen_600 mijn_330 moeder_000 . >
+31121	< die_370 andere_453 vrouw_000 keek_2550 hij_300 niet_500 aan_6205 . ) >
+31122	< meteen_500 liep_2450 hij_300 door_6205 . >
+31123	< mijn_330 moeder_000 geneerde_265 zich_340 dood_100 . >
+31124	< ze_300 deed_255 een_450 stapje_000 van_600 de_370 andere_453 vrouw_000 af_630 en_700 zei_255 , terwijl_710 ze_300 mijn_330 hand_000 pakte_255 , zachtjes_500 tegen_600 mij_303 : >
+31125	< " moet_272 je_300 dat_360 horen_210 ! >
+31126	< nou_580 ja_800 , het_440 geeft_253 ook_500 niks_440 . >
+31127	< het_440 is_273 vader_000 maar_500 . >
+31128	< kom_247 , we_300 gaan_244 fijn_150 naar_600 huis_000 . >
+31129	< het_440 is_273 net_500 mooi_150 droog_100 . >
+31130	< gaat_2420 u_300 ook_500 mee_6205 , mevrouw_000 ? " ( tegen_600 het_370 stille_103 dametje_000 ) . >
+31131	< wij_300 dus_510 op_600 weg_000 . >
+31132	< soppend_205 van_600 het_370 water_000 liep_245 ik_300 naast_600 mijn_330 moeder_000 . >
+31133	< mijn_330 vader_000 zagen_256 we_300 niet_500 meer_500 . >
+31134	< overal_510 op_600 de_370 weg_000 lagen_246 afgerukte_217 boomtakken_001 , langs_600 het_370 oude_103 joodse_103 kerkhof_000 was_275 het_440 bezaaid_216 met_600 takken_001 en_700 stronken_001 . >
+31135	< in_600 het_370 smerige_103 slootje_000 , overwoekerd_216 met_600 goor_150 witte_103 , bedorven_206 stinkende_203 schermbloemen_001 , kwaakte_245 een_450 kikker_000 . >
+31136	< plotseling_150 dook_2450 mijn_330 vader_000 weer_500 uit_600 het_370 donker_000 op_6205 . >
+31137	< met_600 grote_103 stappen_001 , zijn_330 ene_453 hand_000 een_450 zwaaiende_203 vuist_000 , kwam_245 hij_300 , tierend_205 en_700 scheldend_205 , naar_600 mijn_330 moeder_000 toe_630 . >
+31138	< we_300 bleven_276 van_600 schrik_000 staan_200 . >
+31139	< zijn_330 stem_000 sloeg_2450 over_6205 . >
+31140	< " godver_800 , godver_800 , godverdomme_800 ! >
+31141	< hoe_520 vaak_500 heb_271 ik_300 je_303 niet_500 gezegd_216 dat_710 we_300 door_600 die_370 stinkerd_000 naar_600 de_370 rasmodee_000 gaan_244 ! > 
+31142	< de_370 fiets_000 , op_600 zichzelf_340 een_450 mooi_100 werkstuk_000 , had_255 een_450 montagefout_000 . >
+31143	< aan_600 de_370 voorvork_000 zat_245 een_450 metalen_100 klauw_000 . >
+31144	< daaroverheen_540 paste_245 een_450 iets_450 ruimer_104 gemaakte_217 klauw_000 , bevestigd_216 aan_600 de_370 rest_000 van_600 het_370 frame_000 . >
+31145	< door_600 de_370 op_600 een_450 lijn_000 liggende_203 gaten_001 in_600 die_370 klauwen_001 liep_245 een_450 ijzeren_100 bout_000 , waardoor_560 dus_510 het_370 voorstuk_000 van_600 de_370 fiets_000 kon_275 draaien_200 . >
+31146	< de_370 ene_453 klauw_000 zat_245 met_600 koperen_100 schroeven_001 aan_600 de_370 voorvork_000 vast_100 , precies_150 de_370 plaats_000 waar_5600 de_370 grootste_109 druk_000 op_6105 kwam_245 . >
+31147	< onder_600 het_370 rijden_201 werden_276 de_370 schroeven_001 langzaam_150 maar_700 zeker_150 uit_600 het_370 hout_000 getrokken_216 . >
+31148	< er_510 kwam_245 ruimte_000 tussen_600 vork_000 en_700 klauw_000 , het_370 frame_000 zakte_2450 door_6205 , de_370 wielen_001 stonden_246 niet_500 meer_500 recht_150 tegenover_600 elkaar_340 , waardoor_560 de_370 fiets_000 op_600 het_370 laatst_157 niet_500 meer_500 voort_6200 te_650 branden_2105 was_275 . >
+31149	< om_600 de_370 veertien_470 dagen_001 kwam_245 hij_300 dan_510 ook_500 in_600 de_370 grote_103 revisie_000 . >
+31150	< mijn_330 vader_000 draaide_255 de_370 schroeven_001 weer_500 vast_100 in_600 het_370 hout_000 . >
+31151	< ook_500 haalde_255 hij_300 het_370 overtrek_000 van_600 het_370 zadel_000 - dat_420 zo_510 plat_100 als_720 een_450 schol_000 was_275 geworden_236 - het_370 overtrek_000 dus_510 los_100 en_700 stopte_245 er_5400 nieuw_100 zeegrasvulsel_000 van_600 een_450 oude_103 matras_000 weer_500 in_6105 . >
+31152	< en_700 ik_300 weer_500 rijden_200 , zout_000 halen_210 , een_450 onsje_000 kaas_000 halen_210 , koekkruimels_001 halen_210 , naar_600 school_000 ( een_450 lullig_150 klein_100 eindje_000 ) , soms_510 weer_500 grote_103 wilde_103 trips_001 , zoals_720 naar_600 het_370 kruithuis_000 en_700 van_600 het_370 kruithuis_000 in_600 een_450 ruk_000 naar_600 het_370 kerkhof_000 , tegen_600 een_450 halve_103 storm_000 in_630 of_700 met_600 een_450 gore_103 gang_000 voor_600 de_370 wind_000 af_630 , kortom_500 , ik_300 reed_255 de_370 plaats_000 aan_600 repen_001 . >
+31153	< dat_360 duurde_255 een_450 goed_100 jaar_000 . >
+31154	< toen_510 gingen_276 we_300 verhuizen_200 . >
+31155	< we_300 pakten_2560 de_370 boel_000 op_6205 . >
+31156	< we_300 trokken_246 naar_600 amsterdam_010 . >
+31157	< het_440 was_275 enorme_103 onzin_000 , want_700 we_300 woonden_246 mooi_150 rustig_150 in_600 dat_370 plaatsje_000 . >
+31158	< ik_300 wist_255 wel_500 wie_400 bij_600 ons_303 net_500 zo_510 lang_150 de_370 boel_000 op_600 zijn_330 punt_000 had_275 gezet_216 tot_710 we_300 eindelijk_500 inderdaad_510 verkasten_244 , maar_700 laat_271 ik_300 ditmaal_500 nog_500 even_500 bij_600 dat_370 malle_103 fietsje_000 blijven_200 . >
+31159	< wij_300 dus_510 naar_600 amsterdam_010 . >
+31160	< alles_440 in_600 een_450 verhuisauto_000 . > 
+31161	< hij_300 graaide_255 zijn_330 vulpenhouder_000 van_600 zijn_330 bureau_000 en_700 gooide_255 die_360 uit_600 alle_453 macht_000 tegen_600 de_370 boekenkast_000 aan_600 stukken_001 . >
+31162	< daarna_540 stormde_245 hij_300 naar_600 buiten_500 , sprong_245 in_600 zijn_330 autootje_000 en_700 raasde_245 weg_500 . >
+31163	< toen_710 hij_300 terugkwam_245 was_275 hij_300 gekalmeerd_216 . >
+31164	< in_600 de_370 koude_103 achterkamer_000 keek_2550 hij_300 japie_010 ijzig_150 aan_6205 en_700 zei_255 : >
+31165	< " donder_2470 op_6205 , stommeling_000 en_700 voorgoed_500 ! " >
+31166	< zo_510 trok_255 japie_010 voor_600 het_370 laatst_157 de_370 deftige_103 deur_000 achter_600 zich_340 dicht_100 . >
+31167	< zonder_600 goeiendag_500 , ook_500 zonder_600 getuigschrift_000 . >
+31168	< een_450 familielid_000 gaf_255 hem_303 toen_510 wat_450 werk_000 . >
+31169	< niet_500 van_600 harte_003 en_700 misschien_500 omdat_710 het_370 loon_000 toch_500 erg_150 laag_100 was_275 , maar_700 japie_010 kreeg_255 zijn_330 betrekkinkje_000 . >
+31170	< hij_300 moest_275 helpen_230 bontjes_001 in_600 dozen_001 te_650 doen_210 . >
+31171	< later_154 plakte_255 hij_300 bonnetjes_001 in_600 mappen_001 . >
+31172	< japie_010 werkte_245 en_700 mocht_275 dus_510 ook_500 eten_200 . >
+31173	< toch_500 was_275 zijn_330 leven_000 grauw_100 . >
+31174	< het_440 werd_275 zomer_000 en_700 winter_000 en_700 tenslotte_510 oorlog_000 . >
+31175	< de_370 mensen_001 liepen_246 zenuwachtig_150 door_600 elkaar_340 heen_630 , sirenes_001 gilden_246 , er_510 hingen_246 brandwolken_001 boven_600 de_370 stad_000 , ramen_001 werden_276 dichtgeslagen_216 , het_440 was_275 een_450 halve_103 warboel_000 . >
+31176	< een_450 grijsgroen_100 leger_000 dreunde_2550 de_370 stad_000 binnen_6205 en_700 ging_245 niet_500 meer_500 weg_500 . >
+31177	< overal_510 zag_255 je_440 wagens_001 met_600 rupsbanden_001 . >
+31178	< op_600 de_370 stoep_000 van_600 een_450 groot_100 gebouw_000 stond_275 iemand_440 te_650 huilen_200 . >
+31179	< alles_440 was_275 een_450 heel_100 stuk_000 anders_500 geworden_236 . >
+31180	< japie_010 had_255 geen_450 werk_000 en_700 te_650 eten_210 had_255 hij_300 maar_500 een_450 klein_100 beetje_000 . >
+31181	< wel_500 was_275 de_370 zomer_000 mooi_100 en_700 japie_010 bezat_255 nu_510 ook_500 twee_470 jassen_001 , een_450 versleten_206 jas_000 voor_600 door_600 de_370 week_000 en_700 een_450 half_150 versleten_206 jas_000 voor_600 de_370 zondag_010 . >
+31182	< op_600 een_450 avond_000 fietste_245 japie_010 bij_600 schemer_000 door_600 de_370 stad_000 . >
+31183	< plotseling_150 reed_245 er_510 een_450 agent_000 naast_600 hem_303 . >
+31184	< hij_300 commandeerde_255 japie_010 om_650 af_6200 te_650 stappen_2005 . >
+31185	< maar_700 japie_010 vloog_245 er_5400 vandoor_6105 , een_450 hoek_000 om_640 en_700 een_450 smalle_103 gracht_000 op_640 , met_600 de_370 agent_000 achter_600 zich_340 aan_630 . >
+31186	< japie_010 hoorde_255 hem_303 hijgen_200 . >
+31187	< op_600 een_450 brug_000 voelde_255 hij_300 een_450 ruk_000 aan_600 zijn_330 bagagedrager_000 , alsof_710 hij_300 plotseling_150 een_450 zware_103 steen_000 moest_275 meetrekken_210 . > 
+31188	< niet_500 dat_710 ik_300 het_440 ook_500 wilde_275 worden_230 , het_440 was_275 meer_444 dat_370 stille_123 en_700 voorname_123 van_600 die_370 gedrukte_217 lettertjes_001 , ik_300 zag_255 ze_303 als_720 het_370 fijne_103 werk_000 waar_5600 niet_500 iedereen_440 zomaar_510 aan_6105 kon_275 meedoen_200 . >
+31189	< nu_510 komen_244 we_300 zo_510 langzamerhand_500 aan_600 de_370 eigenlijke_103 literaire_103 middag_000 , volgens_600 mijn_330 berekening_000 dus_510 in_600 1941_460 . >
+31190	< al_500 maanden_001 en_700 maanden_001 kwam_245 ik_300 niet_500 meer_500 aan_600 het_370 roelof-hartplein_010 . >
+31191	< die_370 gewoonte_000 was_275 vanzelf_500 weggesleten_206 . >
+31192	< en_700 toen_510 las_255 ik_300 , ik_300 meen_251 in_600 de_370 krant_000 , over_600 die_370 literaire_103 middag_000 , een_450 bericht_000 dat_420 ik_300 voor_600 kennisgeving_000 aannam_255 . >
+31193	< eerst_500 was_275 ik_300 helemaal_500 niet_500 van_600 plan_000 om_650 er_5400 naar_6105 toe_630 te_650 gaan_200 . >
+31194	< uiteindelijk_150 ging_245 ik_300 t`och_500 , waarschijnlijk_150 om_650 de_370 dag_000 een_450 eind_000 op_600 streek_000 te_650 helpen_210 . >
+31195	< ik_300 maakte_255 er_5400 zelfs_500 een_450 uitstapje_000 van_6105 . >
+31196	< dat_360 wil_273 zeggen_210 , ik_300 ging_245 niet_500 per_600 tram_000 , maar_700 besloot_255 op_600 mijn_330 gemak_000 te_650 gaan_230 lopen_200 . >
+31197	< vanwaar_530 ik_300 toentertijd_510 woonde_245 was_275 het_440 een_450 uur_000 naar_600 het_370 leidseplein_010 . >
+31198	< met_600 mijn_330 nieuwe_103 rubber_020 jas_000 aan_500 ging_245 ik_300 op_600 weg_000 . >
+31199	< de_370 tocht_000 viel_2450 me_303 niet_500 mee_6205 . >
+31200	< eerst_500 moest_275 ik_300 de_370 zeeburgerdijk_010 helemaal_500 af_640 , dan_510 die_370 lange_103 sarphatistraat_010 door_640 en_700 daarna_540 kreeg_255 je_440 nog_500 eens_500 de_370 weteringschans_010 om_650 het_370 lopen_201 niet_500 te_650 verleren_210 . >
+31201	< maar_700 eindelijk_500 arriveerde_245 ik_300 toch_500 bij_600 americain_010 . >
+31202	< de_370 toegang_000 was_275 gratis_100 . >
+31203	< in_600 de_370 marnixstraat_010 zag_255 ik_300 mensen_001 een_450 zij-ingang_000 binnengaan_210 en_700 trappen_001 op_640 en_700 ik_300 liep_2450 met_600 ze_303 mee_6205 en_700 zo_510 kwamen_246 we_300 in_600 bovenzaaltjes_001 terecht_500 . >
+31204	< inderdaad_510 waren_246 daar_510 nogal_500 wat_440 belangstellenden_204 . >
+31205	< in_600 een_440 van_600 die_370 zaaltjes_001 stond_245 een_450 lange_103 tafel_000 met_600 netjes_500 neergelegde_217 stukken_001 en_700 gedichten_001 van_600 nederlandse_103 schrijvers_001 . >
+31206	< de_370 namen_001 waren_276 dezelfde_340 als_720 in_600 de_370 tijdschriften_001 van_600 de_370 leeszaal_000 . >
+31207	< het_370 meeste_449 was_275 in_600 druk_000 , maar_700 er_5400 lagen_246 ook_500 papieren_001 in_600 handschrift_000 bij_6105 . >
+31208	< ik_300 herinner_251 me_340 nog_500 goed_150 dat_710 er_5400 een_450 kiekje_000 bij_6105 was_245 van_600 l.-th.-lehmann_010 , ergens_510 aan_600 een_450 vaart_000 met_600 riet_000 aan_600 de_370 kanten_001 . > 
+31209	< dat_360 is_273 met_600 onze_333 truck_000 ook_500 zo_510 . " >
+31210	< " truckie_000 , goeie_103 ouwe_103 truckie_000 , " zei_255 de_370 vrouw_000 . >
+31211	< " misschien_500 waren_276 de_370 mensen_001 vroeger_154 slecht_150 ter_603 been_000 , " merkte_2550 de_370 knecht_000 op_6205 . >
+31212	< de_370 baas_000 trok_255 een_450 scheef_100 , laatdunkend_100 lachje_000 . >
+31213	< kennelijk_150 vond_255 hij_300 dit_360 geen_450 argument_000 om_650 op_610 in_6200 te_650 gaan_2005 . >
+31214	< heb_271 ik_300 niet_500 slecht_150 gezegd_206 , dacht_255 de_370 knecht_000 . >
+31215	< hij_300 zit_243 toch_500 weer_500 even_500 omhoog_500 . >
+31216	< stiekem_150 keek_245 hij_300 naar_600 de_370 vrouw_000 . >
+31217	< ze_300 had_255 dikke_103 , korte_103 beentjes_001 , zo_510 kort_100 dat_710 ze_300 altijd_510 op_600 de_370 laagste_109 stoel_000 ging_275 zitten_200 , anders_500 haalden_256 haar_330 voeten_001 niet_500 eens_500 de_370 vloer_000 . >
+31218	< door_600 een_450 montuurloze_103 bril_000 keek_245 ze_300 op_600 haar_330 breiwerk_000 . >
+31219	< ach_800 ach_800 , helemaal_500 kop_000 en_700 kont_000 , dacht_255 de_370 knecht_000 . >
+31220	< misschien_500 heeft_253 ze_300 nog_500 wel_500 iets_440 in_600 huis_000 , maar_700 het_440 zit_243 allemaal_440 te_500 dicht_500 bij_600 elkaar_340 . >
+31221	< kinderen_001 ? >
+31222	< nee_800 , nooit_510 meer_500 . >
+31223	< al_500 over_600 de_370 leeftijd_000 . >
+31224	< werken_200 , dat_360 kan_253 ze_300 . >
+31225	< een_450 beetje_000 vals_100 is_273 ze_300 ook_500 nog_500 . >
+31226	< op_600 de_370 schoorsteenmantel_000 van_600 hier_510 en_700 daar_510 gebarsten_206 zwart_100 imitatie-marmer_000 stond_245 een_450 klok_000 . >
+31227	< de_370 kleine_103 wijzer_000 wees_2550 een_450 romeinse_103 9_000 aan_6205 , de_370 grote_103 wijzer_000 tikte_245 naar_600 de_370 6_000 . >
+31228	< er_510 klonk_245 een_450 zachte_103 ping_000 : het_440 was_275 half_100 negen_460 . >
+31229	< let_2470 op_6205 , dacht_255 de_370 knecht_000 , daar_510 komt_243 ze_300 . >
+31230	< " vort_800 mannen_001 ! " zei_255 de_370 vrouw_000 en_700 ze_300 pakte_255 haar_330 breiwerk_000 bijeen_500 . >
+31231	< " naar_600 bed_000 , vort_800 , vort_800 ! " >
+31232	< alle_453 drie_460 gingen_246 ze_300 dus_510 te_600 kooi_000 . >
+31233	< dat_360 beetje_000 wat_420 ze_300 in_600 huis_000 heeft_253 , dacht_255 de_370 knecht_000 , nee_800 , ze_300 slaapt_2430 direct_150 in_6205 met_600 zaagsel_000 in_600 haar_330 oren_001 en_700 de_370 rest_000 , ik_300 weet_251 het_440 wel_500 zeker_150 . >
+31234	< de_370 volgende_203 ochtend_000 gestommel_000 zoals_720 steeds_500 , gevolgd_216 door_600 een_450 korte_103 snerp_000 van_600 de_370 cirkelzaag_000 . >
+31235	< direct_150 uit_600 bed_000 probeerde_255 de_370 baas_000 hem_303 altijd_510 even_500 . >
+31236	< om_600 6_470 uur_000 ging_245 de_370 eerste_493 partij_000 hout_000 al_500 langs_600 de_370 zaag_000 . >
+31237	< eerst_500 was_275 het_440 de_370 baas_000 die_420 het_370 eigenlijke_103 zaagwerk_000 deed_255 , de_370 knecht_000 gaf_2550 het_370 hout_000 aan_6205 . >
+31238	< daarna_540 wisselden_2460 ze_300 om_6205 , niet_500 te_500 lang_150 want_700 de_370 baas_000 was_275 niet_500 sterk_100 in_600 tillen_200 . >
+31239	< de_370 vrouw_000 deed_255 de_370 bijklusjes_001 . > 
+31240	< of_700 zitten_274 ze_300 daar_510 te_650 dutten_200 . >
+31241	< hoe_520 dan_510 ook_500 , bovenstaande_103 notities_001 heb_271 ik_300 vooraf_500 laten_230 gaan_200 aan_600 een_450 weergave_000 van_600 de_370 laatste_109 knock-out_000 van_600 dit_370 verhaal_000 om_650 te_650 laten_230 zien_210 hoe_520 gemoedelijk_100 het_440 wel_500 is_273 wat_420 die_370 amateurs_001 laten_274 zien_210 . >
+31242	< een_450 boksavond_000 dan_510 , twee_470 jaar_001 geleden_500 , in_600 de_370 grote_103 zaal_000 van_600 het_370 amsterdamse_103 krasnapolsky_010 . >
+31243	< als_720 voorschotel_000 van_600 de_370 profpartijen_001 eerst_500 amateurs_001 . >
+31244	< een_450 slanke_103 jonge_103 neger_000 wordt_273 door_600 zijn_330 tegenstander_000 , gedrongen_100 en_700 sterk_100 als_720 een_450 beer_000 , vakkundig_150 gesloopt_216 . >
+31245	< hij_300 moet_273 mokerharde_103 stoten_001 op_600 zijn_330 kaak_000 incasseren_210 waardoor_560 hij_300 beduusd_100 en_700 onzeker_100 wordt_273 , zelfs_500 even_500 op_600 `e`en_470 knie_000 zakt_243 . >
+31246	< even_500 later_154 weer_500 zo'n_370 beuk_000 . >
+31247	< aangeslagen_100 leunt_243 hij_300 tegen_600 de_370 touwen_001 , zijn_330 tandbeschermer_000 hangt_243 half_150 uit_600 zijn_330 mond_000 . >
+31248	< op_600 " vijf_460 " van_600 de_370 scheidsrechter_000 schudt_243 hij_300 ontmoedigd_219 met_600 zijn_330 hoofd_000 van_600 nee_500 en_700 de_370 strijd_000 wordt_273 gestaakt_216 . >
+31249	< verloren_206 door_600 opgeven_200 . >
+31250	< de_370 volgende_203 partij_000 brengt_253 twee_470 zwaargewichten_001 in_600 de_370 ring_000 , beiden_441 lange_103 gestalten_001 , de_370 een_440 bovendien_510 zwaar_100 van_600 bot_000 met_600 bijzonder_150 forse_103 en_700 sterke_103 ledematen_001 . >
+31251	< de_370 ander_440 , hoewel_720 minder_454 robuust_150 gebouwd_216 , toch_500 ook_500 een_450 zwaargewicht_000 . >
+31252	< eerste_493 ronde_000 . >
+31253	< verkennen_200 met_600 hevig_150 stampende_203 voeten_001 . >
+31254	< wanneer_710 de_370 tweede_490 ronde_000 een_450 minuut_000 aan_600 de_370 gang_000 is_273 bevindt_263 de_370 zwaarst_107 gebouwde_217 bokser_000 zich_340 in_600 de_370 buurt_000 van_600 een_450 neutrale_103 hoek_000 , dat_360 wil_273 zeggen_210 een_450 hoek_000 waar_530 geen_450 helpers_001 buiten_600 de_370 touwen_001 zitten_244 . >
+31255	< de_370 ander_440 is_273 circa_500 dertig_470 centimeter_001 van_600 hem_303 af_630 . >
+31256	< plotseling_150 zwaait_253 deze_360 zijn_330 linkerhand_000 opwaarts_100 en_700 bof_800 ! het_370 in_600 de_370 bokswereld_000 bekende_103 geluid_000 van_600 een_450 zak_000 zand_000 die_420 op_600 een_450 houten_100 vloer_000 valt_243 . >
+31257	< maar_700 harder_154 dan_720 gewoon_150 dit_360 keer_000 , heel_500 erg_150 hard_150 . >
+31258	< de_370 getroffen_216 bokser_000 slaat_243 als_720 een_450 blok_000 achterover_500 tegen_600 het_370 canvas_000 , waar_530 hij_300 roerloos_100 blijft_273 liggen_200 . > 
+31259	< zo_510 kreeg_255 valerio-nu`nez_010 toch_500 nog_500 de_370 poet_000 . >
+31260	< buiten_600 de_370 kleedkamer_000 stond_245 hij_300 naast_600 enkele_453 nederlanders_001 van_600 wie_420 er_510 eentje_470 - was_275 het_300 meneer_000 ruhling_010 zelf_350 misschien_500 ? - de_370 duiten_001 uit_600 zijn_330 binnenzak_000 haalde_255 . >
+31261	< eerst_500 een_450 lafaard_000 zijn_230 en_700 dan_510 nog_500 met_600 geld_000 naar_600 huis_000 , het_440 kan_243 allemaal_440 maar_500 in_600 de_370 bokserij_000 . >
+31262	< toch_500 nog_500 een_450 goeie_103 avond_000 geweest_236 , zei_255 iemand_440 troostend_205 tegen_600 " ome_000 " piet-termeulen_010 . >
+31263	< nee_800 , dat_360 vind_251 ik_300 niet_500 , antwoordde_255 deze_360 met_600 omfloerste_217 stem_000 . >
+31264	< " als_710 ze_300 je_440 na_600 al_450 die_370 ellende_000 voor_600 zo'n_370 ene_453 avond_000 ook_500 nog_500 een_450 dief_000 noemen_254 , dan_510 vind_251 ik_300 dat_360 diep_150 treurig_100 . >
+31265	< dat_360 trek_2510 ik_300 me_340 aan_6205 . >
+31266	< ik_300 kan_241 daar_5400 niet_500 tegen_6105 . >
+31267	< van_600 iemand_440 die_420 valerios_010 aan_600 het_370 trainen_200 had_275 gezien_216 hoorde_255 ik_300 dat_710 het_300 absoluut_150 geen_450 slechte_103 jongen_000 was_275 , een_450 betere_106 jongen_000 dan_720 de_370 jongen_000 die_420 we_300 eerst_500 in_600 plaats_000 van_600 die_370 duitser_000 hadden_256 . >
+31268	< waardeloze_103 jongens_001 haal_251 ik_300 niet_500 hier_5400 naar_6105 toe_630 . >
+31269	< ik_300 vind_251 het_440 allemaal_440 diep_150 en_700 diep_150 treurig_100 . " >
+31270	< tegenover_600 ons_303 in_600 de_370 straat_000 , op_600 nummer_000 zoveel_450 drie_460 hoog_150 , woonde_245 het_370 gezin_000 b._010 , bestaande_203 uit_600 man_000 , vrouw_000 en_700 twee_470 opgeschoten_206 jongens_001 . >
+31271	< moeder_000 b._010 vertoonde_265 zich_340 zo_510 min_444 mogelijk_150 . >
+31272	< met_600 boodschappen_001 doen_210 wachtte_245 zij_300 tot_600 het_370 vallen_201 van_600 de_370 avond_000 . >
+31273	< dan_510 zag_255 je_440 haar_303 wel_500 eens_500 de_370 buitendeur_000 uitkomen_210 . >
+31274	< verder_154 was_275 moeder_000 b._010 niet_500 meer_444 dan_720 de_370 schim_000 van_600 een_450 vrouwenhoofd_000 achter_600 de_370 gordijnen_001 . >
+31275	< vader_000 b._010 daarentegen_510 verschool_265 zich_340 niet_500 in_600 het_370 minst_447 . >
+31276	< hij_300 was_275 een_450 stuurs_150 kijkende_203 potige_103 man_000 met_600 een_450 grauwe_103 walrussesnor_000 . >
+31277	< van_600 hem_303 mocht_275 de_370 wereld_000 weten_210 dat_710 hij_300 bestond_245 . >
+31278	< vaste_103 werktijden_001 scheen_275 hij_300 niet_500 te_650 hebben_210 . >
+31279	< op_600 zonderlinge_103 uren_001 namelijk_500 - zoals_720 stille_103 middagen_001 wanneer_710 alleen_500 de_370 vrouwen_001 en_700 zieken_121 volgens_600 recht_000 thuis_500 konden_276 zijn_200 - kwam_2450 hij_300 duidelijk_100 en_700 sterk_100 naar_600 buiten_500 en_700 begaf_265 zich_340 ergens_5400 heen_6105 . >
+31280	< het_370 hele_103 jaar_000 door_640 droeg_255 hij_300 altijd_510 dezelfde_350 afgedragen_216 winterjas_000 . >
+31281	< met_600 de_370 stad_000 had_2550 vader_000 b._010 kennelijk_150 niet_500 veel_440 op_6205 . > 
+31282	< in_600 zo'n_370 geval_000 was_275 het_370 bewuste_103 beest_000 trouwens_500 niet_500 te_650 bekomen_210 omdat_710 zijn_330 eigenaar_000 kennelijk_150 veel_450 te_500 groots_100 met_600 hem_303 was_275 , verder_154 omdat_710 hij_300 als_720 mooie_103 hond_000 voor_600 mij_303 vermoedelijk_150 te_500 hoog_100 in_600 prijs_000 zou_275 liggen_200 . >
+31283	< als_710 het_440 zo_510 doorging_245 zou_275 ik_300 zonder_600 hond_000 blijven_230 . >
+31284	< dat_360 zag_255 ik_300 aankomen_200 . >
+31285	< daarom_510 besloot_275 ik_300 in_600 vredesnaam_000 dan_510 maar_500 een_450 beetje_000 water_000 bij_600 de_370 wijn_000 te_650 doen_210 . >
+31286	< ontdekte_255 ik_300 een_450 charmante_103 en_700 betaalbare_103 hond_000 , dan_510 zou_275 ik_300 hem_303 kopen_210 . >
+31287	< wel_500 , ik_300 kocht_255 er_510 inderdaad_510 eentje_470 , geen_450 hond_000 maar_700 een_450 hondje_000 , een_450 beige_100 , ruwharig_100 hondje_000 . >
+31288	< hij_300 zat_245 in_600 de_370 etalage_000 van_600 een_450 direnwinkel_000 , een_450 heel_500 hebbelijk_100 levendig_100 beestje_000 was_275 het_300 met_600 een_450 paar_000 pientere_103 ogen_001 . >
+31289	< volgens_600 de_370 handelaar_000 was_275 het_300 een_450 boebelterri`er_000 , een_450 soortnaam_000 die_420 ik_300 weliswaar_500 nog_500 nooit_510 eerder_154 had_275 horen_210 noemen_210 , maar_700 waarvan_560 in_600 elk_450 geval_000 gemakkelijk_150 een_450 naam_000 was_275 te_650 maken_210 . >
+31290	< ik_300 noem_251 hem_303 gewoon_150 boebie_010 , dacht_255 ik_300 bij_600 mezelf_340 . >
+31291	< en_700 de_370 prijs_000 paste_245 me_303 ook_500 . >
+31292	< hij_300 kostte_255 namelijk_500 maar_500 vijftien_470 gulden_001 , inclusief_600 riem_000 . >
+31293	< ik_300 nam_2550 hem_303 dus_510 mee_6205 . >
+31294	< op_600 de_370 grachten_001 lag_245 sterk_100 ijs_000 met_600 grote_103 sneeuwhopen_001 en_700 dwars_150 door_600 die_370 sneeuwhopen_001 stoven_246 we_300 heen_630 , een_450 sport_000 waar_5600 we_300 allebei_440 veel_450 pret_000 aan_6105 beleefden_256 . >
+31295	< maar_700 toen_710 ik_300 hem_303 weer_500 aan_600 de_370 riem_000 wilde_275 leggen_210 voelde_255 hij_300 daar_5400 niks_440 voor_6105 . >
+31296	< hij_300 gromde_245 , liep_255 rondjes_001 om_600 me_303 heen_630 , deed_255 uitvallen_001 naar_600 me_303 , kortom_500 hij_300 ging_245 zo_510 tekeer_500 dat_710 ik_300 een_450 beetje_000 bang_100 van_600 hem_303 werd_275 . >
+31297	< ten_603 einde_000 raad_000 stapte_2550 ik_300 het_370 ijs_000 maar_500 af_6205 , het_370 hondje_000 ook_500 . >
+31298	< ik_300 liep_245 terug_500 naar_600 de_370 dierenwinkel_000 , het_370 hondje_000 achter_600 me_303 aan_630 . >
+31299	< die_370 hond_000 is_273 stapelgek_100 , zei_255 ik_300 tegen_600 de_370 man_000 , ik_300 moet_271 hem_303 niet_500 hebben_210 . >
+31300	< dat_360 vond_255 hij_300 best_107 , al_730 zei_255 hij_300 wel_500 dat_710 er_5400 geen_450 sprake_000 van_6105 was_245 dat_710 het_370 hondje_000 gek_100 was_275 . > 

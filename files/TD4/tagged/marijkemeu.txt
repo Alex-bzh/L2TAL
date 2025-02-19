@@ -1,0 +1,204 @@
+21538	< zo_580 , het_440 was_275 eruit_540 . >
+21539	< " annebet_010 ? " >
+21540	< " ja_800 madame_000 , " knikte_255 albertien_010 en_700 haar_330 ogen_001 begonnen_276 te_650 schitteren_200 , " annebet_010 is_273 ons_330 dochtertje_000 . >
+21541	< en_700 denkt_252 u_300 ook_500 niet_500 , dat_710 het_440 belangrijk_100 is_273 voor_600 een_450 soldaat_000 om_650 te_650 weten_210 , dat_710 zijn_330 vrouw_000 en_700 zijn_330 kinderen_001 het_440 goed_100 maken_210 en_700 aan_600 hem_303 denken_200 " ? >
+21542	< de_370 prinses_000 frommelde_245 even_500 aan_600 de_370 brief_000 . >
+21543	< ze_300 bedacht_255 , dat_710 zij_300 over_600 een_450 half_100 jaar_000 hetzelfde_340 zou_275 kunnen_230 denken_210 . >
+21544	< ze_300 wist_255 nu_510 zeker_100 , dat_710 ze_300 in_600 verwachting_000 was_275 . >
+21545	< aan_600 niemand_440 had_275 ze_300 het_303 nog_500 verteld_216 , alleen_500 had_275 ze_300 friso_010 geschreven_216 , dat_710 ze_300 misschien_500 een_450 grote_103 verrassing_000 voor_600 hem_303 had_255 . >
+21546	< " dat_360 is_273 zeker_150 belangrijk_100 , juffer_000 geurts_010 . >
+21547	< schrijf_257 maar_500 een_450 briefje_000 en_700 breng_257 me_303 dat_360 morgen_500 om_600 deze_370 tijd_000 . >
+21548	< denk_247 eraan_540 , niemand_440 mag_273 het_440 weten_210 . " >
+21549	< albertiens_012 hart_000 klopte_245 in_600 haar_330 keel_000 . >
+21550	< hoe_520 kon_245 het_440 , ze_300 had_255 een_450 geheim_000 met_600 de_370 prinses_000 . >
+21551	< ze_300 boog_245 nog_500 eens_500 diep_150 en_700 ging_245 , na_600 een_450 knikje_000 van_600 de_370 prinses_000 , vlug_150 naar_600 binnen_500 . >
+21552	< gelukkig_100 , juffer_000 engberts_010 was_245 er_510 nog_500 niet_500 . >
+21553	< maria-louisa_010 zette_265 zich_340 op_600 de_370 witte_103 bank_000 en_700 begon_275 te_650 lezen_200 . >
+21554	< " matreschere-princesse_010 , mijn_330 zeer_500 lieve_103 prinses_000 . " >
+21555	< gewoonlijk_150 begon_255 hij_300 zijn_330 brieven_001 eenvoudig_150 met_600 " madame_000 " en_700 de_370 vorige_103 brief_000 had_255 helemaal_500 geen_450 aanhef_000 . >
+21556	< dat_360 was_275 trouwens_500 een_450 raar_100 epistel_000 geweest_236 . >
+21557	< ze_300 had_275 hem_303 onder_500 in_600 haar_330 brievendoos_000 gestopt_216 . >
+21558	< weggooien_210 wilde_275 ze_300 hem_303 niet_500 , maar_700 niemand_440 mocht_275 hem_303 ooit_510 vinden_210 . >
+21559	< hij_300 was_275 beslist_209 niet_500 nuchter_100 geweest_236 , toen_710 hij_300 hem_303 schreef_255 . >
+21560	< " wij_300 zitten_244 buiten_500 op_600 de_370 trommels_001 . >
+21561	< de_370 wijn_000 schuimt_243 in_600 de_370 bekers_001 , want_700 er_510 is_243 veel_440 te_650 vieren_210 . >
+21562	< wij_300 logeren_244 in_600 het_370 nonnenklooster_000 van_600 beaupr`e_010 . >
+21563	< er_510 zijn_244 dertig_470 nonnen_001 , maar_700 er_5400 is_243 geen_450 enkele_453 knappe_103 bij_6105 . >
+21564	< grace`a-dieu_500 kunnen_274 we_300 drinken_200 op_600 jouw_330 gezondheid_000 , als_710 het_440 tenminste_510 waar_100 is_273 , wat_420 ieder_440 hier_510 vertelt_253 als_720 iets_440 stelligs_102 , maar_700 wat_420 ik_300 nog_500 niet_500 positief_150 van_600 jou_303 gehoord_216 heb_271 . >
+21565	< we_300 nemen_254 er_5400 eentje_470 op_6105 . > 
+21566	< maria-louisa_010 kuste_255 de_370 brief_000 , wat_420 een_450 smalend_202 lachje_000 op_600 het_370 gezicht_000 van_600 haar_330 schoonmoeder_000 bracht_255 . >
+21567	< maar_700 dat_360 kon_275 haar_303 niets_440 schelen_210 . >
+21568	< het_440 liet_255 haar_303 koud_100 hoe_520 anderen_441 dachten_246 over_600 haar_330 uitvoerige_103 correspondentie_000 met_600 friso_010 . >
+21569	< o_800 nee_800 , ze_300 zou_275 niet_500 ongeduldig_100 worden_230 . >
+21570	< het_370 belangrijkste_129 was_275 dat_710 die_370 vervelende_202 erfeniskwestie_000 nu_510 wellicht_500 opgelost_216 werd_275 . >
+21571	< " mama_000 , uw_330 zoon_000 laat_273 u_303 groeten_210 , " zei_255 ze_300 niet_500 geheel_150 naar_600 waarheid_000 . >
+21572	< " hij_300 schrijft_253 , dat_710 het_370 testament_000 van_600 de_370 grote_103 willem_010 waarschijnlijk_150 niet_500 meer_500 betwist_216 zal_273 worden_230 . >
+21573	< is_273 dat_360 niet_500 heerlijk_100 ? " >
+21574	< prinses_000 amalia_010 nam_255 een_450 bonbon_000 en_700 zei_255 smakkend_205 : " dan_510 hebben_274 we_300 dus_510 niet_500 tevergeefs_500 geageerd_206 . " >
+21575	< we_300 , het_440 mocht_255 wat_440 , dacht_255 maria-louisa_010 , maar_700 ze_300 zweeg_245 wijselijk_150 . >
+21576	< we_300 ? >
+21577	< friso's_012 moeder_000 had_275 er_5400 nooit_510 enige_453 moeite_000 voor_6105 gedaan_216 . >
+21578	< nog_500 eens_500 las_255 ze_300 de_370 brief_000 . >
+21579	< toen_510 viel_245 er_510 een_450 papiertje_000 uit_600 het_370 omslag_000 . >
+21580	< nieuwsgierig_150 vouwde_255 ze_300 het_303 open_100 . >
+21581	< het_370 was_275 onduidelijk_150 geschreven_216 , de_370 inhoud_000 drong_2450 niet_500 dadelijk_500 tot_600 haar_303 door_6205 . >
+21582	< " joris-geurts_010 ... gevallen_206 ... verzoek_251 ik_300 u_303 persoonlijk_150 zijn_330 beproefde_217 weduwe_000 mee_6200 te_650 delen_2105 ... hier_510 begraven_216 ... " >
+21583	< de_370 man_000 van_600 kantstrijkster_000 albertien_010 ? >
+21584	< maar_700 dat_360 was_275 vreselijk_100 . >
+21585	< met_600 trillende_203 vingers_001 vouwde_255 ze_300 beide_440 brieven_001 dicht_100 . >
+21586	< ze_300 staarde_245 naar_600 de_370 boomtoppen_001 , waar_530 de_370 vogels_001 verdwenen_206 waren_276 tussen_600 het_370 groen_120 . >
+21587	< schoonmoeder_000 amalia_010 stak_255 weer_500 een_450 bonbon_000 in_600 de_370 mond_000 . >
+21588	< de_370 freule_000 veegde_255 met_600 een_450 roze_100 zakdoekje_000 het_370 zweet_000 van_600 haar_330 neus_000 . >
+21589	< binnen_500 was_245 het_370 geluid_000 van_600 mannenstemmen_001 , ergens_510 zong_245 een_450 vrouw_000 . >
+21590	< albertien-geurts_010 ? >
+21591	< en_700 zij_300 moest_275 het_440 de_370 vrouw_000 zelf_340 vertellen_210 ? >
+21592	< " wat_450 word_272 je_300 bleek_100 . " >
+21593	< prinses_000 amalia_010 keek_245 onderzoekend_205 . >
+21594	< " gaat_273 het_440 beginnen_200 ? >
+21595	< het_440 is_273 nu_510 zeven_470 maanden_001 , je_440 hoort_252 het_440 wel_500 vaker_504 . >
+21596	< en_700 met_600 deze_370 hitte_000 ... " >
+21597	< maria-louisa_010 kon_275 geen_450 woord_000 uitbrengen_210 . >
+21598	< ze_300 reikte_2550 het_370 briefje_000 over_6205 . >
+21599	< " ik_300 zal_271 straks_500 naar_600 haar_330 huis_000 gaan_200 . " >
+21600	< " dat_360 kunt_272 u_300 niet_500 doen_210 . " > 
+21601	< ziet_252 u_300 niet_500 hoe_520 zwak_100 de_370 moeder_000 nog_500 is_273 en_700 hoe_520 u_300 haar_303 opwindt_252 ? >
+21602	< ze_300 zal_273 door_600 uw_330 schuld_000 nog_500 koorts_000 krijgen_210 ! " >
+21603	< prinses_000 amalia_010 haalde_255 diep_150 adem_000 , haar_330 neusvleugels_001 stonden_246 wijduit_500 . >
+21604	< " vrouw_000 " , siste_255 ze_300 , " maak_257 dat_710 je_300 uit_600 de_370 kamer_000 komt_242 . >
+21605	< verdwijn_247 ! >
+21606	< je_300 kunt_272 je_330 loon_000 uitbetaald_216 krijgen_210 en_700 dan_510 ben_272 je_300 ontslagen_216 ! " >
+21607	< maria-louisa's_012 gezicht_000 werd_275 vuurrood_100 of_710 iemand_440 haar_303 een_450 klap_000 had_275 gegeven_216 . >
+21608	< ze_300 richtte_2650 zich_340 op_6205 , haar_330 ogen_001 vonkten_246 . >
+21609	< met_600 overslaande_203 stem_000 riep_255 ze_300 : " mama_000 , wilt_272 u_300 eraan_540 denken_200 , dat_710 er_510 in_600 dit_370 huis_000 maar_700 `e`en_440 is_243 , die_420 mijn_330 personeel_000 kan_273 aannemen_210 en_700 ontslaan_210 ? >
+21610	< en_700 dat_360 ben_271 ik_300 zelf_350 . >
+21611	< blijf_247 hier_510 , janneke-bogaers_010 , zijne_333 doorluchtige_103 hoogheid_000 moet_273 weer_500 in_600 zijn_330 wieg_000 gelegd_216 worden_230 . " >
+21612	< diep_150 beledigd_209 bleef_275 prinses_000 amalia_010 nog_500 een_450 ogenblik_000 staan_200 voor_710 ze_300 de_370 freule_000 wenkte_255 haar_303 te_650 volgen_200 . >
+21613	< " het_440 staat_243 je_303 mooi_100 " , snauwde_255 ze_300 , " partij_000 te_650 kiezen_210 voor_600 een_450 meid_000 in_600 plaats_000 van_600 voor_600 de_370 moeder_000 van_600 je_330 overleden_100 man_000 . >
+21614	< ik_300 moet_271 je_303 zeggen_210 , het_440 staat_243 je_303 prachtig_100 . " >
+21615	< radeloos_150 kneep_255 maria-louisa_010 haar_330 vuisten_001 ineen_500 . >
+21616	< ze_300 kon_275 zich_340 niet_500 meer_500 beheersen_220 en_700 barstte_2450 in_600 tranen_001 uit_6205 . >
+21617	< het_440 gelukte_275 janneke_010 niet_500 haar_303 tot_600 bedaren_200 te_650 brengen_210 . >
+21618	< " toenou_800 madame_000 , toenou_800 . >
+21619	< ze_300 is_273 alweer_500 weg_500 . >
+21620	< ach_800 , kijk_247 nu_510 naar_600 de_370 kleine_123 , hij_300 begint_273 ook_500 al_500 te_650 huilen_200 . " >
+21621	< maar_700 de_370 prinses_000 kon_275 niet_500 ophouden_200 , haar_330 huilen_201 ging_2450 over_6205 in_600 gierend_205 lachen_200 . >
+21622	< haar_330 hele_103 lichaam_000 schokte_245 , het_440 werd_275 zwart_100 voor_600 haar_330 ogen_001 . >
+21623	< ze_300 wilde_245 niet_500 meer_500 . >
+21624	< ze_300 wilde_255 niets_440 meer_500 ... >
+21625	< janneke_010 bette_255 haar_330 voorhoofd_000 met_600 reukwater_000 . >
+21626	< wat_400 moet_271 ik_300 doen_210 , dacht_255 ze_300 ontredderd_150 . >
+21627	< is_243 er_510 dan_510 niemand_440 die_420 mij_303 even_500 kan_271 helpen_210 ? >
+21628	< ze_300 opende_255 de_370 kamerdeur_000 en_700 keek_2550 de_370 gang_000 in_6205 . >
+21629	< juist_150 op_600 dat_370 ogenblik_000 kwam_275 albertien_010 aanlopen_200 met_600 een_450 mand_000 vol_100 schoon_100 wiegegoed_000 . >
+21630	< " kom_247 gauw_500 ! " wenkte_255 ze_300 . >
+21631	< " onze_333 prinses_000 heeft_253 een_450 zenuwaanval_000 . >
+21632	< ik_300 weet_251 me_303 geen_450 raad_000 ! " >
+21633	< voor_710 albertien_010 besefte_255 wat_400 er_510 gebeurde_245 , stond_245 ze_300 in_600 de_370 prinselijke_103 kraamkamer_000 . > 
+21634	< madame_000 petri_010 is_273 een_450 bijzondere_103 vrouw_000 , heel_500 erg_150 gesteld_100 op_600 goede_103 vormen_001 en_700 manieren_001 en_700 op_600 een_450 briljante_103 conversatie_000 . >
+21635	< als_710 zij_300 nu_510 eens_500 bereid_100 was_275 annabelle_010 op_6200 te_650 leiden_2105 . >
+21636	< denk_2471 er_5400 eens_500 over_6105 na_6206 en_700 hoor_257 eens_500 wat_400 zij_300 er_5400 zelf_340 van_6105 denkt_253 . " >
+21637	< " als_710 het_300 maar_500 niet_500 een_450 freule_000 met_600 prikogen_001 is_273 , " was_275 het_370 enige_123 wat_420 annabelle_010 zei_255 . >
+21638	< " en_700 als_710 ik_300 zelf_350 ook_500 maar_500 niet_500 zo_510 word_271 . " >
+21639	< " dat_710 je_300 niet_500 helemaal_500 van_600 streek_000 bent_272 na_600 zo'n_370 aanbod_000 " , zei_255 moeder_000 albertien_010 hoofdschuddend_150 . >
+21640	< " ik_300 niet_500 , hoor_287 ! >
+21641	< en_700 nu_510 zal_273 berend_010 eens_500 horen_210 , dat_710 het_440 helemaal_500 zo_510 gek_100 niet_500 klinkt_243 : freule_000 annabelle_010 . " >
+21642	< de_370 weken_001 op_600 het_370 woud_010 vlogen_246 voorbij_150 . >
+21643	< zonder_600 de_370 drukte_000 en_700 de_370 verplichtingen_001 van_600 het_370 hof_000 was_275 de_370 prinses_000 tot_600 rust_000 gekomen_206 . >
+21644	< ze_300 had_275 tijd_000 gehad_216 voor_600 bijbellezen_001 en_700 overdenkingen_001 . >
+21645	< ze_300 had_275 de_370 staten-generaal_011 een_450 brief_000 geschreven_216 , waarin_560 ze_300 de_370 kleine_103 friso_010 , die_420 " kindvan-staat_010 " genoemd_216 werd_275 , ook_500 werkelijk_150 in_600 de_370 zorgen_001 van_600 het_370 hoge_103 college_000 aanbeval_255 . >
+21646	< ze_300 was_275 zo_510 vrij_100 geweest_236 de_370 heren_001 te_650 wijzen_200 op_600 de_370 onduldbare_103 handelwijze_000 van_600 de_370 koning_000 van_600 pruisen_010 , die_420 zich_340 nu_510 eenvoudig_150 het_370 kasteel_000 meurs_010 had_275 toege`eigend_216 , en_700 ze_300 had_275 gevraagd_216 haast_000 te_650 maken_210 met_600 de_370 uitvoering_000 van_600 het_370 testament_000 . >
+21647	< allemaal_440 zaken_001 , die_420 ze_300 niet_500 eerder_154 had_275 durven_230 aanroeren_210 . >
+21648	< nu_510 verlangde_245 ze_300 weer_500 naar_600 huis_000 . >
+21649	< de_370 kinderen_001 niet_500 . >
+21650	< het_370 spelen_201 in_600 de_370 bossen_001 , het_370 rijden_201 met_600 de_370 bokkewagen_000 , het_440 beviel_245 hun_303 veel_450 te_500 goed_150 . >
+21651	< " we_300 laten_274 de_370 bokkewagen_000 naar_600 leeuwarden_010 brengen_210 , " beloofde_255 ze_300 . >
+21652	< " de_370 tuin_000 daar_510 is_273 groot_100 genoeg_450 om_650 in_610 te_650 rijden_200 . " >
+21653	< al_450 de_370 dagen_001 op_600 het_370 oranjewoud_010 was_275 er_510 geen_450 regen_000 gevallen_206 . >
+21654	< op_600 de_370 morgen_000 van_600 hun_330 vertrek_000 gutste_245 het_370 water_000 bij_600 bakken_001 uit_600 de_370 hemel_000 . >
+21655	< vrouw_000 simoons_010 liep_245 met_600 een_450 paraplu_000 heen_500 en_700 weer_500 om_650 iedereen_440 droog_100 in_600 de_370 koetsen_001 te_650 krijgen_210 . >
+21656	< friso_010 zag_255 nog_500 kans_000 weg_500 te_650 glippen_200 . > 
+21657	< de_370 statenvan-holland_001 , die_420 hem_303 nog_500 steeds_500 niet_500 erkenden_256 , waren_276 wel_500 gesteld_100 op_600 goede_103 vriendschap_000 met_600 engeland_010 . >
+21658	< in_600 het_370 begin_000 was_275 zij_300 wel_500 bang_100 geweest_236 , dat_710 het_370 engelse_103 koningspaar_000 wat_440 op_600 friso_010 neer_6200 zou_275 kijken_2005 , maar_700 door_600 een_450 brief_000 , die_420 ze_300 ontvangen_216 had_275 van_600 een_450 vriendin_000 , wist_255 ze_300 dat_710 haar_330 jongen_000 bijzonder_150 goed_150 in_600 engeland_010 was_275 ontvangen_216 . >
+21659	< deze_370 vriendin_000 had_275 een_450 brief_000 gehad_216 van_600 een_450 kamerheer_000 van_600 anne's_012 vader_000 . >
+21660	< " hij_300 heeft_273 blijkbaar_150 een_450 goede_103 opvoeding_000 genoten_216 en_700 een_450 vrijheid_000 en_700 gemakkelijkheid_000 in_600 de_370 omgang_000 , die_420 men_440 alleen_500 krijgt_253 door_650 veel_440 in_600 de_370 wereld_000 te_650 verkeren_200 . >
+21661	< hij_300 heeft_253 een_450 goed_100 , knap_100 gezicht_000 , maar_700 zijn_330 gestalte_000 is_273 niet_500 zo_510 gunstig_100 als_710 men_440 zou_275 wensen_200 , ofschoon_710 niet_500 zo_510 lelijk_100 als_720 ik_300 gehoord_206 had_275 . >
+21662	< hij_300 heeft_253 niet_500 de_370 minste_449 stijve_103 statigheid_000 , maar_700 is_273 vriendelijk_100 en_700 innemend_202 , zoals_710 het_440 iemand_440 past_243 , die_420 zich_340 in_600 een_450 gouvernement_000 als_720 dit_360 wil_273 verheffen_220 . >
+21663	< hij_300 heeft_253 een_450 bijzonder_100 zelfvertrouwen_000 , zoals_710 men_440 alleen_500 vindt_243 bij_600 erfgenamen_001 van_600 hoge_103 titels_001 en_700 aanspraken_001 . >
+21664	< wat_420 zijn_330 verwrongen_216 figuur_000 betreft_253 , hij_300 schijnt_273 het_303 zelf_340 geheel_150 te_650 vergeten_210 en_700 hij_300 heeft_253 het_370 talent_000 om_650 het_303 ook_500 anderen_441 te_650 doen_230 vergeten_210 . >
+21665	< onze_333 geliefde_103 prinses_000 duldt_253 geen_450 enkele_453 kritiek_000 op_600 haar_330 verloofde_217 . >
+21666	< zij_300 is_273 werkelijk_150 verliefd_100 op_600 hem_303 en_700 noemt_253 hem_303 " mon_990 adorable_990 p`epin_990 " . " >
+21667	< maria-louisa_010 moest_275 glimlachen_200 om_600 die_370 woorden_001 . >
+21668	< alles_440 scheen_275 goed_100 te_650 zullen_230 komen_200 . >
+21669	< de_370 avond_000 ging_245 voorbij_150 met_600 het_370 beantwoorden_211 van_600 haar_330 post_000 . >
+21670	< naar_600 engeland_010 schreef_255 ze_300 dankbaar_100 te_650 zijn_230 voor_600 het_370 herstel_000 van_600 krachten_001 van_600 haar_330 zoon_000 . >
+21671	< ze_300 repte_245 al_500 over_600 de_370 hervormingen_001 , die_420 hij_300 na_600 zijn_330 thuiskomst_000 zou_275 moeten_230 invoeren_210 . >
+21672	< de_370 schutterij_000 moest_275 meer_454 macht_000 krijgen_210 , zodat_710 roofovervallen_001 en_700 straatterreur_000 bedwongen_216 konden_276 worden_230 . >
+21673	< voor_600 de_370 nacht_000 kwam_275 annabelle_010 haar_330 meesteres_000 verzorgen_210 , ze_300 zag_245 er_5400 uitgerust_206 en_700 ontspannen_206 uit_6105 . >
+21674	< " ik_300 heb_271 over_600 je_330 vreselijke_103 avontuur_000 nagedacht_206 , annabelle_010 , en_700 ik_300 zal_271 het_440 niet_500 goedvinden_210 , dat_710 jij_300 voortaan_500 alleen_100 bij_600 donker_000 over_600 straat_000 gaat_243 . > 
+21675	< zij_300 voelde_255 het_440 als_720 een_450 belediging_000 toen_710 hij_300 benoemd_216 werd_275 tot_600 luitenant-generaal_000 . >
+21676	< gedurende_600 de_370 laatste_109 veldtocht_000 was_275 gebleken_206 over_600 welke_413 uitnemende_103 kwaliteiten_001 als_720 aanvoerder_000 hij_300 beschikte_245 . >
+21677	< een_450 ondergeschikte_217 rang_000 ? >
+21678	< nee_800 , ze_300 vond_255 , dat_710 hij_300 daarvoor_540 terecht_500 bedankte_245 . >
+21679	< als_710 hij_300 voor_600 langere_106 tijd_000 afwezig_100 was_275 , reisde_245 zij_300 naar_600 engeland_010 . >
+21680	< het_440 was_275 heerlijk_100 de_370 oude_103 vriendinnen_001 weer_500 te_650 zien_210 , concerten_001 te_650 beluisteren_210 en_700 met_600 de_370 honden_001 in_600 de_370 tuinen_001 van_600 het_370 paleis_000 te_650 spelen_200 . >
+21681	< het_370 wonderlijke_123 was_275 echter_500 , dat_710 zij_300 altijd_510 op_600 vragen_001 van_600 haar_330 vriendinnen_001 antwoordde_245 , dat_710 ze_300 blij_100 was_275 weer_500 eens_500 in_600 " goodold-england_010 " te_650 zijn_200 , maar_700 dat_710 ze_300 toch_500 alweer_500 naar_600 huis_000 verlangde_245 . >
+21682	< friso_010 was_275 namelijk_500 de_370 geweldigste_109 man_000 , die_420 een_450 vrouw_000 zich_340 maar_500 wensen_210 kon_275 . >
+21683	< het_440 werd_275 najaar_000 1742_460 . >
+21684	< bij_600 berend_010 en_700 annabelle_010 had_275 de_370 wieg_000 gestaan_206 . >
+21685	< moeder_000 albertien_010 was_275 over_500 geweest_236 om_650 haar_330 kleinkind_000 te_650 bakeren_210 . >
+21686	< annabelle_010 had_275 de_370 prinses_000 gevraagd_216 of_710 zij_300 het_370 kleintje_000 naar_600 haar_303 mochten_276 noemen_210 . >
+21687	< toen_710 dat_360 in_600 het_370 paleis_000 bekend_100 werd_275 , mompelde_255 men_440 , dat_710 zij_300 het_440 alleen_500 gevraagd_216 had_275 om_650 de_370 prinses_000 in_600 het_370 gevlij_000 te_650 komen_200 . >
+21688	< annabelle_010 lachte_245 wat_440 om_600 die_370 praatjes_001 . >
+21689	< alsof_710 zij_300 dat_360 nodig_100 had_255 . >
+21690	< in_600 de_370 jaren_001 , dat_530 zij_300 voor_600 maria-louisa_010 werkte_245 , was_275 zij_300 haar_330 vertrouwelinge_000 geworden_236 . >
+21691	< zij_300 kende_255 meer_454 hartsgeheimen_001 van_600 de_370 prinses_000 dan_720 wie_400 ook_500 en_700 die_360 waren_276 bij_600 haar_303 volkomen_150 veilig_100 . >
+21692	< " je_300 wilt_273 de_370 kleine_123 maria_010 noemen_210 ? >
+21693	< zo'n_370 gewone_103 naam_000 . " >
+21694	< " maria_010 als_720 doopnaam_000 , madame_000 . >
+21695	< wij_300 zouden_276 haar_303 graag_150 marijke_010 noemen_210 . >
+21696	< met_600 uw_330 toestemming_000 , bedoel_251 ik_300 . " >
+21697	< de_370 prinses_000 was_275 zelf_340 bij_600 de_370 doopplechtigheid_000 aanwezig_100 en_700 thuisgekomen_206 liet_255 ze_300 haar_330 gedachten_001 de_370 vrije_103 loop_000 . >
+21698	< ze_300 dacht_245 aan_600 anna_010 , die_420 al_500 tweemaal_500 een_450 kindje_000 had_275 gekregen_216 , maar_700 het_303 beide_450 keren_001 niet_500 had_275 mogen_230 houden_210 . >
+21699	< acht_470 jaren_001 waren_276 ze_300 nu_510 getrouwd_216 en_700 na_600 haar_330 teleurstellingen_001 had_275 anna_010 zich_340 in_600 het_370 societyleven_000 gestort_226 . >
+21700	< ze_300 organiseerde_255 grote_103 feesten_001 , waarvan_560 ze_300 zelf_350 het_370 middelpunt_000 was_275 . > 
+21701	< ze_300 moest_275 hem_303 dadelijk_500 terugschrijven_200 . >
+21702	< " ik_300 meende_255 u_303 te_500 kort_150 te_650 doen_200 , " als_710 ik_300 uw_330 titel_000 niet_500 veranderde_255 . >
+21703	< maar_700 als_710 gij_300 het_440 niet_500 wilt_252 , zal_271 ik_300 mij_340 neerleggen_220 bij_600 uw_330 wens_000 . >
+21704	< het_440 is_273 waar_100 , men_440 heeft_273 familiariteit_000 nodig_100 om_650 zijn_330 gevoelens_001 naar_600 waarheid_000 uit_6200 te_650 drukken_2105 . " >
+21705	< het_440 was_275 heerlijk_100 om_650 rustig_150 thuis_500 te_650 zijn_200 . >
+21706	< ze_300 kon_275 nu_510 helemaal_500 haar_330 eigen_350 leven_000 leiden_210 . >
+21707	< thuis_500 had_255 ze_300 haar_330 kleine_103 bezigheden_001 , ze_300 las_245 veel_440 en_700 in_600 de_370 vrije_103 uurtjes_001 handwerkte_245 ze_300 . >
+21708	< ze_300 nam_245 ook_500 deel_000 aan_600 feesten_001 en_700 theemiddagen_001 van_600 de_370 vooraanstaande_103 families_001 , maar_700 ze_300 besteedde_255 er_5400 niet_500 meer_454 tijd_000 aan_6105 dan_720 aan_600 haar_330 ziekenbezoeken_001 . >
+21709	< ze_300 liet_275 zich_340 brengen_210 naar_600 gezinnen_001 waar_530 rouw_000 heerste_245 en_700 ze_300 stuurde_255 annabelle_010 met_600 levensmiddelen_001 of_700 gedragen_216 kleren_001 naar_600 de_370 armsten_129 . >
+21710	< bij_600 het_370 gezin_000 gebkes_010 was_275 annabelle_010 nog_500 altijd_510 een_450 vaste_103 klant_000 . >
+21711	< de_370 prinses_000 had_275 voor_600 vrouw_000 gebkes_010 een_450 goed_100 woordje_000 gedaan_216 bij_600 de_370 diakonie_000 en_700 ze_300 had_275 een_450 andere_453 woning_000 gekregen_216 . >
+21712	< het_370 huis_000 bij_600 de_370 poort_000 was_275 te_500 duur_100 voor_600 een_450 weduwe_000 en_700 nu_510 woonde_245 ze_300 met_600 haar_330 jongste_109 kinderen_001 in_600 een_450 keurig_100 , klein_100 huisje_000 aan_600 het_370 luilekkerland_010 , een_450 buurtje_000 bij_600 de_370 nieuweburen_010 . >
+21713	< ze_300 hoefde_275 geen_450 huur_000 te_650 betalen_210 en_700 bovendien_510 kreeg_255 ze_300 van_600 de_370 diakenen_001 elke_453 week_000 een_450 brood_000 en_700 's_372 winters_002 een_450 korf_000 turf_000 . >
+21714	< de_370 enige_103 voorwaarde_000 was_275 , dat_710 ze_300 haar_330 huisje_000 " zindelijk_150 zou_275 bewonen_210 en_700 geen_450 andere_453 lieden_001 bij_600 haar_303 zou_275 laten_230 inwonen_200 " . >
+21715	< nu_580 , daaraan_540 kon_275 ze_300 zich_340 gemakkelijk_150 houden_220 . >
+21716	< de_370 grootste_109 kinderen_001 verdienden_256 al_500 iets_440 bij_600 een_450 baas_000 en_700 de_370 meisjes_001 leerden_276 naaien_200 . >
+21717	< er_510 heerste_245 geen_450 armoe_000 meer_500 en_700 annabelle_010 liep_2450 er_510 graag_150 eens_500 binnen_6205 . >
+21718	< na_600 de_370 teleurstelling_000 die_420 ze_300 had_275 gehad_216 toen_710 haar_330 tweede_490 dochtertje_000 een_450 week_000 na_600 de_370 geboorte_000 stierf_245 , kon_275 ze_300 soms_510 erg_150 ongedurig_100 zijn_230 . >
+21719	< zolang_710 ze_300 werk_000 had_255 , was_275 het_440 goed_100 , dan_510 was_245 er_510 geen_450 tijd_000 om_650 na_6200 te_650 denken_2005 . > 
+21720	< annabelle_010 niet_500 moest_275 schrikken_200 , maar_700 berend_010 was_275 een_450 ongeval_000 overkomen_206 . >
+21721	< hij_300 had_275 een_450 trap_000 van_600 een_450 paard_000 gehad_216 en_700 daarbij_540 was_275 zijn_330 rug_000 bezeerd_216 . >
+21722	< hij_300 kon_275 nog_500 niet_500 weer_500 lopen_200 , maar_700 gelukkig_150 had_255 hij_300 een_450 goede_103 verzorging_000 en_700 onderdak_000 gevonden_216 in_600 het_370 koetsiershuis_000 van_600 het_370 slot_000 bij_600 vrouw_000 b`arbel_010 , die_420 vroeger_154 kookster_000 was_275 op_600 het_370 slot_000 en_700 die_420 haar_303 als_720 meisje_000 wel_500 had_275 opgepast_216 . >
+21723	< annabelle_010 mocht_275 zich_340 geen_450 zorgen_001 maken_210 , de_370 brave_103 vrouw_000 gaf_255 al_450 haar_330 toegewijde_217 zorgen_001 nu_510 aan_600 berend_010 , terwijl_710 de_370 dokter_000 , die_420 al_500 jaren_001 in_600 dienst_000 was_275 van_600 de_370 familie_000 , hem_303 behandelde_255 . >
+21724	< deze_360 hoopte_255 hem_303 binnen_600 niet_500 al_500 te_500 lange_103 tijd_000 weer_500 op_600 de_370 been_000 te_650 hebben_210 . >
+21725	< omdat_710 berend_010 volgende_203 week_000 jarig_100 was_275 , vond_255 de_370 prinses_000 , dat_710 zijn_330 vrouw_000 hem_303 maar_500 moest_275 opzoeken_210 . >
+21726	< als_710 ze_300 met_600 de_370 postkoets_000 van_600 woensdagmorgen_000 afreisde_245 , zou_275 er_510 aan_600 het_370 eindpunt_000 een_450 rijtuig_000 gereedstaan_200 om_650 haar_303 naar_600 hessen-kassel_010 te_650 brengen_210 . >
+21727	< woensdag_010 ? >
+21728	< annabelle_010 schrok_245 . >
+21729	< zo_510 vlug_150 al_500 ? >
+21730	< ze_300 kon_275 toch_500 zo_510 maar_500 niet_500 een_450 buitenlandse_103 reis_000 ondernemen_210 ? >
+21731	< en_700 waar_5500 moest_275 marijke_010 een-twee-drie_500 naar_6105 toe_630 ? >
+21732	< ineens_500 voelde_255 ze_300 , dat_710 ze_300 gaan_200 moest_275 . >
+21733	< marijke_010 kon_275 bij_600 jasper_010 thuis_500 zijn_230 , dan_510 hoefde_275 ze_300 haar_330 school_000 niet_500 te_650 verzuimen_210 . >
+21734	< en_700 als_710 de_370 prinses_000 persoonlijk_150 schreef_255 , dat_710 er_510 zelfs_500 een_450 koets_000 voor_600 haar_303 besteld_216 was_275 , kon_275 ze_300 eenvoudig_150 niet_500 weigeren_200 . >
+21735	< op_600 de_370 vastgestelde_217 tijd_000 stond_245 ze_300 , bepakt_100 en_700 bezakt_100 , bij_600 het_370 vertrekpunt_000 van_600 de_370 postkoets_000 . >
+21736	< eigenlijk_150 dacht_245 ze_300 niet_500 eens_500 veel_440 aan_600 berends_012 ongeluk_000 . >
+21737	< hij_300 had_275 al_500 zo_510 vaak_500 een_450 trap_000 of_700 een_450 hap_000 van_600 een_450 paard_000 gehad_216 , hij_300 kon_275 heel_150 wat_440 verdragen_210 . >
+21738	< ze_300 dacht_245 veel_450 meer_444 aan_600 hun_330 weerzien_000 en_700 ze_300 had_275 zich_340 extra_150 mooi_100 gemaakt_226 . >
+21739	< haar_330 jakje_000 had_275 ze_300 met_600 nieuwe_103 witte_103 kant_000 omzoomd_216 , de_370 pas_500 gekochte_217 omslagdoek_000 hoog_150 opgepoeft_216 langs_600 de_370 hals_000 . >
+21740	< daarover_540 losjes_500 haar_330 lakense_103 schoudermantel_000 . >
+21741	< haar_330 hoed_000 , in_600 dezelfde_350 kleur_000 , was_275 met_600 glanzend_202 lint_000 onder_600 de_370 kin_000 vastgeknoopt_216 . > 

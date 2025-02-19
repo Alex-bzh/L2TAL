@@ -1,0 +1,214 @@
+26937	< ik_300 moet_271 er_5400 een_450 grote_103 poep_000 van_6105 laten_210 " . >
+26938	< dat_370 laatste_129 was_275 geen_450 elegante_103 opmerking_000 , vond_255 ger-hooibergen_010 , daar_710 enkele_453 typistes_001 ook_500 zaten_276 te_650 luisteren_200 . >
+26939	< een_440 van_600 de_370 jongere_106 krachten_001 , die_420 een_450 snorretje_000 droeg_255 , wierp_2550 tegen_6205 dat_710 rotterdam_010 toch_500 maar_500 behoorlijk_150 vooruit_500 was_275 gegaan_206 en_700 dat_710 hij_300 het_370 centrum_000 toch_500 gezellig_100 vond_255 , het_370 nieuwe_103 centrum_000 . >
+26940	< ger-hooibergen_010 verwachtte_255 hierop_540 een_450 uitbarsting_000 van_600 de-groot_010 maar_700 tot_600 zijn_330 verbazing_000 had_275 deze_360 slechts_500 geantwoord_216 : " goed_100 , de-ridder_010 , het_370 nieuwe_103 rotterdam_010 is_273 van_600 jullie_303 . >
+26941	< ik_300 hoop_251 voor_600 je_303 dat_710 je_300 over_600 tien_470 jaar_001 nog_500 kunt_272 ademhalen_200 zonder_650 te_650 hoesten_200 en_700 dat_710 je_440 geen_450 gehoorapparaat_000 draagt_252 . >
+26942	< een_450 bril_000 heb_252 je_300 al_500 zie_251 ik_300 . " >
+26943	< ger-hooibergen_010 zuchtte_245 , want_700 de-groot_010 had_275 de_370 peuk_000 uitgemaakt_216 ; maar_700 de_370 stank_000 van_600 smeulende_203 tabaksbladeren_001 drong_245 tussen_600 de_370 stapel_000 stalen_100 bakjes_001 heen_630 . >
+26944	< nijdig_150 beet_255 hij_300 het_370 pepermuntje_000 stuk_100 . >
+26945	< op_600 het_370 moment_000 van_600 de_370 explosie_000 zat_245 johannesvan-herwijnen_010 in_600 de_370 fauteuil_000 voor_600 het_370 raam_000 . >
+26946	< hij_300 sliep_245 , zoals_710 hij_300 elke_453 middag_000 deed_245 na_600 het_370 eten_000 . >
+26947	< hij_300 werd_275 wakker_100 van_600 de_370 klap_000 , maar_700 besefte_255 dit_360 niet_500 . >
+26948	< hij_300 opende_255 zijn_330 ogen_001 , zag_255 de_370 vertrouwde_103 gloed_000 van_600 het_370 theelichtje_000 onder_600 de_370 pot_000 en_700 ging_275 rechtop_500 zitten_200 . >
+26949	< " hoorde_255 je_300 die_370 klap_000 , johan_010 ? " vroeg_255 rosavan-herwijnen_010 die_420 in_600 een_450 andere_453 fauteuil_000 zat_275 te_650 breien_200 . >
+26950	< zij_300 sliep_245 korter_154 na_600 de_370 maaltijd_000 en_700 zorgde_245 ervoor_540 de_370 thee_000 klaar_100 te_650 hebben_210 als_710 hij_300 wakker_100 werd_275 . >
+26951	< " hoe_520 is_273 het_440 met_600 je_330 rug_000 ? " >
+26952	< " nee_800 . >
+26953	< wat_400 voor_600 klap_000 ? >
+26954	< het_440 zal_273 wel_500 een_450 vliegtuig_000 zijn_230 geweest_236 . " >
+26955	< johannesvan-herwijnen_010 wreef_245 over_600 zijn_330 knie`en_001 en_700 strekte_255 `e`en_460 voor_600 `e`en_460 zijn_330 benen_001 voorzover_710 de_370 spieren_001 dat_360 toelieten_256 . >
+26956	< hij_300 wierp_255 uit_600 gewoonte_000 een_450 blik_000 naar_600 buiten_500 en_700 zag_255 dat_710 de_370 lucht_000 zwaar_150 bewolkt_100 was_275 ; geen_450 weer_000 voor_600 een_450 wandeling_000 . >
+26957	< " wil_252 je_300 thee_000 ? " vroeg_255 rosa_010 . >
+26958	< " alsjeblieft_800 , " zei_255 johannes_010 en_700 hij_300 voegde_2550 er_5401 uit_600 jarenlange_103 gewoonte_000 aan_6106 toe_6205 : >
+26959	< " een_450 bakje_000 zal_273 me_303 goeddoen_200 . " >
+26960	< hij_300 wist_255 echter_500 dat_710 het_300 hem_303 niet_500 zo_510 goeddeed_245 . > 
+26961	< " dat_360 zou_275 nu_510 ook_500 best_157 kunnen_230 gebeuren_200 , " zei_255 de-vries_010 . >
+26962	< " ik_300 geloof_251 dat_710 de_370 wind_000 hier_5400 naartoe_6105 staat_243 . " >
+26963	< " als_710 het_440 te_500 donker_100 wordt_273 , kunnen_274 we_300 niet_500 werken_200 en_700 gaan_244 we_300 naar_600 huis_000 , " zei_255 de_370 gemeenteman_000 . >
+26964	< " laat_271 ik_300 de_370 koffie_000 even_500 afrekenen_210 , want_700 we_300 gaan_274 nog_500 een_450 rukkie_000 doen_210 . " >
+26965	< ze_300 gingen_246 naar_600 binnen_500 waar_530 de_370 radio_000 nog_500 aanstond_245 . >
+26966	< de_370 arbeiders_001 rekenden_2460 af_6205 en_700 en_700 even_500 later_154 denderde_245 de_370 compressor_000 weer_500 . >
+26967	< de_370 kastelein_000 draaide_255 de_370 radio_000 zo_510 luid_100 mogelijk_150 en_700 om_600 tien_460 voor_600 half_100 vijf_460 kwam_245 de_370 extra-nieuwsuitzending_000 . >
+26968	< " de_370 beide_450 tankers_001 die_420 betrokken_216 waren_276 bij_600 een_450 aanvaring_000 op_600 de_370 waterweg_010 bij_600 rotterdam_010 en_700 die_420 daarna_540 in_600 brand_000 vlogen_246 , zijn_274 aan_600 de_370 grond_000 gelopen_206 nabij_150 de_370 zuidelijke_103 ingang_000 van_600 de_370 beneluxtunnel_010 , die_420 vanwege_600 het_370 explosiegevaar_000 voorlopig_150 voor_600 alle_453 verkeer_000 is_273 gesloten_216 . >
+26969	< door_600 de_370 rookontwikkeling_000 is_273 het_440 nog_500 altijd_510 niet_500 mogelijk_100 een_450 overzicht_000 te_650 krijgen_210 van_600 de_370 brand_000 . >
+26970	< de_370 blusschepen_001 van_600 de_370 rotterdamse_103 havenbrandweer_000 kunnen_274 de_370 schepen_001 niet_500 naderen_210 . >
+26971	< uit_600 de_370 zweedse_103 tanker_000 najade_010 stroomt_243 vliegtuigbenzine_000 die_420 door_600 de_370 vloedstroom_000 wordt_273 meegevoerd_216 in_600 de_370 richting_000 van_600 rotterdam_010 . >
+26972	< brandweerkorpsen_001 uit_600 de_370 randgemeenten_001 zijn_274 te_600 hulp_000 gekomen_206 bij_600 de_370 bestrijding_000 van_600 de_370 brand_000 bij_600 de_370 chemische_103 fabriek_000 maas-chemie_010 . >
+26973	< het_370 aantal_000 slachtoffers_001 is_273 thans_510 vijf_470 doden_121 en_700 drie_470 gewonden_218 . >
+26974	< hier_510 volgt_243 een_450 bericht_000 . >
+26975	< de_370 korpschef_000 , hoofd_000 van_600 de_370 gemeentepolitie_000 te_600 rotterdam_010 , maakt_253 bekend_100 dat_710 het_370 sterke_103 vermoeden_000 bestaat_243 dat_710 tengevolge_510 van_600 de_370 explosie_000 bij_600 maas-chemie_010 grote_103 hoeveelheden_001 giftige_103 gassen_001 ontsnappen_244 die_420 een_450 ernstig_100 gevaar_000 voor_600 de_370 volksgezondheid_000 zijn_274 . >
+26976	< gezien_600 dit_370 feit_000 en_700 de_370 heersende_203 windrichting_000 dienen_274 de_370 bewoners_001 van_600 pernis_010 en_700 rotterdam-zuid_010 zo_510 spoedig_150 mogelijk_150 hun_330 woongebied_000 te_650 verlaten_210 . >
+26977	< de_370 politie_000 zal_273 in_600 verband_000 met_600 deze_370 evacuatie_000 op_600 de_370 belangrijkste_109 punten_001 van_600 het_370 bedreigde_217 gebied_000 het_370 verkeer_000 regelen_210 . >
+26978	< men_440 wordt_273 dringend_205 verzocht_216 zich_340 aan_600 de_370 aanwijzingen_001 van_600 de_370 dienstdoende_103 agenten_001 van_600 politie_000 te_650 houden_220 . > 
+26979	< zeg_287 beste_109 kerel_000 , " riep_255 de-groot_010 naar_600 de_370 transistorbezitter_000 , " hoe_520 heten_274 die_370 tankers_001 ? >
+26980	< nederlanders_001 ? " >
+26981	< " nee_800 , geen_450 nederlandse_103 tankers_001 , " werd_275 er_510 geantwoord_216 . >
+26982	< om_600 tien_460 voor_600 half_100 vijf_460 stond_245 een_450 groepje_000 van_600 acht_470 man_001 rondom_600 het_370 bureau_000 met_600 de_370 kleine_103 transistorradio_000 . >
+26983	< ger-hooibergen_010 had_275 zich_340 als_720 laatste_129 aarzelend_205 bij_600 het_370 groepje_000 gevoegd_226 . >
+26984	< krakend_202 , maar_700 goed_150 verstaanbaar_100 , kwam_2450 de_370 stem_000 van_600 de_370 nieuwslezer_000 door_6205 . >
+26985	< tot_600 het_370 moment_000 dat_530 het_370 bericht_000 van_600 de_370 evacuatie_000 werd_275 herhaald_216 , zei_255 niemand_440 iets_440 . >
+26986	< " alledonders_800 , " riep_255 de-groot_010 luid_150 . >
+26987	< " hebben_274 jullie_300 het_440 gehoord_216 ? >
+26988	< de_370 hel_000 is_273 losgebarsten_206 . >
+26989	< wie_400 woont_243 er_510 in_600 zuid_000 ? " >
+26990	< ger-hooibergen_010 was_275 bleek_100 geworden_236 . >
+26991	< " ik_300 , " zei_255 hij_300 tezamen_500 met_600 nog_500 twee_470 anderen_441 . >
+26992	< mechanisch_150 liep_245 hij_300 terug_500 naar_600 zijn_330 bureau_000 . >
+26993	< " hooibergen_010 , kom_247 hier_510 , " hoorde_255 hij_300 de-groot_010 zeggen_210 . >
+26994	< " zijn_274 je_330 vrouw_000 en_700 kinderen_001 thuis_500 ? >
+26995	< heb_252 je_300 telefoon_000 ? >
+26996	< bel_2470 als_720 de_370 bliksem_000 op_6205 want_700 misschien_500 weten_244 ze_300 nog_500 van_600 niks_440 . >
+26997	< niet_500 iedereen_440 luistert_243 de_370 hele_103 dag_000 naar_600 de_370 radio_000 . " >
+26998	< de_370 drie_460 hadden_256 allen_441 telefoon_000 en_700 begonnen_276 de_370 nummers_001 te_650 draaien_200 . >
+26999	< een_440 van_600 hen_303 draaide_245 in_600 de_370 haast_000 verkeerd_150 . >
+27000	< de_370 ander_440 kwam_245 niet_500 verder_104 dan_720 het_370 draaien_211 van_600 het_370 cijfer_000 negen_000 ; hierna_540 moest_275 via_600 de_370 centrale_000 van_600 de_370 verzekeringsmaatschappij_000 de_370 verbinding_000 tot_600 stand_000 worden_230 gebracht_216 . >
+27001	< " ik_300 krijg_251 de_370 zoemtoon_000 niet_500 , " zei_255 de_370 man_000 . >
+27002	< " je_440 hebt_252 kans_000 dat_710 de_370 hele_103 troep_000 al_500 overbelast_216 is_273 , " zei_255 de-groot_010 . >
+27003	< " blijven_230 proberen_200 . " >
+27004	< ger-hooibergen_010 had_275 de_370 hoorn_000 van_600 de_370 haak_000 genomen_216 , maar_700 voordat_710 hij_300 begon_275 te_650 draaien_200 , legde_2550 hij_300 hem_303 neer_6205 . >
+27005	< de_370 situatie_000 waarin_560 hij_300 zich_340 bevond_265 drong_2450 tot_600 hem_303 door_6205 ; haarscherp_150 . >
+27006	< die_370 morgen_000 had_275 hij_300 adri_010 naar_600 het_370 centraal-station_010 gebracht_216 . >
+27007	< ze_300 ging_245 een_450 dag_000 naar_600 haar_330 moeder_000 in_600 arnhem_010 . >
+27008	< zijn_330 beide_450 kinderen_001 zouden_276 's_372 middags_002 bij_600 schoolvriendjes_001 thuis_500 eten_200 . >
+27009	< zijn_330 zoontje_000 van_600 elf_460 had_255 de_370 huissleutel_000 , zodat_710 zij_300 na_600 schooltijd_000 naar_600 huis_000 konden_276 gaan_200 waar_530 hun_330 vader_000 hen_303 om_600 zes_470 uur_000 zou_275 aantreffen_210 . >
+27010	< om_600 zes_470 uur_000 ! > 
+27011	< " hallo_800 ? " >
+27012	< " ja_800 . " >
+27013	< " ik_300 kan_271 meneer_000 arendson_010 niet_500 bereiken_210 . " >
+27014	< " maar_700 we_300 moeten_274 weten_210 wat_400 de_370 aard_000 van_600 de_370 brand_000 is_273 . >
+27015	< in_600 verband_000 met_600 de_370 blusmiddelen_001 , begrijpt_252 u_300 . >
+27016	< blijft_278 u_300 proberen_200 . >
+27017	< kan_273 iemand_440 anders_452 geen_450 inlichtingen_001 geven_210 ? " >
+27018	< " ik_300 zal_273 het_440 proberen_210 . >
+27019	< blijft_272 u_300 aan_600 de_370 lijn_000 ? " >
+27020	< " ja_800 . " >
+27021	< toen_710 jande-bruin_010 met_600 zijn_330 vrouw_000 en_700 kind_000 zijn_330 huis_000 verliet_255 , was_275 het_370 straatbeeld_000 al_500 sterk_150 veranderd_206 . >
+27022	< van_600 enkele_453 auto's_001 die_420 de_370 hele_103 week_000 langs_600 de_370 trottoirs_001 geparkeerd_216 stonden_246 en_700 alleen_500 tijdens_600 de_370 weekeinden_001 hun_330 met_600 mos_000 begroeide_217 plaatsen_001 verlieten_256 , draaiden_246 de_370 motoren_001 . >
+27023	< overal_510 stonden_276 mensen_001 in_600 groepjes_001 te_650 praten_200 met_600 tassen_001 en_700 koffertjes_001 in_600 de_370 hand_000 en_700 de_370 auto's_001 die_420 een_450 radio_000 bezaten_256 hadden_256 die_360 luid_150 aan_6200 staan_2005 . >
+27024	< er_510 was_275 juist_150 een_450 nieuwsuitzending_000 geweest_206 en_700 de_370 muziek_000 die_420 thans_510 gedraaid_216 werd_275 , wekte_255 de_370 indruk_000 dat_710 de_370 straat_000 feestvierde_255 . >
+27025	< " gaan_244 we_300 met_600 de_370 tram_000 naar_600 het_370 station_000 ? " vroeg_255 annie_010 terwijl_710 ze_300 het_370 dekentje_000 nog_500 dichter_504 om_600 de_370 baby_000 heensloeg_255 . >
+27026	< jande-bruin_010 aarzelde_245 . >
+27027	< reed_245 de_370 tram_000 en_700 als_710 hij_300 reed_245 , was_245 er_510 dan_510 nog_500 een_450 plaats_000 over_500 ? >
+27028	< " we_300 gaan_244 op_600 de_370 brommer_000 , " zei_255 hij_300 . >
+27029	< " ik_300 denk_251 dat_710 de_370 trams_001 afgeladen_100 zijn_274 en_700 de_370 haltes_001 voorbijrijden_254 . " >
+27030	< " met_600 de_370 baby_000 ? " protesteerde_255 annie_010 . >
+27031	< " hij_300 gaat_243 tussen_600 ons_303 in_630 , uit_600 de_370 wind_000 . >
+27032	< ik_300 zal_271 voorzichtig_150 rijden_200 . " >
+27033	< toen_710 hij_300 zich_340 omdraaide_265 om_650 zijn_330 brommer_000 uit_600 de_370 poort_000 te_650 halen_210 , zag_255 hij_300 zijn_330 buurman_000 die_420 twee_470 huizen_001 verder_154 woonde_245 bezig_100 een_450 grote_103 koffer_000 achterin_600 zijn_330 mercedes_000 te_650 leggen_210 . >
+27034	< jande-bruin_010 voelde_255 de_370 woede_000 in_600 zich_340 opstijgen_200 . >
+27035	< de_370 proleet_000 , dacht_255 hij_300 , gaat_243 er_5400 vandoor_6105 in_600 zijn_330 slee_000 . >
+27036	< hij_300 wel_500 , en_700 hij_300 neemt_2530 zijn_330 troep_000 mee_6205 . >
+27037	< daar_510 komt_243 madam_000 ook_500 al_500 met_600 haar_330 geverfde_217 haren_001 en_700 haar_330 hoerekousen_001 . >
+27038	< hij_300 deed_255 de_370 brommer_000 van_600 het_370 slot_000 en_700 reed_255 hem_303 naar_600 de_370 plaats_000 waar_530 annie_010 stond_275 te_650 wachten_200 . >
+27039	< uit_600 de_370 hoeken_001 van_600 zijn_330 ogen_001 zag_255 hij_300 de_370 mercedes-eigenaar_000 de_370 kofferruimte_000 dichtdoen_210 . > 
+27040	< " wat_400 is_273 er_510 aan_600 de_370 hand_000 ? " vroeg_255 een_450 oude_103 man_000 die_420 zijn_330 huis_000 uitkwam_255 . >
+27041	< jande-bruin_010 bleef_275 verbaasd_216 staan_200 . >
+27042	< hier_510 was_245 iemand_440 die_420 nog_500 van_600 niets_440 wist_245 . >
+27043	< " evacuatie_000 , " zei_255 hij_300 . >
+27044	< " een_450 explosie_000 . >
+27045	< de_370 giftige_103 gassen_001 komen_244 naar_600 zuid_000 . >
+27046	< ik_300 zou_275 maar_500 maken_210 dat_710 ik_300 wegkwam_245 . " >
+27047	< de_370 ander_440 keek_2550 hem_303 ongelovig_150 aan_6205 . >
+27048	< jande-bruin_010 haalde_2550 zijn_330 schouders_001 op_6205 en_700 liep_2450 door_6205 . >
+27049	< " is_273 het_440 geen_450 geintje_000 ? " riep_255 de_370 man_000 hem_303 achterna_500 , maar_700 jande-bruin_010 keek_2450 niet_500 om_6205 . >
+27050	< even_500 later_154 begon_275 er_510 weer_500 een_450 sirene_000 te_650 loeien_200 . >
+27051	< het_370 geluid_000 maakte_255 hem_303 nerveus_100 . >
+27052	< de_370 baby_000 op_600 zijn_330 arm_000 leek_275 steeds_500 zwaarder_104 te_650 worden_230 maar_700 hij_300 gaf_2550 het_370 kind_000 niet_500 over_6205 aan_600 annie_010 . >
+27053	< toen_710 zij_300 het_370 station_000 zuid_010 naderden_256 , werd_275 het_440 steeds_500 drukker_104 op_600 de_370 trottoirs_001 . >
+27054	< vele_453 voetgangers_001 waren_276 op_600 weg_000 naar_600 het_370 station_000 . >
+27055	< toen_710 er_510 een_450 volle_103 tram_000 naderde_245 , haastten_266 velen_441 zich_340 naar_600 de_370 halte_000 . >
+27056	< bij_600 de_370 ingang_000 werd_275 gevochten_206 . >
+27057	< een_450 viertal_000 mensen_001 wist_2750 zich_340 naar_600 binnen_500 te_650 werken_220 voordat_710 de_370 deuren_001 dichtgingen_246 . >
+27058	< in_600 de_370 hal_000 van_600 het_370 station_000 was_275 het_440 vol_100 . >
+27059	< voor_600 de_370 loketten_001 stonden_246 rijen_001 mensen_001 . >
+27060	< kinderen_001 huilden_246 en_700 moeders_001 riepen_256 hen_303 tot_600 de_370 orde_000 . >
+27061	< jande-bruin_010 zag_255 de_370 rijen_001 voor_600 de_370 loketten_001 en_700 keek_2550 annie_010 aan_6205 . >
+27062	< hij_300 trok_2550 haar_303 mee_6205 naar_600 de_370 deur_000 die_420 toegang_000 gaf_255 tot_600 de_370 perrons_001 . >
+27063	< " we_300 kopen_254 in_600 de_370 trein_000 wel_500 een_450 kaartje_000 , " zei_255 hij_300 . >
+27064	< " ik_300 ga_271 niet_500 nog_500 eens_500 een_450 half_100 uur_000 in_600 de_370 rij_000 staan_230 wachten_200 . " >
+27065	< er_510 vertrok_245 juist_150 een_450 trein_000 in_600 de_370 richting_000 rotterdam_0100 centraal_0105 . >
+27066	< hij_300 zag_255 hoe_520 mensen_001 probeerden_276 de_370 deuren_001 van_600 de_370 wegrijdende_203 trein_000 te_650 openen_210 ondanks_600 een_450 spoorwegbeambte_000 die_420 dit_360 trachtte_275 te_650 voorkomen_210 . >
+27067	< een_450 man_000 die_420 op_600 de_370 treeplank_000 stond_245 en_700 de_370 deur_000 niet_500 open_100 kon_275 krijgen_210 , sprong_245 van_600 de_370 rijdende_203 trein_000 en_700 struikelde_245 op_600 het_370 perron_000 . >
+27068	< ze_300 worden_274 gek_100 , dacht_255 jande-bruin_010 . >
+27069	< het_440 is_273 alleen_500 nog_500 maar_500 rommelen_200 wat_420 de_370 vulkaan_000 doet_253 . > 
+27070	< " u_300 weet_241 van_600 de_370 explosie_000 en_700 de_370 giftige_103 gassen_001 ? " >
+27071	< " ja_800 , commissaris_000 . " >
+27072	< " de_370 burgemeester_000 heeft_273 mij_303 opgedragen_216 u_303 te_650 verzoeken_210 uw_330 vrijwillige_103 mobilisabele_103 vredesrampenorganisatie_000 in_6200 te_650 schakelen_2105 . >
+27073	< u_300 beschikt_242 over_600 geluidswagens_001 , gasmaskers_001 etcetera_500 . " >
+27074	< " we_300 kunnen_274 in_600 twee_470 uur_001 mobiel_100 zijn_230 , zoals_710 u_300 weet_242 . >
+27075	< wat_400 is_273 het_370 verzamelpunt_000 , commissaris_000 ? " >
+27076	< " zuiderziekenhuis_010 . >
+27077	< u_300 kunt_242 via_600 de_370 maastunnel_010 , die_420 voor_600 het_370 gewone_103 verkeer_000 is_273 gesloten_216 . >
+27078	< dan_510 nog_500 iets_440 . >
+27079	< de_370 alarmering_000 via_600 radio_000 en_700 geluidswagens_001 is_273 onvoldoende_443 . >
+27080	< kan_273 er_510 van_600 de_370 bb-sirenes_001 gebruik_000 worden_230 gemaakt_216 ? " >
+27081	< " dat_360 zal_273 niet_500 gaan_200 , commissaris_000 . >
+27082	< de_370 sirenes_001 zijn_274 uitsluitend_205 bestemd_216 voor_600 alarmering_000 in_600 oorlogsomstandigheden_001 . " >
+27083	< " maar_700 er_5400 zijn_274 mensenlevens_001 mee_6105 gemoeid_100 . " >
+27084	< " er_510 is_243 geen_450 sprake_000 van_600 oorlogsomstandigheden_001 . >
+27085	< ik_300 kan_271 het_440 niet_500 toestaan_210 . >
+27086	< mijn_330 voorschriften_001 bepalen_254 dit_360 uitdrukkelijk_150 . >
+27087	< er_510 is_243 een_450 mogelijkheid_000 . >
+27088	< ik_300 kan_271 den-haag_010 vragen_210 ontheffing_000 te_650 verlenen_210 wegens_600 bijzondere_103 omstandigheden_001 . >
+27089	< ik_300 zal_271 u_303 terugbellen_210 , commissaris_000 . " >
+27090	< " dank_251 u_300 . " >
+27091	< een_450 telefoontje_000 van_600 de_370 politie_000 met_600 de_370 garnizoenscommandant_000 van_600 rotterdam_010 leverde_2550 geen_450 resultaat_000 op_6205 . >
+27092	< het_370 garnizoen_000 rotterdam_010 beschikte_245 niet_500 over_600 een_450 parate_103 eenheid_000 . >
+27093	< er_510 werd_275 telefonisch_100 contact_000 opgenomen_216 met_600 de_370 territoriaal_100 commandant_000 zuid-holland_010 in_600 den-haag_010 , de_370 kolonel_000 van_600 de_370 infanterie_000 a.-f.-l.-flintwinkel_010 . >
+27094	< deze_360 zegde_2550 toe_6205 een_450 paraat_100 onderdeel_000 van_600 de_370 aan-_0010 en_700 af{voertroepen}_0015 uitgerust_216 met_600 gasmaskers_001 ter_603 beschikking_000 te_650 stellen_210 , alsmede_720 een_450 afdeling_000 pontonniers_001 die_420 eventueel_150 medewerking_000 konden_276 verlenen_210 bij_600 de_370 afsluiting_000 van_600 de_370 eerste_493 en_700 tweede_490 petroleumhaven_000 als_710 bij_600 kentering_000 van_600 het_370 getij_000 omstreeks_600 kwart_000 voor_600 zeven_460 's_372 avonds_002 de_370 brand_000 aan_600 boord_000 van_600 de_370 beide_440 tankers_001 nog_500 niet_500 geblust_216 zou_275 zijn_230 . >
+27095	< de_370 marine-luchtvaartdienst_010 stuurde_255 in_600 het_370 kader_000 van_600 de_370 militaire_103 bijstandsregeling_000 drie_470 helikopters_001 naar_600 zestienhoven_010 , waarvandaan_560 de_370 toestellen_001 tot_600 boven_600 de_370 bedreigde_217 zone_000 zouden_276 worden_230 gedirigeerd_216 voor_600 waarneming_000 van_600 de_370 verspreiding_000 van_600 de_370 gaswolk_000 , van_600 het_370 verkeer_000 en_700 van_600 achtergebleven_206 slachtoffers_001 . >
+27096	< toen_710 de_370 aanvaring_000 tussen_600 de_370 zweedse_103 tanker_000 najade_010 en_700 de_370 liberiaanse_103 tanker_000 olympic-trader_010 plaats_000 had_255 , naderde_245 er_510 noch_740 bovenstrooms_150 , noch_700 benedenstrooms_150 een_450 ander_450 zeeschip_000 . > 
+27097	< als_710 het_440 nodig_100 is_273 , kan_271 ik_300 drie_470 of_700 vier_470 mensen_001 meenemen_210 . " >
+27098	< " het_440 is_273 hard_150 nodig_100 , " antwoordde_255 de_370 verpleger_000 . >
+27099	< " gaat_248 u_300 even_500 naar_600 de_370 hal_000 , daar_510 is_243 de_370 arts_000 die_420 de_370 leiding_000 heeft_253 . " >
+27100	< in_600 de_370 hal_000 kreeg_255 ger-hooibergen_010 vier_470 pati`enten_001 die_420 door_600 een_450 arts_000 werden_276 aangewezen_216 . >
+27101	< ze_300 haastten_266 zich_340 hem_303 naar_600 buiten_500 te_650 volgen_210 . >
+27102	< drie_460 konden_276 juist_150 op_600 de_370 achterbank_000 zitten_200 , de_370 vierde_480 nam_255 naast_600 ger-hooibergen_010 plaats_000 . >
+27103	< ze_300 hadden_256 allen_441 een_450 tas_000 of_700 een_450 koffertje_000 bij_600 zich_340 . >
+27104	< het_300 waren_276 vier_470 mannelijke_103 pati`enten_001 . >
+27105	< hij_300 reed_245 via_600 de_370 breeweg_010 en_700 de_370 marathonweg_010 naar_600 de_370 oprit_000 van_600 de_370 brienenoordbrug_010 zonder_650 een_450 enkele_453 auto_000 tegen_6200 te_650 komen_2105 . >
+27106	< maar_700 bij_600 de_370 oprit_000 moest_275 hij_300 langdurig_150 in_600 een_450 file_000 wachten_200 tot_710 de_370 verkeerslichten_001 op_600 groen_120 sprongen_246 . >
+27107	< zijn_330 passagiers_001 zeiden_256 lange_103 tijd_000 geen_450 stom_100 woord_000 . >
+27108	< het_370 eerste_493 geluid_000 kwam_245 van_600 de_370 middelste_103 man_000 op_600 de_370 achterbank_000 . >
+27109	< " wat_410 een_450 rotzootje_000 , " zei_255 deze_360 . >
+27110	< " iedereen_440 is_273 'm_303 gesmeerd_206 maar_700 de_370 zieken_121 hebben_274 ze_300 in_600 de_370 steek_000 gelaten_216 . >
+27111	< weet_252 u_300 , meneer_000 , " zei_255 hij_300 in_600 de_370 achteruitkijkspiegel_000 naar_600 ger-hooibergen_010 kijkend_205 , " dat_710 we_300 al_500 zowat_500 een_450 uur_000 in_600 die_370 hal_000 stonden_276 te_650 wachten_200 ? " >
+27112	< ger-hooibergen_010 schudde_255 zijn_330 hoofd_000 . >
+27113	< " nee_800 , maar_700 er_510 is_243 zeker_150 geen_450 vervoer_000 ? " >
+27114	< " ze_300 kwamen_2560 de_370 zaal_000 op_6205 alsof_710 de_370 wereld_000 verging_245 , " zei_255 de_370 man_000 naast_600 hem_303 . >
+27115	< " klaarmaken_200 , zeiden_256 ze_300 , het_370 ziekenhuis_000 moet_273 onmiddellijk_150 ge`evacueerd_216 worden_230 . >
+27116	< hoe_520 kan_273 een_450 vent_000 , die_420 gewichten_001 aan_600 zijn_330 benen_001 heeft_253 bengelen_200 zich_340 nou_510 klaarmaken_220 , vraag_251 ik_300 u_303 . >
+27117	< het_440 leek_245 wel_500 alsof_720 ze_300 een_450 kazerne_000 met_600 soldaten_001 wilden_276 mobiliseren_210 . " >
+27118	< " ik_300 wist_255 helemaal_500 niet_500 wat_400 er_510 aan_600 de_370 hand_000 was_275 . >
+27119	< ik_300 lag_275 net_500 even_500 te_650 dutten_200 . >
+27120	< jij_300 ? " zei_255 de_370 middelste_123 tegen_600 een_440 van_600 zijn_330 buurlieden_001 . >
+27121	< " welnee_800 , man_000 , ik_300 hoorde_255 het_440 pas_500 op_600 de_370 gang_000 van_600 iemand_440 die_420 naar_600 de_370 radio_000 had_275 liggen_230 luisteren_200 . " >
+27122	< " geen_450 stijl_000 in_600 elk_450 geval_000 . >
+27123	< en_700 dan_510 nog_500 een_450 uur_000 wachten_200 in_600 die_370 tochthal_000 . > 
+27124	< in_600 hillesluis_010 en_700 bolnes_010 kon_275 men_440 dankzij_600 de_370 verlichting_000 nog_500 enkele_453 bewoners_001 redden_210 . >
+27125	< zij_300 werden_276 met_600 spoed_000 naar_600 een_450 ziekenhuis_000 vervoerd_216 . >
+27126	< tien_470 minuten_001 lang_150 cirkelde_245 christiaan-hoogstraten_010 in_600 de_370 helikopter_000 op_600 een_450 hoogte_000 van_600 vierhonderd_470 meter_001 boven_600 het_370 terrein_000 van_600 maas-chemie_010 . >
+27127	< de_370 hoogte_000 was_275 voldoende_453 om_650 geen_450 schade_000 te_650 ondervinden_210 van_600 eventuele_103 nieuwe_103 explosies_001 . >
+27128	< hij_300 kon_275 onderscheiden_210 hoe_520 van_600 loods_000 c_470 alleen_500 de_370 noordelijke_103 helft_000 nog_500 brandde_245 . >
+27129	< van_600 loods_000 e_460 was_275 het_370 dak_000 aan_600 de_370 westzijde_000 nog_500 intact_100 . >
+27130	< aan_600 de_370 oostzijde_000 was_275 het_370 dak_000 ingestort_206 en_700 enorme_103 rookwolken_001 stegen_2460 op_6205 en_700 werden_276 door_600 de_370 zwakke_103 wind_000 meegevoerd_216 in_600 oostelijke_103 richtingen_001 . >
+27131	< door_600 de_370 rookontwikkeling_000 was_275 niet_500 waar_100 te_650 nemen_210 of_710 ook_500 het_370 ammoniumfosfaat_000 was_275 aangetast_216 , maar_700 christiaan-hoogstraten_010 maakte_265 zich_340 daarover_540 geen_450 illusies_001 . >
+27132	< na_600 de_370 landing_000 liep_245 hij_300 samen_500 met_600 de_370 brandmeester_000 die_360 meegevlogen_206 was_275 naar_600 het_370 portiersgebouwtje_000 . >
+27133	< daar_510 zag_255 hij_300 de_370 rode_103 personenwaggen_000 staan_200 . >
+27134	< van-alberda_010 wachtte_2550 hem_303 op_6205 ; om_600 diens_362 nek_000 bungelde_245 een_450 gasmasker_000 . >
+27135	< nadat_710 de_370 bevindingen_001 over_600 de_370 vlucht_000 waren_276 besproken_216 , zei_255 van-alberda_010 : >
+27136	< " ik_300 vrees_251 dat_710 er_510 geen_450 keus_000 is_243 . >
+27137	< in_600 de_370 loop_000 van_600 de_370 avond_000 zal_273 de_370 wind_000 gaan_230 liggen_200 . >
+27138	< er_510 wordt_273 mistvorming_000 verwacht_216 . >
+27139	< ik_300 behoef_271 u_303 niet_500 te_650 vertellen_210 wat_400 dat_360 betekent_253 . >
+27140	< dan_510 moeten_274 heel_100 rotterdam_010 , schiedam_010 en_700 vlaardingen_010 ook_500 ontruimd_216 worden_230 met_600 alle_453 gevolgen_001 vandien_510 . " >
+27141	< " u_300 bedoelt_252 dat_710 u_300 gaat_272 blussen_200 ? " zei_255 christiaan-hoogstraten_010 terwijl_710 hij_300 zijn_330 wenkbrauwen_001 fronste_255 . >
+27142	< " zeer_500 waarschijnlijk_100 , " zei_255 van-alberda_010 . >
+27143	< " en_700 het_370 explosiegevaar_000 ? " >
+27144	< " dat_360 blijft_273 een_450 risico_000 . " >
+27145	< " durft_272 u_300 dat_360 te_650 nemen_210 ? " >
+27146	< van-alberda_010 haalde_2550 zijn_330 schouders_001 op_6205 . >
+27147	< " ik_300 zei_255 al_500 dat_710 er_510 geen_450 keus_000 was_245 . >
+27148	< de_370 staatssecretaris_000 van_600 volksgezondheid_000 heeft_273 contact_000 met_600 de_370 burgemeester_000 gehad_216 en_700 erop_540 aangedrongen_206 dat_710 al_450 het_370 mogelijke_123 moet_273 worden_230 gedaan_216 om_650 deze_370 brand_000 zo_510 spoedig_150 mogelijk_150 te_650 blussen_210 . " >
+27149	< " dat_360 lijkt_273 mij_303 vanzelfsprekend_100 , " antwoordde_255 christiaan-hoogstraten_010 . >
+27150	< " maar_700 deze_370 uitspraak_000 impliceert_253 geen_450 enkele_453 verantwoordelijkheid_000 voor_600 de_370 gevolgen_001 . " > 

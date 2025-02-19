@@ -1,0 +1,197 @@
+29174	< hij_300 besloot_255 in_600 plaats_000 daarvan_540 langzaam_150 het_370 hoofd_000 te_650 schudden_210 . >
+29175	< " kijken_200 , " beval_255 de_370 zus_000 met_600 de_370 revolver_000 . >
+29176	< tegen_600 mij_303 zei_255 ze_300 : >
+29177	< " bedankt_216 . " >
+29178	< ik_300 zei_255 achteloos_150 : >
+29179	< " een_450 kleine_103 moeite_000 . >
+29180	< we_300 zijn_244 er_510 om_650 elkaar_340 te_650 helpen_210 . >
+29181	< als_710 ik_300 n`og_500 een_450 raad_000 mag_273 geven_210 ... " >
+29182	< ze_300 sloot_255 half_150 haar_330 ogen_001 en_700 dacht_2451 er_5400 diep_150 over_6105 na_6206 . >
+29183	< toen_510 zei_255 ze_300 : >
+29184	< " en_700 ? " >
+29185	< ik_300 zei_255 : >
+29186	< " nu_710 je_300 toch_500 in_600 frankfurt_010 bent_242 ... ze_300 hebben_254 hier_510 verdomd_209 goeie_103 winkels_001 . >
+29187	< met_600 foundations_001 en_700 zo_510 . " >
+29188	< ze_300 keek_245 niet_500 begrijpend_205 . >
+29189	< " met_600 wat_400 ? " >
+29190	< " dessous_001 , " verklaarde_255 ik_300 . >
+29191	< " bustehouders_001 , step-ins_001 en_700 al_450 dat_370 spul_000 . >
+29192	< niet_500 dat_710 je_300 ze_303 verschrikkelijk_150 hard_150 nodig_100 hebt_252 , maar_700 je_300 verdient_252 betere_126 dan_710 je_300 nu_510 aanhebt_252 . " >
+29193	< " o_800 , " zei_255 ze_300 een_450 tikje_000 onzeker_150 . >
+29194	< ik_300 zag_255 dat_710 haar_330 ogen_001 even_500 van_600 me_303 weg_500 dwaalden_246 naar_600 de_370 spiegel_000 links_500 van_600 haar_303 . >
+29195	< de_370 man_000 van_600 zo`even_510 kwam_245 terug_500 . >
+29196	< " ook_500 niks_440 , " beduidde_255 hij_300 met_600 een_450 hoofdbeweging_000 . >
+29197	< " dan_510 gaan_244 we_300 , " zei_255 ze_300 . >
+29198	< de_370 man_000 wenkte_255 zijn_330 kameraad_000 , die_420 nog_500 een_450 laatste_109 blik_000 achter_600 een_450 portretlijst_000 wierp_255 en_700 posteerde_265 zich_340 naast_600 de_370 tsjechische_123 . >
+29199	< ze_300 mompelde_255 wat_440 tegen_600 het_370 tweetal_000 dat_420 ik_300 niet_500 kon_275 verstaan_210 . >
+29200	< ze_300 zagen_246 eruit_540 als_720 boksers_001 en_700 waarschijnlijk_150 waren_276 ze_300 dat_360 ook_500 . >
+29201	< verdomd_209 goeie_123 , denk_251 ik_300 . >
+29202	< ze_300 liepen_246 als_720 buldoggen_001 en_700 hadden_256 poten_001 als_720 van_600 een_450 olifant_000 . >
+29203	< ik_300 prentte_255 hun_330 smoelen_001 goed_150 in_600 mijn_330 gedachten_001 , want_700 je_440 kon_275 nooit_510 weten_210 of_710 ik_300 ze_303 niet_500 eens_500 weer_500 ergens_510 zou_275 tegenkomen_210 . >
+29204	< het_440 is_273 altijd_510 prettig_100 als_710 je_440 weet_252 wat_400 je_440 aan_600 iemand_440 hebt_252 . >
+29205	< " sorry_800 , " zei_255 de_370 griet_000 . >
+29206	< " ze_300 doen_254 je_303 geen_450 pijn_000 . >
+29207	< ze_300 houden_254 je_303 alleen_500 maar_500 even_500 vast_100 . " >
+29208	< vier_470 klauwen_001 strekten_2660 zich_340 naar_600 me_303 uit_6205 en_700 duwden_246 aan_600 mijn_330 schouder_000 zodat_710 ik_300 ruggelings_150 op_600 de_370 grond_000 kwam_275 te_650 liggen_200 . >
+29209	< ik_300 deed_255 geen_450 poging_000 me_340 uit_600 hun_330 greep_000 te_650 bevrijden_220 ... met_600 die_370 revolver_000 in_600 de_370 buurt_000 zou_275 dat_360 een_450 vrij_150 hopeloze_103 poging_000 worden_230 . > 
+29210	< een_450 hoekig_100 silhouet_000 dat_420 zich_340 langzaam_150 heen_500 en_700 weer_500 beweegt_245 en_700 waarvan_560 slechts_500 de_370 armen_001 en_700 de_370 benen_001 schijnen_274 te_650 leven_200 . >
+29211	< boordevol_100 symbolen_001 die_420 je_440 als_720 westerling_000 nauwelijks_500 iets_440 te_650 zeggen_210 hebben_210 . >
+29212	< in_600 dit_370 geval_000 leefde_245 trouwens_500 ook_600 het_370 hoofd_000 . >
+29213	< het_300 boog_265 zich_340 voorover_500 en_700 ik_300 hoorde_255 het_370 onmiskenbare_103 geluid_000 van_600 een_450 sleutel_000 die_420 in_600 het_370 slot_000 wordt_273 omgedraaid_216 . >
+29214	< zonder_650 geluid_000 te_650 maken_210 , gleed_245 ik_300 uit_600 de_370 stoel_000 en_700 ging_275 achter_600 de_370 opengeslagen_216 deur_000 tussen_600 het_370 kantoor_000 en_700 de_370 kamer_000 staan_200 . >
+29215	< ik_300 hoorde_255 de_370 voordeur_000 openen_210 en_700 even_500 later_154 weer_500 voorzichtig_150 in_600 het_370 slot_000 vallen_200 . >
+29216	< daarna_540 lichte_103 voetstappen_001 . >
+29217	< door_600 de_370 kier_000 tussen_600 de_370 scharnieren_001 sloeg_255 ik_300 een_450 blik_000 in_600 de_370 donkere_103 kantoorruimte_000 , maar_700 ik_300 kon_275 niets_440 onderscheiden_210 . >
+29218	< mijn_330 hand_000 schoot_245 in_600 de_370 colbertjas_000 naar_600 de_370 linkerzijde_000 van_600 mijn_330 lichaam_000 tot_710 ik_300 het_370 pistool_000 kon_275 omklemmen_210 . >
+29219	< ik_300 stond_245 op_600 het_370 punt_000 te_600 voorschijn_000 te_650 komen_200 toen_710 het_370 licht_000 in_600 de_370 woonkamer_000 aanfloepte_245 . >
+29220	< onmiddellijk_150 daarop_540 klonk_245 een_450 schreeuw_000 die_420 door_600 merg_000 en_700 been_000 ging_245 . >
+29221	< voor_600 me_303 stond_245 een_450 vrouw_000 . >
+29222	< de_370 angst_000 straalde_245 van_600 het_370 gezicht_000 . >
+29223	< haar_330 ogen_001 waren_276 zo_510 wijd_100 mogelijk_150 geopend_216 , de_370 neusgaten_001 sperden_266 zich_340 een_450 beetje_000 open_100 en_700 de_370 mond_000 liet_275 het_370 hele_103 gebit_000 van_600 begin_000 tot_600 achter_500 en_700 van_600 boven_500 naar_600 beneden_500 zien_210 . >
+29224	< ze_300 had_255 , constateerde_255 ik_300 , mooie_103 ogen_001 , een_450 mooie_103 neus_000 en_700 vermoedelijk_150 ook_500 een_450 mooie_103 mond_000 , hoewel_710 dat_360 laatste_129 bij_600 deze_370 stuiptrekkingen_001 moeilijk_150 definitief_150 was_275 vast_100 te_650 stellen_210 . >
+29225	< " hallo_800 , " zei_255 ik_300 vriendelijk_150 . >
+29226	< mijn_330 pistool_000 liet_275 ik_300 maar_500 zitten_200 . >
+29227	< ze_300 gaf_255 geen_450 antwoord_000 . >
+29228	< wel_500 klapte_245 haar_330 mond_000 dicht_100 en_700 deed_255 ze_300 een_450 paar_000 passen_001 achteruit_500 . >
+29229	< voor_710 ik_300 er_5400 goed_150 erg_000 in_6105 had_255 , nam_255 ze_300 de_370 hoorn_000 van_600 de_370 telefoonhaak_000 en_700 was_275 ze_300 bezig_100 een_450 nummer_000 te_650 draaien_210 . >
+29230	< ik_300 voelde_255 zoveel_450 bewondering_000 dat_710 ik_300 haar_303 even_500 haar_330 gang_000 liet_275 gaan_210 . > 
+29231	< toen_710 ik_300 ermee_540 klaar_100 was_275 , had_275 ik_300 door_600 al_450 die_370 onvoorziene_103 omstandigheden_001 drie_470 uur_001 verloren_216 en_700 het_440 leek_275 me_303 verstandiger_104 eerst_500 voor_600 een_450 paar_000 uur_001 een_450 hotel_000 op_6200 te_650 zoeken_2105 met_600 een_450 goed_100 bed_000 , voordat_710 ik_300 het_370 laatste_109 stukje_000 naar_600 praag_010 reed_245 . >
+29232	< aan_600 de_370 grenspost_000 stond_275 een_450 oude_103 snuiter_000 in_600 een_450 te_500 groot_100 en_700 vaal_100 uniform_000 om_650 mijn_330 papieren_001 te_650 controleren_210 . >
+29233	< hij_300 deed_255 het_440 gedegen_150 , snel_150 en_700 zo_510 vriendelijk_150 dat_710 ik_300 bijna_500 het_370 idee_000 kreeg_255 te_650 worden_230 bedonderd_216 . >
+29234	< grensposten_001 zijn_274 nooit_510 mijn_330 grote_103 sympathie_000 geweest_236 . >
+29235	< ik_300 heb_271 er_5400 ook_500 nog_500 nooit_510 over_6105 nagedacht_206 waarom_520 eigenlijk_150 niet_500 en_700 nu_710 ik_300 het_440 dan_510 wel_500 even_500 doe_251 , geloof_251 ik_300 dat_710 het_440 is_243 vanwege_600 hun_330 eeuwig_150 en_700 altijd_510 argwanende_103 blik_000 . >
+29236	< ze_300 zijn_274 op_600 een_450 smal_100 streepje_000 ergens_510 op_600 de_370 wereld_000 neergezet_216 als_720 doelmannen_001 in_600 een_450 voetbalwedstrijd_000 : ze_300 moeten_274 zoveel_450 mogelijk_150 ballen_001 uit_600 het_370 net_000 houden_210 en_700 daarvoor_540 worden_274 ze_300 betaald_216 . >
+29237	< met_600 deze_360 was_275 het_440 anders_500 . >
+29238	< niet_500 dat_710 ie_300 het_370 nederlandse_103 of_700 tsjechische_103 volkslied_000 aanhief_255 , maar_700 hij_300 was_275 zo_510 overdadig_100 met_600 " welkom_100 " en_700 " hoop_251 dat_710 u_300 een_450 aangenaam_100 oponthoud_000 hebt_252 " en_700 " plezierige_103 reis_000 " dat_710 ik_300 een_450 moment_000 dacht_255 : hij_300 houdt_2530 me_303 met_600 mooi-weer-smoesjes_001 op_6205 om_650 zijn_330 collega_000 de_370 kans_000 te_650 geven_210 even_500 naar_600 praag_010 te_650 bellen_210 dat_710 ik_300 in_600 aantocht_000 ben_271 en_700 dat_710 ze_300 de_370 messen_001 maar_500 vast_150 moeten_274 slijpen_210 . >
+29239	< dat_360 was_275 natuurlijk_150 onzin_000 . >
+29240	< het_440 kwam_245 gewoon_150 doordat_710 ik_300 heerlijk_150 had_275 gepit_206 in_600 een_450 ouderwets_100 hotelletje_000 met_600 half_150 vergane_207 luiken_001 voor_600 het_370 venster_000 . >
+29241	< als_710 ik_300 goed_150 heb_271 geslapen_206 , werkt_243 mijn_330 fantasie_000 met_600 dubbele_103 kracht_000 . >
+29242	< ik_300 liet_255 de_370 grens_000 dan_510 ook_500 achter_600 me_303 met_600 het_370 beeld_000 van_600 een_450 ge`uniformeerde_217 vleugeltjes-fee-op-leeftijd_000 in_600 de_370 achteruitkijkspiegel_000 . >
+29243	< praag_010 ligt_243 nog_500 geen_450 tweehonderd_470 kilometer_001 verderop_500 . > 
+29244	< groggy_010 ook_500 goed_100 was_275 . >
+29245	< ik_300 had_275 groggy_010 nog_500 nooit_510 gebruikt_216 en_700 zelfs_500 niet_500 geprobeerd_216 of_710 het_440 werkte_245 . >
+29246	< het_440 zou_275 nu_510 moeten_230 blijken_200 of_710 het_440 aan_600 zijn_330 doel_000 beantwoordde_245 . >
+29247	< ik_300 duwde_255 de_370 kop_000 van_600 een_450 kleine_103 cilinder_000 met_600 samengeperste_217 lucht_000 in_600 het_370 ventiel_000 en_700 drukte_245 op_600 de_370 rode_103 knop_000 . >
+29248	< nou_580 , het_370 effect_000 mocht_275 er_510 zijn_200 ! >
+29249	< het_370 pakje_000 werd_275 op_600 slag_000 dikker_104 en_700 dikker_104 , de_370 vouwen_001 verdwenen_246 en_700 nog_500 geen_450 twee_470 seconden_001 later_154 zat_245 er_510 een_450 plasticmannetje_000 naast_600 me_303 dat_420 bedriegelijk_150 veel_440 op_600 mij_303 leek_245 . >
+29250	< een_450 te_650 verwaarlozen_210 verschil_000 tussen_600 ons_303 beiden_441 was_275 dat_710 groggy_010 geen_450 benen_001 had_255 : hij_300 was_275 niet_500 meer_444 dan_720 een_450 romp_000 , twee_470 stijve_103 armen_001 en_700 een_450 bol_100 hoofd_000 waarop_560 een_450 echte_103 pruik_000 zat_245 geplakt_216 . >
+29251	< ik_300 trok_2550 de_370 hendel_000 van_600 het_370 handgas_000 aan_6205 zodat_710 ik_300 mijn_330 benen_001 van_600 het_370 pedaal_000 kon_275 nemen_210 en_700 schoof_245 naar_600 rechts_500 . >
+29252	< groggy_010 zette_255 ik_300 achter_600 het_370 stuur_000 . >
+29253	< daarna_540 dook_245 ik_300 zover_510 mogelijk_150 weg_500 onder_600 het_370 dashboard_000 en_700 legde_255 het_370 pistool_000 naast_600 me_303 . >
+29254	< ik_300 ontkoppelde_255 het_370 handgas_000 en_700 drukte_255 mijn_330 ene_453 hand_000 op_600 het_370 gaspedaal_000 . >
+29255	< met_600 de_370 andere_453 stuurde_255 ik_300 zo_510 goed_150 en_700 zo_510 kwaad_150 mogelijk_150 rechtuit_500 . >
+29256	< van_600 mijn_330 ongemakkelijke_103 plaats_000 uit_630 kon_275 ik_300 nog_500 door_600 het_370 bovenste_103 deel_000 van_600 de_370 achterruit_000 een_450 klein_100 stukje_000 van_600 de_370 hemel_000 zien_210 . >
+29257	< ik_300 stuurde_245 zo_510 dat_710 de_370 wagen_000 tussen_600 de_370 bomen_001 bleef_245 die_420 links_500 en_700 rechts_500 van_600 de_370 weg_000 stonden_246 . >
+29258	< het_440 was_275 niet_500 de_370 veiligste_109 manier_000 van_600 rijden_200 maar_700 het_440 ging_245 uitstekend_100 . >
+29259	< de_370 enige_103 moeilijkheid_000 was_275 dat_710 ik_300 de_370 auto_000 op_600 tijd_000 moest_275 laten_230 stoppen_200 . >
+29260	< winkler_010 had_275 me_303 destijds_150 nog_500 voorgesteld_216 een_450 soort_000 periscoop_000 in_600 het_370 dashboard_000 te_650 monteren_210 , zodat_710 ik_300 , zonder_650 zelf_340 gezien_216 te_650 worden_230 toch_500 naar_600 voren_500 kon_275 kijken_200 . >
+29261	< ik_300 had_275 hem_303 vriendelijk_150 toegelachen_216 en_700 gezegd_216 dat_710 ik_300 tegen_600 de_370 tijd_000 waarop_530 ik_300 het_370 apparaat_000 kon_275 gebruiken_210 , al_500 lang_150 met_600 kogels_001 doorzeefd_216 op_600 weg_000 naar_600 de_370 hemel_000 was_275 - nu_510 vervloekte_255 ik_300 mijn_330 stomme_103 opmerking_000 . > 
+29262	< twee_470 dagen_001 later_154 had_275 ik_300 pete_010 nog_500 steeds_500 niet_500 opgeduikeld_216 ofschoon_710 ik_300 ijverig_150 zocht_255 . >
+29263	< maar_700 het_440 was_275 natuurlijk_150 een_450 speld_000 in_600 een_450 hooiberg_000 . >
+29264	< ik_300 had_275 het_370 lang_150 niet_500 onaardige_103 stadje_000 afgeschuimd_216 tot_710 ik_300 elk_450 bosje_000 kende_255 , ik_300 was_275 links_500 en_700 rechts_500 door_600 de_370 omgeving_000 getrokken_206 en_700 vanzelfsprekend_150 had_275 ik_300 urenlang_150 in_600 en_700 rond_600 de_370 kuurgebouwen_001 doorgebracht_216 . >
+29265	< ik_300 gaf_255 er_5400 de_370 voorkeur_000 aan_6105 eerst_500 op_600 deze_370 in-het-wilde-wegmanier_000 te_650 proberen_230 iets_440 te_650 ontdekken_210 voordat_710 ik_300 regelrecht_150 informeerde_245 naar_600 dokter_000 grimzek_010 . >
+29266	< dat_710 ik_300 hem_303 tenslotte_510 op_600 de_370 ochtend_000 van_600 de_370 derde_490 dag_000 tegen_600 het_370 lijf_000 liep_245 , was_275 nauwelijks_500 mijn_330 verdienste_000 , al_730 was_275 het_440 wel_500 een_450 direct_100 gevolg_000 van_600 het_370 rondlummelen_201 in_600 luhacovice_010 . >
+29267	< ik_300 stond_245 in_600 de_370 grote_103 fonteinzaal_000 . >
+29268	< er_510 waren_246 bijna_500 geen_450 mensen_001 . >
+29269	< in_600 heel_100 luhacovice_010 was_275 het_440 trouwens_500 betrekkelijk_150 stil_100 . >
+29270	< het_370 leven_000 zoals_710 je_440 dat_360 in_600 andere_453 kuuroorden_001 ziet_252 , was_275 hier_510 veel_450 minder_454 rumoerig_100 en_700 zeker_150 niet_500 zo_510 mondain_100 . >
+29271	< je_300 kreeg_255 de_370 indruk_000 dat_710 wie_420 in_600 dit_370 " dal_000 der_372 rust_000 en_700 gezondheid_000 " vertoefde_245 inderdaad_510 voor_600 rust_000 kwam_245 en_700 niet_500 voor_600 danspartijen_001 en_700 hoempaconcerten_001 . >
+29272	< ik_300 stond_245 dus_510 bij_600 de_370 hygi`enische_103 fontein_000 die_420 ik_300 tot_600 dan_510 toe_630 zorgvuldig_150 had_275 gemeden_216 en_700 keek_245 naar_600 het_370 plezierige_103 straaltje_000 dat_420 eruit_540 vloeide_245 . >
+29273	< het_300 zag_245 er_5400 wel_500 helder_100 uit_6105 . >
+29274	< aan_600 het_370 eind_000 van_600 de_370 zaal_000 bevond_265 zich_340 een_450 lang_100 buffet_000 . >
+29275	< een_450 oude_103 vrouw_000 met_600 uitnodigende_203 boezem_000 stond_275 er_510 glazen_001 en_700 deelnemende_203 glimlachjes_001 uit_6200 te_650 delen_2105 . >
+29276	< ik_300 nam_255 beide_440 in_600 ontvangst_000 en_700 liet_275 het_370 dikke_103 glas_000 vollopen_200 . >
+29277	< toen_710 ik_300 het_303 aan_600 de_370 mond_000 wilde_275 zetten_210 , zei_255 iemand_440 achter_600 me_303 : >
+29278	< " prosit_800 ! " >
+29279	< ik_300 keek_2450 met_600 een_450 ruk_000 om_6205 . >
+29280	< de_370 man_000 droeg_255 een_450 witte_103 doktersjas_000 en_700 exposeerde_255 twee_470 fonkelende_203 ogen_001 achter_600 brilleglas_000 . >
+29281	< " prosit_800 , " herhaalde_255 hij_300 vriendelijk_150 . >
+29282	< ik_300 nam_255 een_450 slok_000 . >
+29283	< een_450 laffe_103 smaak_000 kwam_245 in_600 mijn_330 mond_000 . >
+29284	< " uitstekend_100 , " zei_255 ik_300 waarderend_205 . >
+29285	< " een_450 mens_000 voelt_263 zich_340 met_600 `een_470 klap_000 stukken_001 beter_104 . " > 
+29286	< grimzek_010 barstte_2450 in_600 lachen_200 uit_6205 ... een_450 vreemd_100 , hoog_100 gegiechel_000 . >
+29287	< " o_800 nee_800 , d`aar_5400 trappen_244 we_300 niet_500 in_6105 , " zei_255 hij_300 eindelijk_500 . >
+29288	< " amerikaanse_103 bluf_000 . >
+29289	< er_510 is_243 helemaal_500 geen_450 microfilm_000 en_700 jij_300 hebt_272 niets_440 over_600 de_370 grens_000 gesmokkeld_216 . >
+29290	< waarmee_550 zou_275 je_300 dat_360 gedaan_216 kunnen_230 hebben_230 ? >
+29291	< we_300 houden_254 je_303 al_500 dagen_001 in_600 de_370 gaten_001 . " >
+29292	< met_600 die_370 laatste_109 twee_470 zinnen_001 liet_275 hij_300 zich_340 in_600 de_370 kaart_000 kijken_200 . >
+29293	< vanzelfsprekend_150 maakte_255 ik_300 geen_450 enkele_453 kans_000 met_600 mijn_330 geimproviseerd_216 verhaaltje_000 over_600 een_450 microfilm_000 , maar_700 het_440 was_275 duidelijk_100 dat_710 hij_300 zo'n_370 mogelijkheid_000 ook_500 niet_500 helemaal_500 verwierp_255 . >
+29294	< ik_300 zei_255 : >
+29295	< " als_710 jullie_300 me_303 zo_510 goed_150 in_600 het_370 oog_000 hebben_274 gehouden_216 , moet_272 je_300 gezien_216 hebben_230 dat_710 ik_300 gistermiddag_500 om_600 drie_470 uur_000 met_600 een_450 dame_000 sprak_245 . " >
+29296	< dat_370 laatste_129 was_275 waar_100 . >
+29297	< het_300 was_275 een_450 verdraaid_209 aardige_103 , al_500 wat_450 oudere_106 franse_103 toeriste_000 geweest_236 . >
+29298	< ik_300 liep_245 haar_303 tegen_600 het_370 lijf_000 toen_710 ik_300 uit_600 een_450 winkel_000 kwam_245 waar_530 ik_300 een_450 stuk_000 aluin_000 had_275 gekocht_216 omdat_710 ik_300 me_340 bij_600 het_370 scheren_201 had_275 gesneden_226 . >
+29299	< voor_600 mijn_330 elektrisch_100 scheerapparaat_000 kon_275 ik_300 in_600 het_370 hotel_000 geen_450 passend_202 stopcontact_000 vinden_210 en_700 daarom_510 had_275 ik_300 mijn_330 ouwe_103 gilette_000 genomen_216 . >
+29300	< ik_300 had_275 het_370 ding_000 altijd_510 als_720 reserve_000 in_600 de_370 auto_000 , maar_700 ik_300 was_275 er_5400 vervloekt_209 onhandig_100 mee_6105 . >
+29301	< grimzek_010 wendde_255 het_370 hoofd_000 naar_600 de_370 man_000 met_600 de_370 puist_000 . >
+29302	< in_600 de_370 achteruitkijkspiegel_000 kon_275 ik_300 zien_210 dat_710 deze_360 kortaf_500 knikte_245 . >
+29303	< " en_700 die_370 vrouw_000 overhandigde_255 jou_303 de_370 film_000 ? >
+29304	< moet_271 ik_300 deze_370 onzin_000 werkelijk_150 geloven_210 ? " zei_255 grimzek_010 lachend_205 . >
+29305	< ik_300 hoorde_255 de_370 twijfel_000 duidelijker_104 worden_230 . >
+29306	< " nee_800 , " zei_255 ik_300 , " het_440 kan_273 mij_303 geen_450 donder_000 schelen_210 of_710 je_300 het_440 gelooft_252 of_700 niet_500 . >
+29307	< overigens_500 gaf_255 ze_300 niets_440 aan_600 mij_303 , ik_300 gaf_255 het_440 aan_600 haar_303 . " >
+29308	< " en_700 hoe_520 dan_510 wel_500 ? " vroeg_255 grimzek_010 sarcastisch_150 . >
+29309	< " toen_710 ik_300 tegen_600 haar_303 opbotste_245 , liet_275 ze_300 haar_330 tasje_000 vallen_200 ... " >
+29310	< ik_300 zag_255 in_600 de_370 spiegel_000 dat_710 de_370 puist_000 zorgelijk_150 knikte_245 . " >
+29311	< ... en_700 ik_300 bukte_265 me_340 om_650 het_303 terug_500 te_650 geven_210 . > 
+29312	< een_450 operette_000 die_420 in_600 de_370 bergen_001 speelde_245 met_600 kerels_001 in_600 korte_103 broeken_001 ... >
+29313	< verdomme_800 , hoe_520 was_275 het_440 ook_500 weer_500 ? >
+29314	< terwijl_710 ik_300 langzaam_150 naar_600 de_370 auto_000 terugliep_245 , neuriede_255 ik_300 het_370 wijsje_000 en_700 vrijwel_500 meteen_500 schoten_246 me_303 de_370 beginregels_001 te_500 binnen_500 . >
+29315	< in_600 weissen-r`ossl-am-wolfgangsee_010 ... daar_510 staat_243 het_370 geluk_000 voor_600 de_370 deur_000 ! >
+29316	< im-weissen-r`ossl_010 ... >
+29317	< inhet-witte-paard_010 ... >
+29318	< ik_300 rukte_255 het_370 portier_000 open_100 , friemelde_245 met_600 het_370 ijzerdraadje_000 dat_420 om_600 de_370 schroevedraaier_000 was_275 gewonden_216 in_600 het_370 contactslot_000 tot_710 de_370 motor_000 aansloeg_245 en_700 reed_245 zo_510 snel_150 mogelijk_150 terug_500 naar_600 luhacovice_010 . >
+29319	< voordat_710 ik_300 in_600 het_370 dorp_000 kwam_245 , sloeg_245 ik_300 rechtsaf_500 , een_450 smal_100 bospad_000 in_640 , nam_255 bij_600 een_450 viersprong_000 de_370 weg_000 links_500 , zette_255 de_370 auto_000 ver_150 van_600 de_370 weg_000 tussen_600 de_370 bomen_001 en_700 marcheerde_245 in_600 toepasselijke_103 operettepas_000 naar_600 de_370 top_000 van_600 een_450 onder_600 sparren_001 bedolven_216 heuvel_000 . >
+29320	< het_440 was_275 een_450 plaats_000 waar_530 ik_300 eergisteren_500 had_275 gewandeld_206 tijdens_600 een_440 van_600 de_370 verkenningstochten_001 door_600 de_370 omgeving_000 . >
+29321	< het_370 huis_000 was_275 me_303 opgevallen_206 doordat_710 het_300 het_370 popperigste_109 huis_000 was_275 dat_420 ik_300 ooit_510 had_275 gezien_216 , schijnbaar_150 regelrecht_150 ontleend_216 aan_600 een_450 of_700 ander_450 sprookje_000 . >
+29322	< alleen_500 waren_276 de_370 dakpannen_001 niet_500 van_600 pannekoeken_001 , maar_700 van_600 leisteen_000 . >
+29323	< en_700 ook_500 de_370 naam_000 was_275 anders_500 : het-witte-paard_010 , heette_275 het_300 . >
+29324	< de_370 naam_000 stond_245 met_600 grote_103 letters_001 op_600 het_370 tuinhek_000 . >
+29325	< toen_710 ik_300 dichterbij_504 kwam_245 , zag_255 ik_300 dat_710 het_370 huis_000 aanzienlijk_150 groter_104 was_275 dan_710 het_300 aan_600 de_370 voorkant_000 leek_245 . >
+29326	< het_300 was_275 nogal_500 ver_150 naar_600 achteren_500 doorgebouwd_216 zodat_710 daar_510 een_450 groot_100 balkon_000 was_275 ontstaan_206 dat_420 het_370 dak_000 vormde_255 van_600 een_450 ruimte_000 , die_420 vermoedelijk_150 garage_000 of_700 bergschuur_000 was_275 . >
+29327	< het_370 huis_000 zag_245 er_5400 niet_500 nieuw_100 uit_6105 , integendeel_800 . >
+29328	< de_370 grote_103 blokken_001 zandsteen_000 waarvan_560 het_370 was_275 opgebouwd_216 , waren_276 verweerd_216 en_700 de_370 vele_453 raamkozijnen_001 konden_276 een_450 lik_000 verf_000 goed_150 gebruiken_210 . >
+29329	< toch_500 was_275 het_300 niet_500 werkelijk_150 verwaarloosd_216 - het_440 leek_245 er_5400 eerder_154 op_6105 dat_710 het_300 niet_500 altijd_510 werd_275 bewoond_216 . >
+29330	< mogelijk_150 was_275 het_300 een_450 tweede_490 huis_000 van_600 een_450 of_700 andere_453 hoge_103 partijfunctionaris_000 waarin_560 hij_300 met_600 zijn_330 gezin_000 slechts_500 enkele_453 maanden_001 per_600 jaar_000 doorbracht_255 . > 
+29331	< " het_440 is_273 een_450 lang_100 verhaal_000 . " >
+29332	< " lange_103 verhalen_001 zijn_244 er_510 om_650 ingekort_216 te_650 worden_230 . " >
+29333	< ze_300 prikte_255 met_600 de_370 vork_000 een_450 brok_000 bruin_100 vlees_000 van_600 de_370 pen_000 en_700 stak_255 het_303 in_600 haar_330 mond_000 . >
+29334	< je_440 kon_275 zien_210 dat_710 ze_300 met_600 smaak_000 at_245 . >
+29335	< ik_300 denk_251 dat_710 ze_300 honger_000 had_255 . >
+29336	< " goed_100 , " zei_255 ze_300 met_600 volle_103 mond_000 . >
+29337	< " als_710 je_300 erop_540 staat_243 . " >
+29338	< " dat_360 doe_251 ik_300 . " >
+29339	< " ik_300 waarschuw_251 je_303 dat_710 het_440 niet_500 zo'n_370 prettige_103 geschiedenis_000 is_273 . " >
+29340	< " zanik_247 niet_500 , " zei_255 ik_300 . >
+29341	< " ik_300 weet_251 niet_500 goed_150 waar_520 ik_300 moet_271 beginnen_200 . " >
+29342	< " met_600 pete_010 . " >
+29343	< ze_300 lachte_245 . >
+29344	< een_450 beetje_000 schamper_150 , kwam_2450 me_303 voor_6105 . >
+29345	< " pete_010 is_273 onbelangrijk_100 . >
+29346	< hij_300 is_273 een_450 stuk_000 boetseerklei_000 . >
+29347	< dat_360 moet_272 jij_300 toch_500 ook_500 gemerkt_216 hebben_230 ? >
+29348	< hij_300 doet_253 alles_440 wat_420 we_300 zeggen_254 . " >
+29349	< ik_300 begon_275 het_370 onaangename_103 gevoel_000 te_650 krijgen_210 dat_710 de_370 zaak_000 scheef_100 liep_245 . >
+29350	< tegen_600 beter_154 weten_200 in_630 informeerde_255 ik_300 : >
+29351	< " wodka_000 ? " >
+29352	< " wodka_000 ? >
+29353	< goeie_103 god_080 , nee_800 ! >
+29354	< blauwe_103 pilletjes_001 . " >
+29355	< ik_300 geloof_251 dat_710 ik_300 even_500 mijn_330 wenkbrauwen_001 optrok_255 . >
+29356	< " beweer_257 niet_500 dat_710 je_300 ze_303 niet_500 kent_252 . >
+29357	< ze_300 verlammen_254 elk_450 initiatief_000 en_700 als_710 je_440 er_5400 lang_150 van_6105 neemt_242 ook_500 de_370 spieren_001 . " >
+29358	< " o_800 , die_360 ! " zei_255 ik_300 . >
+29359	< ik_300 was_275 er_5400 nog_500 niet_500 helemaal_500 zeker_100 van_6105 wat_400 ze_300 bedoelde_255 , maar_700 als_710 ze_300 bedoelde_255 wat_420 ik_300 dacht_255 dat_710 ze_300 bedoelde_255 ... >
+29360	< zelfs_500 de_370 intelligentste_109 , krachtigste_109 man_000 kun_272 je_440 er_5400 in_600 twee_470 dagen_001 zo_510 klein_100 mee_6105 krijgen_210 als_720 een_450 schuchtere_103 , doodsbenauwde_103 kabouter_000 . >
+29361	< was_275 d`at_360 met_600 pete_010 gebeurd_206 ? >
+29362	< het_440 leek_245 of_710 ze_300 mijn_330 gedachten_001 raadde_255 . >
+29363	< " anderhalve_473 dag_000 , " zei_255 ze_300 . >
+29364	< " toen_510 was_275 ie_300 lam_100 gelegd_216 . " >
+29365	< ze_300 keek_2550 me_303 van_600 top_000 tot_600 teen_000 aan_6205 en_700 haalde_255 wat_450 sneller_154 adem_000 . >
+29366	< " bij_600 jou_303 schat_251 ik_300 het_440 op_600 drie_470 dagen_001 . " >
+29367	< " dank_251 je_303 , " zei_255 ik_300 , " je_300 legt_252 het_440 er_5400 te_500 dik_100 op_6105 , maar_700 het_440 klinkt_243 toch_500 complimenteus_100 . >
+29368	< eh_800 ... als_710 pete_010 niet_500 zo_510 belangrijk_100 voor_600 jullie_303 was_275 , waarom_520 doe_252 je_300 dan_510 al_450 die_370 moeite_000 ? " >
+29369	< ze_300 nam_255 nu_510 twee_470 brokken_001 vlees_000 tegelijk_500 . >
+29370	< ze_300 begon_275 iets_440 van_600 een_450 roofdier_000 te_650 krijgen_210 , vond_255 ik_300 . > 

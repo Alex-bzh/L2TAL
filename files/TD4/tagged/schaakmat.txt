@@ -1,0 +1,210 @@
+27822	< het_440 was_275 half_100 twaalf_460 . >
+27823	< de_370 chauffeur_000 verhoogde_255 na_600 cork_010 zijn_330 snelheid_000 . >
+27824	< de_370 auto_000 die_420 groot_100 en_700 antiek_100 was_275 , reed_245 glimmend_205 en_700 soepel_150 door_600 de_370 mist_000 . >
+27825	< ik_300 zat_245 achterin_600 het_370 gevaarte_000 en_700 hield_2650 mij_303 vast_100 . >
+27826	< de_370 mist_000 rolde_245 in_600 dichte_103 en_700 minder_454 dichte_103 wolken_001 op_600 ons_303 toe_630 waar_5600 we_300 , voor_600 mijn_330 gevoel_000 , met_600 een_450 snelheid_000 van_600 een_450 raket_000 doorheen_6105 denderden_246 . >
+27827	< in_600 de_370 bochten_001 vlogen_2460 de_370 uit_600 de_370 mist_000 opdoemende_203 bomen_001 dreigend_205 op_600 ons_303 af_6205 . >
+27828	< de_370 gierende_203 banden_001 ontweken_256 op_600 de_370 laatste_109 momenten_001 nog_500 net_500 weer_500 het_370 dodelijk_100 trefpunt_000 . >
+27829	< toch_500 weigerde_255 ik_300 het_440 om_650 de_370 chauffeur_000 tot_600 kalmer_154 rijden_200 aan_6200 te_650 manen_2105 . >
+27830	< evenals_720 hij_300 , wist_255 ik_300 dat_710 er_510 om_600 twaalf_470 uur_000 getrouwd_206 moest_275 worden_230 . >
+27831	< evenals_720 ik_300 , was_275 hij_300 schijnbaar_150 vastbesloten_100 dat_710 er_510 om_600 twaalf_470 uur_000 getrouwd_206 zou_275 worden_230 . >
+27832	< kwart_000 voor_600 twaalf_460 reden_246 wij_300 door_600 een_450 groot_100 hek_000 . >
+27833	< een_450 kronkelige_103 laan_000 slingerde_2650 zich_340 nat_100 en_700 eindeloos_100 voor_600 ons_303 uit_6205 . >
+27834	< zeven_470 minuten_001 voor_600 twaalf_460 stopten_246 wij_300 voor_600 het_370 bordes_000 . >
+27835	< ik_300 dacht_245 alleen_500 nog_500 maar_500 aan_600 de_370 resterende_203 zeven_470 minuten_001 . >
+27836	< ik_300 moest_275 mij_340 nog_500 verkleden_220 . >
+27837	< maar_700 dat_360 bleek_275 eenvoudig_100 . >
+27838	< ik_300 werd_275 verkleed_216 . >
+27839	< een_450 man_000 haastte_255 mij_303 uit_600 de_370 auto_000 . >
+27840	< de_370 trappen_001 van_600 het_370 bordes_000 op_640 . >
+27841	< de_370 deur_000 in_640 , die_420 wijd_150 werd_275 opengehouden_216 . >
+27842	< de_370 hall_000 door_640 en_700 de_370 brede_103 gebeeldhouwde_217 trap_000 op_640 . >
+27843	< precies_150 om_600 twaalf_470 uur_000 daalde_2550 ik_300 de_370 trap_000 weer_500 af_6205 en_700 betrad_255 het_370 vertrek_000 rechts_500 van_600 de_370 hall_000 . >
+27844	< groot_100 en_700 koud_100 wachtte_245 de_370 kamer_000 op_600 mij_303 . >
+27845	< ik_300 had_275 nog_500 nooit_510 een_450 jacquet_000 gedragen_216 . >
+27846	< de_370 omstandigheden_001 waren_276 er_5400 echter_500 niet_500 naar_6105 om_650 me_340 ergens_5400 anders_452 in_6105 te_650 verdiepen_220 dan_720 in_600 mijn_330 huwelijk_000 . >
+27847	< voor_600 de_370 tafel_000 waar_530 de_370 ambtenaar_000 van_600 de_370 burgerlijke_103 stand_000 mij_303 wachtte_255 met_600 twee_470 getuigen_001 , stond_245 ook_500 de_370 mooiste_109 vrouw_000 die_420 ik_300 ooit_510 in_600 mijn_330 leven_000 gezien_216 had_275 . >
+27848	< het_370 huwelijk_000 werd_275 snel_150 en_700 nuchter_150 gesloten_216 . > 
+27849	< opgezet_216 als_720 een_450 vogel_000 . >
+27850	< gekleed_216 in_600 een_450 onberispelijk_150 geperst_216 pak_000 , vastgeprikt_216 in_600 een_450 stoel_000 , met_600 zijn_330 armen_001 leunend_205 op_600 een_450 tafel_000 , waarop_530 een_450 onafgespeelde_103 partij_000 schaak_000 . >
+27851	< robert-maccaltee_010 , al_500 jaren_001 dood_100 maar_700 grijnzend_205 starend_202 naar_600 het_370 schaakbord_000 . >
+27852	< in_600 de_370 andere_453 stoel_000 moet_273 alice_010 gezeten_206 hebben_230 . >
+27853	< jaar_000 in_640 jaar_000 uit_640 . >
+27854	< dag_000 in_640 dag_000 uit_640 misschien_500 , want_700 we_300 vonden_256 daar_510 kleine_103 dingen_001 van_600 haar_303 . >
+27855	< een_450 zakdoek_000 , een_450 shawl_000 en_700 een_450 klein_100 opschrijfboekje_000 waarin_560 zij_300 de_370 gespeelde_217 partijen_001 bijhield_255 tot_600 op_600 de_370 dag_000 dat_530 ze_300 mij_303 trouwde_255 . >
+27856	< rillend_205 van_600 afschuw_000 drong_2450 de_370 afgrijselijke_103 waarheid_000 tot_600 me_303 door_6205 . >
+27857	< ik_300 dacht_245 aan_600 alice's_012 hijgende_203 woorden_001 onder_600 ons_330 liefdesspel_000 . >
+27858	< als_720 een_450 carrousel_000 bleven_276 zij_300 in_600 mij_303 ronddraaien_200 . >
+27859	< de_370 woorden_001 die_420 ik_300 langzaam_150 naar_600 me_303 toetrok_255 , in_600 mij_303 opnam_255 . >
+27860	< alice_010 die_420 zei_255 : >
+27861	< " jij_300 ... jij_300 moet_272 alleen_500 maar_500 schaakspelen_200 , alleen_500 maar_500 schakenschaken-schaken_200 . >
+27862	< want_700 ik_300 heb_251 er_5400 zo_510 genoeg_440 van_6105 . " >
+27863	< ik_300 kan_271 mijn_330 ogen_001 niet_500 afwenden_220 van_600 de_370 lege_103 stoel_000 die_420 uitnodigend_205 voor_600 mij_303 klaar_100 stond_245 . >
+27864	< hij_300 staat_243 nu_510 in_600 mijn_330 slaapkamer_000 bij_600 het_370 vuur_000 en_700 ik_300 kijk_241 ernaar_540 . >
+27865	< nog_500 steeds_500 kijk_241 ik_300 naar_600 de_370 stoel_000 . >
+27866	< ik_300 had_275 dit_360 goed_100 gevonden_216 . >
+27867	< ik_300 had_275 mijn_330 lichaam_000 aan_600 alice_010 verkocht_216 om_650 schaak_000 te_650 spelen_210 met_600 de_370 dode_103 robert-maccaltee_010 . >
+27868	< twee_470 opgezette_217 echtgenoten_001 , schakend_202 en_700 grijnzend_202 tegenover_600 elkaar_340 . >
+27869	< alice_010 zou_275 misschien_500 nu_510 en_700 dan_510 op_600 bezoek_000 komen_200 om_650 de_370 stukken_001 te_650 verzetten_210 zodat_710 wij_300 verder_154 zouden_276 kunnen_230 peinzen_200 in_600 ons_330 spel_000 . >
+27870	< had_275 alice_010 mij_303 willen_230 vermoorden_210 ? >
+27871	< ik_300 zou_275 immers_500 na_600 drie_470 weken_001 op_600 reis_000 moeten_230 gaan_200 ... >
+27872	< of_700 had_275 haar_330 zieke_103 geest_000 zonder_600 meer_444 aangenomen_216 dat_710 ik_300 toch_500 wel_500 vroegtijdig_150 zou_275 sterven_200 , zoals_720 robert_010 , haar_330 eerste_493 echtgenoot_000 . >
+27873	< had_275 de_370 dood_000 van_600 robert_010 alice_010 in_600 de_370 geestelijke_103 vereenzaming_000 gedreven_216 die_420 haar_303 tot_600 het_370 schaakspel_000 had_275 gebracht_216 met_600 het_370 gebalsemde_217 lichaam_000 van_600 haar_330 echtgenoot_000 ? >
+27874	< de_370 eenzaamheid_000 moet_273 haar_303 langzaam_150 krankzinnig_100 hebben_230 gemaakt_216 . > 
+27875	< ik_300 vervloekte_255 allang_500 het_370 moment_000 dat_530 ik_300 in_600 de_370 roeiboot_000 was_275 gestapt_206 . >
+27876	< " die_370 sardines_001 stinken_244 , zwaai_247 niet_500 zo_510 met_600 dat_370 aas_000 langs_600 mijn_330 hoofd_000 . >
+27877	< ik_300 zit_241 al_500 helemaal_500 onder_600 die_370 stinkende_203 vis_000 . >
+27878	< hij_300 is_273 vast_150 al_500 dagen_001 oud_100 , " zei_255 ik_300 wraakzuchtig_150 . >
+27879	< " ik_300 heb_271 de_370 vis_000 vanmorgen_500 gekregen_216 se`nor_000 ... het_370 aas_000 dat_420 ik_300 tot_600 nu_510 toe_630 heb_271 gebruikt_216 was_275 trouwens_500 geen_450 sardine_000 maar_700 ansjova_000 ... nu_510 ga_271 ik_300 pas_500 sardine_000 gebruiken_210 - de_370 se`nor_000 zal_273 het_370 verschil_000 duidelijk_150 merken_210 . " >
+27880	< " het_440 kan_273 me_303 niets_440 schelen_210 of_710 het_440 sardine_000 of_700 ansjova_000 is_273 . >
+27881	< de_370 vis_000 stinkt_243 en_700 ik_300 houd_2410 op_6205 met_600 roeien_200 , " eindigde_255 ik_300 als_720 een_450 koppig_100 kind_000 voor_600 het_370 eerst_157 bewust_100 van_600 twee_470 soorten_001 stank_000 . >
+27882	< " de_370 vis_000 moet_273 stinken_200 se`nor_000 , anders_500 is_273 het_440 geen_450 goed_100 aas_000 . >
+27883	< als_710 de_370 se`nor_000 moe_100 is_273 van_600 het_370 roeien_201 dan_510 rusten_244 wij_300 even_500 . >
+27884	< ik_300 heb_251 geen_450 haast_000 . >
+27885	< elbisabuelo_010 verwacht_253 mij_303 pas_500 tegen_600 zonsondergang_000 thuis_500 . " >
+27886	< zo_510 roeide_245 en_700 rustte_245 ik_300 , de_370 jongen_000 viste_245 . >
+27887	< de_370 gevangen_216 vissen_001 wierp_255 hij_300 tussen_600 mijn_330 voeten_001 waar_530 ze_300 glibberig_100 neervielen_246 met_600 hijgende_203 kieuwen_001 en_700 puilende_203 ogen_001 . >
+27888	< we_300 deden_256 uren_001 over_600 de_370 terugtocht_000 . >
+27889	< ik_300 zag_255 geen_450 zee_000 meer_500 , voelde_255 geen_450 zon_000 en_700 rook_000 geen_450 vis_000 . >
+27890	< ik_300 was_275 me_340 alleen_500 maar_500 bewust_100 van_600 de_370 pijn_000 in_600 mijn_330 armen_001 en_700 schouders_001 en_700 de_370 afstand_000 naar_600 de_370 pier_000 van_600 rosas_010 waar_530 ik_300 eindelijk_500 afmeerde_245 . >
+27891	< " de_370 se`nor_000 begint_273 het_370 roeien_201 al_500 aardig_150 te_650 leren_210 ... " >
+27892	< " we_300 hadden_276 afgesproken_216 geen_450 peseta's_001 , niet_500 waar_100 ? " zei_255 ik_300 wantrouwig_150 : >
+27893	< " si_800 se`nor_000 , geen_450 peseta's_001 , " zei_255 el-ni`no_010 , terwijl_710 hij_300 uit_600 de_370 waterdichte_103 plunjezak_000 de_370 buitenboordmotor_000 haalde_255 en_700 die_360 aanschroefde_255 . >
+27894	< " om_650 spanje_010 te_650 kennen_210 moet_273 men_440 ook_500 de_370 geur_000 van_600 spanje_010 leren_230 onderscheiden_210 . >
+27895	< hier_510 aan_600 de_370 costa-brava_010 is_273 het_440 de_370 sardine_000 en_700 ansjova_000 , vergeet_257 dat_360 niet_500 se`nor_000 . >
+27896	< buenosd`ias_800 ... " >
+27897	< als_720 een_450 pijl_000 uit_600 een_450 boog_000 schoot_245 de_370 roeiboot_000 weg_500 , waarschijnlijk_150 de_370 afstand_000 in_600 tien_470 minuten_001 afleggend_205 waar_5600 ik_300 uren_001 over_6105 had_275 geroeid_206 . > 
+27898	< de_370 chinees_000 was_275 bij_600 haar_303 gekomen_206 en_700 had_275 haar_303 de_370 helft_000 van_600 zijn_330 winkel_000 geboden_216 . >
+27899	< " begint_258 u_300 er_510 een_450 zaak_000 , doet_243 er_5400 niet_500 toe_6105 wat_400 , alleen_500 geen_450 verkoop_000 van_600 haarspelden_001 of_700 scheermesjes_001 , ook_500 geen_450 garen_000 of_700 band_000 of_700 elastiek_000 , " want_700 dat_360 verkocht_255 hij_300 zelf_350 . >
+27900	< " hoeveel_440 moet_272 je_300 voor_600 huur_000 hebben_210 ? " vroeg_255 ze_300 . >
+27901	< ze_300 had_275 nooit_510 aan_600 het_370 beginnen_211 van_600 een_450 winkeltje_000 gedacht_206 . >
+27902	< haar_330 hele_103 opvoeding_000 was_275 hier_5400 niet_500 op_6105 gericht_216 geweest_236 maar_700 er_510 was_275 een_450 oorlog_000 aan_600 de_370 gang_000 . >
+27903	< ook_500 had_255 zij_300 de_370 verantwoordelijkheid_000 voor_600 een_450 groot_100 gezin_000 , haar_330 moeder_000 en_700 haar_330 kind_000 , twee_470 jongere_106 broers_001 en_700 twee_470 jongere_106 zusters_001 . >
+27904	< zij_300 zelf_350 was_275 drie`entwintig_460 . >
+27905	< " vijfentwintig_470 gulden_001 op_600 een_450 kwitantie_000 , maar_700 dat_360 is_273 niet_500 belangrijk_100 ; het_440 hoeft_273 niet_500 betaald_216 te_650 worden_230 , " antwoordde_255 de_370 man_000 haar_303 . >
+27906	< " wat_400 is_273 dan_510 wel_500 belangrijk_100 ? " >
+27907	< ze_300 voelde_255 de_370 spanning_000 van_600 hem_303 naar_600 haar_303 overslaan_200 . >
+27908	< even_500 hing_245 de_370 stilte_000 tussen_600 hen_303 in_630 als_720 een_450 scherpe_103 puntige_103 dolk_000 . >
+27909	< toen_510 viel_245 het_440 en_700 brak_255 de_370 stilte_000 . >
+27910	< " ik_300 zal_271 je_303 horloges_001 geven_210 die_420 je_300 voor_600 mij_303 moet_272 ruilen_210 tegen_600 japanse_103 uniformen_001 . " >
+27911	< " ik_300 ? " >
+27912	< ze_300 hijgde_245 naar_600 adem_000 ... >
+27913	< " waarom_520 ik_300 ? " >
+27914	< " de_370 organisatie_000 heeft_273 lang_150 overwogen_216 voor_710 we_300 besloten_256 wie_400 we_300 daarvoor_540 zouden_276 vragen_210 . >
+27915	< jij_300 verkeert_242 in_600 de_370 gezegende_217 omstandigheid_000 dat_710 de_370 nood_000 in_600 jullie_330 gezin_000 zo_510 hoog_100 is_273 gestegen_206 dat_710 je_300 wel_500 werk_000 moet_272 zoeken_210 , anders_500 verhongeren_244 jullie_300 , dat_360 is_273 iets_440 dat_420 ook_500 de_370 japanners_001 weten_254 . " >
+27916	< ze_300 knikte_245 en_700 overdacht_255 dat_710 deze_370 garen-en-band_000 verkopende_213 chinees_000 haar_303 met_600 jij_090 en_700 jouw_090 aansprak_255 . >
+27917	< maar_700 een_450 oorlog_000 maakte_255 allen_441 gelijk_100 , het_370 enige_123 waar_5600 het_440 op_6105 aan_630 kwam_245 was_275 moed_000 . >
+27918	< en_700 er_5400 was_275 zeker_150 moed_000 voor_6105 nodig_100 om_650 japanse_103 uniformen_001 te_650 verlangen_210 . >
+27919	< " niemand_440 zal_273 er_5400 iets_440 van_6105 denken_210 als_710 je_300 nu_510 eindelijk_500 probeert_272 wat_440 te_650 verdienen_210 . " >
+27920	< de_370 stem_000 van_600 de_370 chinees_000 was_275 monotoon_100 , als_730 sprak_245 hij_300 over_600 het_370 weer_000 . >
+27921	< uiteindelijk_150 waren_276 deze_370 zaken_001 vervelend_202 . > 
+27922	< de_370 weg_000 was_275 kronkelig_100 en_700 hing_245 vlak_500 boven_600 het_370 meer_000 . >
+27923	< telkens_500 als_710 de_370 regen_000 zich_340 iets_440 terugtrok_265 zag_255 ik_300 het_370 meer_000 naar_600 me_303 lonken_200 . >
+27924	< anfo_010 doemde_2450 op_6205 met_600 zijn_330 scheefstaande_103 huizen_001 en_700 kleine_103 donkere_103 poorten_001 die_420 naar_600 de_370 zandbanken_001 bij_600 het_370 water_000 leidden_256 , waar_530 kleurige_103 tenten_001 stonden_246 op_600 de_370 kampeerplaatsen_001 . >
+27925	< de_370 weg_000 klom_245 grillig_150 omhoog_500 en_700 zakte_245 weer_500 weg_500 . >
+27926	< de_370 wanden_001 van_600 de_370 berg_000 aan_600 mijn_330 linkerkant_000 , sprongen_246 op_600 mij_303 af_630 en_700 weken_246 weer_500 terug_500 voor_710 ik_300 met_600 mijn_330 auto_000 hun_330 grijze_103 flanken_001 kon_275 rammen_210 . >
+27927	< daarop_540 volgde_245 een_450 dorp_000 waarvan_560 ik_300 de_370 naam_000 niet_500 kon_275 lezen_210 . >
+27928	< het_300 vertoonde_255 echter_500 hetzelfde_350 beeld_000 als_720 de_370 voorgaande_203 , grauw_100 , grijs_100 en_700 somber_100 . >
+27929	< toen_510 was_275 het_440 meer_000 afgelopen_206 en_700 volgde_255 ik_300 de_370 stem_000 van_600 de_370 rivier_000 die_420 luid_150 en_700 dwingend_205 bleef_275 roepen_200 . >
+27930	< de_370 dorpjes_001 darzo_010 , condino_010 en_700 daone_010 volgden_246 . >
+27931	< de_370 weg_000 klom_245 nu_510 gestadig_150 omhoog_500 . >
+27932	< mijn_330 fiat_000 kreunde_245 op_600 haar_330 tweede_490 versnelling_000 de_370 kronkelende_203 bochten_001 door_640 . >
+27933	< de_370 regen_000 was_275 veel_450 minder_444 maar_700 de_370 stem_000 van_600 de_370 chiese_010 luider_104 en_700 dringender_203 . >
+27934	< toen_710 de_370 regen_000 ophield_245 zag_255 ik_300 haar_303 links_500 van_600 mij_303 grommend_205 over_600 de_370 grijze_103 gladgeslepen_216 stenen_001 springen_200 , woest_150 en_700 triomfantelijk_150 roepend_205 . >
+27935	< toen_710 steeg_2450 zij_300 op_6205 in_600 een_450 stuwmeer_000 dat_420 dreigend_202 en_700 zwaar_100 tegen_600 de_370 dikke_103 wand_000 van_600 geel_100 beton_000 leunde_245 . >
+27936	< " boasso_090 " zag_255 ik_300 staan_200 . >
+27937	< ik_300 remde_245 abrupt_150 . >
+27938	< een_450 wagen_000 , een_450 donkerblauwe_103 mercedes_000 die_420 ik_300 even_500 tevoren_500 had_275 ingehaald_216 , ontweek_255 mij_303 nauwelijks_500 . >
+27939	< ik_300 zag_255 de_370 bestuurder_000 boos_150 naar_600 mij_303 schreeuwen_200 . >
+27940	< het_440 interesseerde_255 mij_303 niet_500 . >
+27941	< ik_300 klom_245 uit_600 mijn_330 auto_000 en_700 liep_2550 de_370 dam_000 op_6205 en_700 staarde_2450 neer_6205 in_600 het_370 stille_103 groen_120 van_600 het_370 stuwmeer_000 . >
+27942	< wat_400 zocht_255 ik_300 hier_510 ? >
+27943	< ik_300 wist_255 het_440 niet_500 , maar_700 het_440 was_275 in_600 ieder_450 geval_000 niet_500 te_650 vinden_210 in_600 het_370 stuwmeer_000 van_600 boasso_010 . >
+27944	< ik_300 liep_245 terug_500 naar_600 mijn_330 auto_000 en_700 reed_2550 hoger_154 de_370 nauwe_103 bergkloof_000 in_6205 . >
+27945	< ik_300 moest_275 nu_510 al_500 hoog_150 in_600 de_370 bergen_001 zijn_200 . > 
+27946	< " vertel_257 pepe_010 wat_400 er_510 vanmorgen_500 is_273 gebeurd_206 ? >
+27947	< men_440 heeft_273 gezien_216 hoe_520 je_300 met_600 dr.-sanders_010 bent_272 meegereden_206 en_700 het_370 ding_000 in_600 het_370 zeildoek_000 gewikkeld_216 , hebt_272 gedragen_216 . " >
+27948	< pepe_010 woof_245 met_600 zijn_330 hand_000 , wilde_275 wat_440 zeggen_210 en_700 bedacht_265 zich_340 . >
+27949	< daarna_540 zweeg_245 hij_300 weer_500 . >
+27950	< " toe_580 pepe_010 , je_300 kan_272 best_157 vertellen_210 wat_400 dr.-sanders_010 meegebracht_216 heeft_273 op_600 zijn_330 jacht_000 . >
+27951	< jij_300 hebt_272 hem_303 toch_500 geholpen_216 . " >
+27952	< pepe_010 knikte_245 opnieuw_500 . >
+27953	< " si_800 , " zei_255 hij_300 . >
+27954	< " si_800 dr.-sanders_010 . " >
+27955	< plotseling_150 gooide_255 hij_300 zijn_330 hoofd_000 achterover_500 en_700 lachte_245 . >
+27956	< hij_300 spreidde_255 zijn_330 armen_001 als_730 wilde_275 hij_300 het_370 hele_103 eiland_000 omhelzen_210 . >
+27957	< " si_800 , si_800 , " zei_255 hij_300 nogmaals_500 . >
+27958	< daarna_540 vielen_246 zijn_330 armen_001 langs_600 zijn_330 lichaam_000 omlaag_500 . >
+27959	< zijn_330 gezicht_000 nam_2550 de_370 bekende_103 onverstoorbare_103 uitdrukking_000 weer_500 aan_6205 die_420 iedereen_440 van_600 hem_303 kende_255 . >
+27960	< de_370 omroeper_000 probeerde_255 het_440 opnieuw_500 , maar_700 pepe_010 was_275 niet_500 meer_500 te_650 bereiken_210 . >
+27961	< de_370 donkere_103 ogen_001 bleven_276 recht_150 in_600 de_370 lens_000 kijken_200 als_730 zagen_256 zij_300 verre_103 onbekende_103 dingen_001 en_700 de_370 glimlach_000 rond_600 zijn_330 mond_000 verborg_255 het_370 verhaal_000 van_600 de_370 vangst_000 van_600 dr.-sanders_010 als_720 een_450 goed_150 bewaard_216 geheim_000 . >
+27962	< daarom_510 gaf_255 de_370 televisie_000 verder_154 maar_500 beelden_001 van_600 de_370 haven_000 van_600 nassaustad_010 . >
+27963	< het_370 jacht_000 van_600 dr.-sanders_010 met_600 gegevens_001 over_600 bouw_000 en_700 afwerking_000 . >
+27964	< een_450 levensbeschrijving_000 van_600 de_370 jonge_103 chirurg_000 , zijn_330 gezin_000 en_700 huis_000 . >
+27965	< archiefbeelden_001 van_600 de_370 moeder-overste_000 en_700 zuster_000 theresia_010 . >
+27966	< daarna_540 kwam_245 de_370 televisie_000 weer_500 terug_500 bij_600 pepe_010 . >
+27967	< zijn_330 vissersboot_000 . >
+27968	< zijn_330 visstal_000 . >
+27969	< intervieuws_001 met_600 bekenden_121 in_600 de_370 haven_000 en_700 vismarkt_000 . >
+27970	< mensen_001 die_420 pepe_010 goed_150 kenden_256 . >
+27971	< het_440 waren_246 er_510 velen_441 en_700 de_370 verhalen_001 waren_276 overbekend_100 . >
+27972	< wat_420 in_600 het_370 geheel_000 niet_500 hinderde_245 . >
+27973	< daarna_540 kwamen_246 zijn_330 ouders_001 in_600 beeld_000 . >
+27974	< zijn_330 broer_000 en_700 zusters_001 . >
+27975	< het_440 waren_246 er_510 elf_470 ! >
+27976	< de_370 reporter_000 was_275 allang_500 zijn_330 boosheid_000 vergeten_216 over_600 het_370 gedrag_000 van_600 dr.-sanders_010 . >
+27977	< nu_510 liet_275 hij_300 zich_340 meesleuren_210 in_600 de_370 opgewonden_216 atmosfeer_000 die_420 hij_300 zelf_350 had_275 opgeroepen_216 en_700 met_600 onhoudbaar_100 enthousiasme_000 aanwakkerde_255 . >
+27978	< het_370 eiland_000 zat_245 aan_600 het_370 televisietoestel_000 gekluisterd_216 . >
+27979	< er_510 was_275 wat_440 gebeurd_206 . >
+27980	< iets_440 geheimzinnigs_102 was_275 in_600 hun_330 midden_000 gekomen_206 . > 
+27981	< tegen_600 de_370 avond_000 werd_275 het_440 beter_104 . >
+27982	< met_600 de_370 gordijnen_001 sloot_2550 ik_300 de_370 mist_000 en_700 mijn_330 dwaze_103 inbeeldingen_001 buiten_6205 . >
+27983	< de_370 stoelen_001 en_700 de_370 boeken_001 werden_276 weer_500 de_370 mijne_323 . >
+27984	< ik_300 werkte_245 tot_600 laat_150 in_600 de_370 nacht_000 aan_600 mijn_330 illustraties_001 van_600 het_370 kinderboekje_000 waar_5600 ik_300 mee_6105 bezig_100 was_275 . >
+27985	< pas_500 toen_710 ik_300 insliep_245 realiseerde_255 ik_300 mij_340 dat_710 het_440 de_370 eerste_493 keer_000 was_275 dat_530 ik_300 de_370 gordijnen_001 had_275 gesloten_216 . >
+27986	< ik_300 woonde_245 namelijk_500 zo_510 hoog_100 dat_710 het_440 niet_500 eens_500 nodig_100 was_275 om_650 gordijnen_001 te_650 hebben_210 , de_370 hemel_000 met_600 de_370 meeuwen_001 en_700 de_370 wolken_001 waren_276 de_370 achtergrond_000 waartegen_560 de_370 kleurenkombinaties_001 van_600 mijn_330 kamers_001 zeer_500 mooi_150 uitkwamen_246 . >
+27987	< de_370 ochtend_000 kwam_245 met_600 een_450 stralende_203 blauwe_103 hemel_000 . >
+27988	< ik_300 had_275 diep_150 en_700 droomloos_150 geslapen_206 en_700 alle_453 angsten_001 van_600 de_370 vorige_103 avond_000 leken_276 absurd_100 . >
+27989	< het_370 panorama_000 van_600 rotterdam_010 was_275 prachtig_100 . >
+27990	< de_370 brede_103 rivier_000 met_600 de_370 schepen_001 die_420 de_370 verloren_216 tijd_000 van_600 de_370 mist_000 wilden_276 inhalen_210 en_700 druk_150 heen_500 en_700 weer_500 schoven_246 . >
+27991	< vermengd_216 met_600 de_370 schorre_103 geluiden_001 van_600 de_370 hijskranen_001 vormden_256 zij_300 `e`en_470 grote_103 symfonie_000 ; `e`en_470 machtig_100 orgel_000 van_600 grijze_103 bewegende_203 takels_001 en_700 schijven_001 vol_100 werklust_000 na_600 een_450 periode_000 van_600 gedwongen_216 rust_000 , beheerste_255 het_370 orkest_000 . >
+27992	< ik_300 herinner_251 me_340 hoe_520 moe_100 ik_300 was_275 in_600 het_370 begin_000 , toen_710 ik_300 pas_500 in_600 rotterdam_010 woonde_245 . >
+27993	< nu_510 neemt_2530 de_370 stad_000 mij_303 op_6205 in_600 zijn_330 ritme_000 , nu_510 vult_253 hij_300 me_303 met_600 energie_000 en_700 verlangen_000 om_650 mijn_330 werk_000 te_650 beginnen_210 . >
+27994	< de_370 stad_000 en_700 de_370 rivier_000 zijn_274 deel_000 van_600 mijn_330 tijdruimte_000 , ik_300 sta_2410 met_600 ze_303 op_6205 en_700 we_300 eindigen_254 de_370 dag_000 tezamen_500 . >
+27995	< ik_300 heb_271 me_340 geheel_150 gevoegd_226 naar_600 stijl_000 en_700 tempo_000 van_600 rotterdam_010 . >
+27996	< ik_300 had_255 veel_450 vrienden_001 en_700 wij_300 ontmoetten_256 elkaar_340 op_600 diners_001 en_700 partijen_001 of_700 thuis_500 als_710 het_440 zo_510 uitkwam_245 . >
+27997	< verder_154 was_275 ik_300 alleen_100 . >
+27998	< ik_300 leefde_245 en_700 werkte_245 alleen_100 , cre`eerde_255 mijn_330 droomfiguren_001 en_700 vormde_255 de_370 figuren_001 die_420 uit_600 opdrachten_001 voortkwamen_246 . >
+27999	< ik_300 kon_275 snel_150 en_700 effici`ent_150 werken_200 in_600 deze_370 rustige_103 kamers_001 op_600 de_370 veertiende_490 verdieping_000 . >
+28000	< ik_300 was_275 alleen_100 , maar_700 nooit_510 echt_150 eenzaam_100 , dacht_255 ik_300 en_700 wanneer_710 ik_300 uitkeek_245 over_600 de_370 stad_000 en_700 de_370 rivier_000 was_275 ik_300 zelfs_500 bijna_500 gelukkig_100 en_700 bijna_500 tevreden_100 . > 
+28001	< het_440 kon_275 hoogstens_500 kwart_000 over_600 zes_460 zijn_230 , niet_500 later_104 . >
+28002	< en_700 zij_300 was_245 helemaal_500 alleen_500 in_600 huis_000 . >
+28003	< van_600 de_370 patrouillerende_203 wachtposten_001 was_275 niets_440 te_650 bespeuren_210 , het_370 beste_129 was_275 dat_710 ze_300 maar_500 direkt_150 begon_275 te_650 gillen_200 . >
+28004	< zij_300 gilde_245 en_700 gilde_245 ... maar_700 tegelijkertijd_500 was_275 ze_300 zich_340 ervan_540 bewust_100 geen_450 enkel_450 geluid_000 te_650 kunnen_230 uitbrengen_210 . >
+28005	< ik_300 mag_271 niet_500 laten_230 merken_210 dat_710 ik_300 bang_100 ben_271 , bedacht_255 zij_300 ... ik_300 moet_271 schreeuwen_200 en_700 niet_500 laten_230 merken_210 dat_710 ik_300 bang_100 ben_271 . >
+28006	< " goedemorgen_800 , " zei_255 ze_300 in_600 de_370 landstaal_000 , maar_700 ook_500 nu_510 hoorde_265 ze_300 zichzelf_340 nog_500 niet_500 . >
+28007	< er_510 lagen_246 vier_470 meters_001 tussen_600 de_370 man_000 en_700 haar_303 . >
+28008	< vier_470 meter_001 die_420 haar_303 van_600 dood_000 en_700 verschrikking_000 scheidde_255 . >
+28009	< vier_470 meter_001 om_650 als_720 een_450 varken_000 afgeslacht_216 te_650 worden_230 . >
+28010	< " goedemorgen_800 , goedemorgen_800 ... " >
+28011	< goedemorgen_800 schreeuwde_255 annemarie_010 geluidloos_150 en_700 tegelijkertijd_500 dacht_255 ze_300 ook_500 , het_440 zijn_274 er_510 misschien_500 wel_500 vijf_470 , misschien_500 wel_500 vijf_470 meter_001 . >
+28012	< de_370 man_000 zei_255 : >
+28013	< " goedemorgen_800 mevrouw_000 . " >
+28014	< nog_500 steeds_500 schreeuwde_255 annemarie_010 geluidloos_150 in_600 de_370 landstaal_000 . >
+28015	< " goedemorgen_800 . " >
+28016	< " ik_300 ben_271 korporaal_000 mars_010 , mevrouw_000 . " >
+28017	< hij_300 heeft_253 een_450 vriendelijke_103 stem_000 , dacht_255 annemarie_010 en_700 toen_510 ineens_500 , voorzichtig_150 , zo_510 dringt_2630 hij_300 zich_340 natuurlijk_150 binnen_6205 en_700 rooft_243 en_700 moordt_243 . >
+28018	< " ik_300 ben_271 korporaal_000 mars_010 , van_600 de_370 afdeling_000 van_600 de_370 majoor_000 , mevrouw_000 , " zei_255 de_370 man_000 opnieuw_500 . >
+28019	< nog_500 steeds_500 luisterde_245 annemarie_010 onbeweeglijk_100 . >
+28020	< het_370 luide_153 bonzen_201 van_600 haar_330 hart_000 overstemde_255 nog_500 steeds_500 het_370 geluid_000 van_600 zijn_330 woorden_001 . >
+28021	< zij_300 kon_275 ze_303 nog_500 niet_500 begrijpen_210 . >
+28022	< geduldig_150 herhaalde_255 de_370 man_000 zijn_330 naam_000 . >
+28023	< " korporaal_000 mars_010 van_600 de_370 afdeling_000 van_600 de_370 majoor_000 . " >
+28024	< " ja_800 , korporaal_000 " zei_255 ze_300 . >
+28025	< haar_330 spieren_001 waren_276 nog_500 steeds_500 gespannen_216 voor_600 de_370 sprong_000 in_600 de_370 vlucht_000 , terwijl_710 zij_300 toch_500 de_370 zwakte_000 in_600 haar_330 knie`en_001 voelde_255 die_420 haar_303 iedere_453 voetstap_000 onmogelijk_100 maakte_255 . >
+28026	< " ja_800 korporaal_000 . " >
+28027	< het_440 deed_255 pijn_000 aan_600 haar_330 stembanden_001 , maar_700 gelukkig_150 , haar_330 stem_000 was_275 terug_500 . >
+28028	< " mevrouw_000 , is_243 de_370 majoor_000 thuis_500 ? " >
+28029	< de_370 angst_000 golfde_245 weer_500 in_600 haar_303 omhoog_500 . >
+28030	< hij_300 probeert_273 uit_6200 te_650 vinden_2105 of_710 ik_300 alleen_100 ben_271 . >
+28031	< dat_360 moet_271 ik_300 hem_303 nooit_510 vertellen_210 . > 

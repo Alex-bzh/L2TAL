@@ -1,0 +1,261 @@
+24604	< de_370 meesten_449 zijn_274 zwart_100 , en_700 ik_300 heb_271 met_600 veel_440 van_600 hen_303 plezierig_150 omgegaan_206 . >
+24605	< nu_510 ben_271 ik_300 een_450 vreemde_123 ... >
+24606	< ik_300 ben_271 vrij_100 geworden_236 . " >
+24607	< een_450 slank_100 zwart_100 meisje_000 met_600 lang_100 ontkroesd_216 haar_000 schenkt_253 net_500 een_450 glas_000 vol_100 , en_700 als_710 hij_300 voelt_253 hoe_520 droog_100 en_700 rasperig_100 zijn_330 keel_000 is_273 , steekt_2530 hij_300 zijn_330 hand_000 uit_6205 . >
+24608	< ze_300 lacht_243 uitnodigend_205 . >
+24609	< " jij_300 ook_500 , baby_000 ? >
+24610	< hier_510 , er_510 is_273 genoeg_440 . " >
+24611	< george_010 loopt_2430 met_600 zijn_330 glas_000 door_6205 naar_600 het_370 raam_000 . >
+24612	< er_510 is_243 een_450 verre_103 donkerte_000 daarachter_540 , maar_700 als_710 hij_300 zijn_330 gezicht_000 vlak_500 tegen_600 het_370 glas_000 houdt_253 , breekt_243 de_370 duisternis_000 voor_600 hem_303 open_100 . >
+24613	< hij_300 kan_273 in_600 de_370 diepte_000 de_370 straat_000 zien_230 leven_200 , en_700 ver_150 weg_500 zijn_274 de_370 lichten_001 van_600 de_370 hill_010 . >
+24614	< achter_600 hem_303 is_273 de_370 kamer_000 vol_100 muziek_000 , rook_000 en_700 stemmen_001 . >
+24615	< " hey_800 , baby_000 , hoe_520 heet_272 jij_300 ? " >
+24616	< het_370 meisje_000 is_273 achter_600 hem_303 komen_230 staan_200 . >
+24617	< " george_010 , " zegt_253 hij_300 tegen_600 dat_360 van_600 haar_303 , wat_420 hij_300 in_600 het_370 raam_000 weerspiegeld_209 ziet_253 . >
+24618	< " maar_700 jij_300 mag_272 nikker_000 zeggen_210 ! " >
+24619	< ze_300 lacht_243 , hij_300 voelt_253 haar_330 adem_000 in_600 zijn_330 hals_000 . >
+24620	< " zo_510 zwart_100 ben_272 je_300 niet_500 , liefje_000 . >
+24621	< het_440 is_273 een_450 erenaam_000 . >
+24622	< die_360 heb_272 jij_300 aan_600 jouw_330 huid_000 niet_500 verdiend_216 . " >
+24623	< hij_300 draait_2630 zich_340 naar_600 haar_303 om_6205 . >
+24624	< ze_300 is_273 werkelijk_150 zwarter_104 dan_720 hij_300 . >
+24625	< " dan_510 zal_271 ik_300 jou_303 nikker_000 noemen_210 . " >
+24626	< ze_300 lacht_243 nog_500 steeds_500 . >
+24627	< " zoals_710 je_300 wilt_242 , george_010 ... " >
+24628	< " waarom_520 laat_253 ze_300 me_303 niet_500 met_600 rust_000 ? " denkt_253 hij_300 en_700 draait_263 zich_340 weg_500 van_600 het_370 raam_000 . >
+24629	< in_600 een_450 hoek_000 ligt_243 een_450 kussen_000 op_600 de_370 grond_000 . >
+24630	< het_440 is_273 er_510 tamelijk_150 donker_100 naast_600 de_370 hoge_103 , brede_103 boekenkast_000 . >
+24631	< george_010 verschuilt_263 zich_340 daar_510 in_600 de_370 schaduw_000 , en_700 leunt_243 met_600 zijn_330 achterhoofd_000 tegen_600 de_370 muur_000 , zijn_330 ogen_001 dicht_100 . >
+24632	< zo_510 nu_510 en_700 dan_510 neemt_253 hij_300 een_450 slokje_000 van_600 zijn_330 whisky_000 . >
+24633	< naast_600 hem_303 zijn_244 de_370 stemmen_001 van_600 barbara-wendel_010 en_700 citchie_010 . >
+24634	< hij_300 heeft_273 ze_303 gelukkig_150 vanmiddag_500 al_500 gesproken_216 . >
+24635	< ze_300 zullen_274 niet_500 bij_600 hem_303 komen_230 zwetsen_200 . >
+24636	< toch_500 luistert_243 hij_300 naar_600 hun_330 gepraat_000 . > 
+24637	< hij_300 luistert_243 naar_600 haar_330 stem_000 , die_420 rustig_150 en_700 zonder_600 emotie_000 doorpraat_243 , doorpraat_243 . >
+24638	< " misschien_500 was_275 ik_300 een_450 beetje_000 van_600 streek_000 . >
+24639	< het_440 valt_2430 niet_500 mee_6205 , weet_252 je_300 ? >
+24640	< je_440 weet_252 haast_500 niet_500 aan_600 wie_400 je_440 het_440 moet_272 vertellen_210 . " >
+24641	< " als_710 ze_300 in_600 godsnaam_000 maar_700 niet_500 verwacht_253 dat_710 ik_300 met_600 haar_303 trouw_241 , " denkt_253 hij_300 . >
+24642	< " ik_300 moet_271 het_440 haar_303 duidelijk_100 maken_210 , voordat_710 ... " >
+24643	< " je_300 hebt_272 het_440 immers_500 al_500 eerder_154 bij_600 de_370 hand_000 gehad_216 ? " >
+24644	< ze_300 wordt_273 niet_500 eens_500 boos_100 . >
+24645	< " ja_800 , " zegt_253 ze_300 . >
+24646	< " hij_300 is_273 nu_510 negen_460 . >
+24647	< een_450 schat_000 van_600 een_450 joch_000 ! >
+24648	< ik_300 ben_271 stapelgek_100 op_600 hem_303 . " >
+24649	< " negen_460 ? " schrikt_253 randy_010 onwillekeurig_150 . >
+24650	< ze_300 knikt_243 , kijkt_2530 hem_303 aan_6205 met_600 een_450 lachje_000 om_600 haar_330 mond_000 . >
+24651	< " ik_300 ben_271 al_500 twee`endertig_460 , randy_010 ! ... " >
+24652	< twee`endertig_460 ! >
+24653	< ze_300 ziet_243 er_5400 goed_100 uit_6105 voor_600 haar_330 leeftijd_000 . >
+24654	< toch_500 zijn_244 er_510 kleine_103 rimpeltjes_001 rond_600 haar_330 ogen_001 . >
+24655	< hij_300 ziet_253 het_440 nu_510 . >
+24656	< hij_300 krijgt_253 er_5400 een_450 brok_000 om_6105 in_600 zijn_330 keel_000 . >
+24657	< twee`endertig_460 ! ... >
+24658	< en_700 een_450 kind_000 dat_420 geboren_100 is_273 toen_710 hij_300 nog_500 amper_500 wist_255 wat_420 je_440 er_5400 voor_6105 moest_275 doen_210 ! >
+24659	< in_600 die_370 tijd_000 had_255 hij_300 zijn_330 eerste_493 drumstel_000 , zijn_330 eerste_493 meisje_000 . >
+24660	< " ik_300 doe_251 het_440 niet_500 ! " denkt_253 hij_300 . >
+24661	< " ze_300 kan_273 het_440 niet_500 van_600 me_303 verlangen_210 ! " >
+24662	< sarah_010 zoekt_243 in_600 haar_330 jaszak_000 naar_600 een_450 geldstuk_000 en_700 gaat_243 naar_600 de_370 juke-box_000 . >
+24663	< hij_300 kijkt_243 naar_600 haar_330 rug_000 als_710 ze_300 zich_340 voorover_500 buigt_263 om_650 de_370 titelplaatjes_001 te_650 lezen_210 . >
+24664	< een_450 gevoel_000 van_600 paniek_000 overvalt_253 hem_303 . >
+24665	< " ik_300 ken_251 haar_303 niet_500 ! " beseft_253 hij_300 . >
+24666	< " ik_300 heb_271 haar_303 `e`en_470 avond_000 gezien_216 . >
+24667	< ik_300 weet_251 niets_440 van_600 haar_303 , behalve_720 dat_710 ze_300 een_450 zus_000 van_600 dick_010 is_273 , dat_710 ze_300 een_450 kind_000 heeft_253 , en_700 dat_710 ze_300 serveerster_000 is_273 . >
+24668	< ik_300 kan_271 mijn_330 leven_000 niet_500 vergooien_210 ! ... >
+24669	< ik_300 ken_251 die_370 bruiloften_001 in_600 harlem_010 . >
+24670	< de_370 bruid_000 een_450 witte_103 sluier_000 , de_370 bruidegom_000 zijn_330 beste_109 pak_000 . >
+24671	< alle_453 dames_001 giechelend_205 onder_600 een_450 hoed_000 met_600 te_500 grote_103 bloemen_001 , te_500 bonte_103 jurken_001 . >
+24672	< de_370 mannen_001 verlegen_100 en_700 grijnzend_205 op_600 de_370 foto_000 . >
+24673	< de_370 straat_000 vol_100 schreeuwende_203 , nieuwsgierige_103 kinderen_001 . > 
+24674	< zo_510 lang_150 mogelijk_150 sluit_2530 josha_010 die_370 geluiden_001 buiten_6205 . >
+24675	< zo_510 lang_150 mogelijk_150 houdt_253 het_370 kind_000 in_600 hem_303 de_370 nacht_000 vast_150 , maar_700 als_710 de_370 straat_000 begint_273 te_650 leven_200 en_700 de_370 stad_000 ontwaakt_243 , dan_510 breekt_2430 de_370 morgen_000 aan_6205 . >
+24676	< dan_510 is_273 josha_010 groot_100 geworden_236 ... ! >
+24677	< er_510 hangt_243 een_450 enorme_103 klok_000 aan_600 de_370 zolder_000 , precies_150 boven_600 de_370 afdeling_000 waar_530 grote_103 borden_001 met_600 zwierige_103 krulletters_001 een_450 bepaald_450 merk_000 make-up_000 aanprijzen_254 . >
+24678	< " vijf_470 uur_000 al_500 " schrikt_253 harriet-baker_010 en_700 zet_2530 de_370 volle_103 tas_000 neer_6205 om_650 zich_340 het_370 zweet_000 van_600 het_370 brede_103 zwarte_103 voorhoofd_000 te_650 vegen_210 . >
+24679	< " vijf_470 uur_000 en_700 n`og_500 geen_450 schoenen_001 ! >
+24680	< en_700 ze_300 m`oeten_274 er_510 komen_200 . >
+24681	< huzzie_010 heeft_273 het_440 gezegd_216 ! " >
+24682	< van_600 top_000 tot_600 teen_000 in_600 het_370 nieuw_000 , moeder_000 ! zei_255 hij_300 . >
+24683	< dat_370 luizige_103 rotjong_000 moet_273 zich_340 niet_500 over_600 ons_303 schamen_220 ! >
+24684	< nou_580 , sandy_010 z`al_273 zich_340 niet_500 schamen_220 . >
+24685	< een_450 nieuwe_103 jurk_000 ! >
+24686	< nieuwe_103 kousen_001 ! >
+24687	< en_700 nu_510 de_370 schoenen_001 nog_500 . >
+24688	< " tjee_800 ! " >
+24689	< zal_273 sandy_010 denken_210 . >
+24690	< " tjee_800 , dat_360 is_273 mijn_330 moeder_000 , anders_500 zou_275 ik_300 niet_500 kunnen_230 vermoeden_210 dat_710 ze_300 in_600 harlem_010 woont_243 ! " >
+24691	< en_700 hij_300 zal_273 trots_100 op_600 haar_303 zijn_230 . >
+24692	< moeizaam_150 buigt_263 ze_300 zich_340 voorover_500 om_650 de_370 hengsels_001 beet_100 te_650 pakken_210 , dan_510 schommelt_243 ze_300 haastig_150 verder_154 . >
+24693	< " jezus_080 mum_000 , " zal_273 hij_300 zeggen_210 . >
+24694	< " je_300 ziet_243 er_5400 deksels_150 goed_100 uit_6105 ! " >
+24695	< ze_300 glundert_243 . >
+24696	< haar_330 goedige_103 , ronde_103 gezicht_000 straalt_243 van_600 een_450 meisjesachtig_100 plezier_000 . >
+24697	< het_440 is_273 een_450 prachtjurk_000 . >
+24698	< en_700 niet_500 eens_500 erg_150 duur_100 . >
+24699	< als_710 de_370 schoenen_001 wat_440 meevallen_244 zal_273 ze_300 allicht_500 tien_470 dollar_001 overhouden_210 . >
+24700	< " hier_510 zoon_000 , " zal_273 ze_300 tegen_600 huzzie_010 zeggen_210 . >
+24701	< " jouw_330 moeder_000 is_273 geen_450 verkwister_000 . >
+24702	< jouw_330 moeder_000 is_273 spaarzaam_100 en_700 zuinig_100 . >
+24703	< neem_257 dit_360 terug_500 . " >
+24704	< of_700 nee_800 , ze_300 zou_275 het_370 geld_000 houden_210 en_700 er_5400 een_450 nieuw_100 overhemd_000 voor_600 sandy_010 van_6105 kopen_210 , en_700 een_450 stropdas_000 voor_600 huzzie_010 . >
+24705	< haar_330 jongens_001 , haar_330 zonen_001 . >
+24706	< " heeft_273 zij_300 er_5400 geen_450 prachtige_103 kerels_001 van_6105 gemaakt_216 ? >
+24707	< heeft_273 zij_300 ze_303 niet_500 keurig_150 opgevoed_216 ? >
+24708	< kijk_247 naar_600 die_370 knullen_001 van_600 harterings_010 , kijk_247 naar_600 die_370 zonen_001 van_600 ann-porter_010 . > 
+24709	< het_440 regent_253 bladeren_001 in_600 het_370 park_000 . >
+24710	< of_700 misschien_500 is_273 het_440 geen_450 regen_000 , maar_700 veeleer_500 een_450 zacht_100 omlaag_500 dwarrelen_201 van_600 rood_120 en_700 geel_120 en_700 bruin_120 , met_600 daartussen_540 door_630 een_450 grijs_100 waas_000 van_600 geluidloze_103 druppels_001 . >
+24711	< op_600 de_370 grond_000 vermengt_263 alles_440 wat_420 eerst_500 daarboven_540 was_275 zich_340 tot_600 een_450 bruin-zwarte_103 brij_000 . >
+24712	< lizzie_010 heft_253 haar_330 hoofd_000 omhoog_500 . >
+24713	< het_370 water_000 streelt_253 nu_510 ongestoord_150 haar_330 gezicht_000 , maar_700 de_370 fijne_103 waterspatjes_001 beletten_254 haar_303 de_370 takken_001 te_650 zien_210 . >
+24714	< ze_300 moeten_274 nu_510 zwart_100 zijn_230 , en_700 bijna_500 naakt_100 . >
+24715	< het_440 zal_273 gauw_500 winter_000 wezen_230 . >
+24716	< langzaam_150 slentert_243 ze_300 verder_154 . >
+24717	< de_370 koffer_000 is_273 zo_510 zwaar_100 geworden_236 , dat_710 hij_300 aan_600 haar_330 arm_000 is_273 gegroeid_206 en_700 zij_300 het_370 gewicht_000 niet_500 meer_500 voelen_210 kan_273 . >
+24718	< het_440 spettert_243 in_600 een_450 brede_103 plas_000 . >
+24719	< het_440 is_273 alsof_710 de_370 druppels_001 terugveren_244 , en_700 dan_510 pas_500 ondergaan_244 . >
+24720	< een_450 eenzaam_100 blad_000 drijft_243 roerloos_150 in_600 het_370 midden_000 . >
+24721	< het_300 zal_273 de_370 kant_000 nooit_510 bereiken_210 . >
+24722	< en_700 plotseling_150 gaat_2430 het_370 park_000 over_6205 in_600 de_370 stad_000 . >
+24723	< het_370 pad_000 wordt_273 trottoir_000 , de_370 bomen_001 lantaarnpalen_001 , en_700 een_450 rechte_103 , ijzeren_100 pilaar_000 aan_600 weerszijden_001 houdt_253 de_370 geur_000 van_600 humus_000 en_700 schors_000 links_500 , van_600 olie_000 en_700 uitlaatgassen_001 rechts_500 van_600 zich_340 . >
+24724	< " mijn_330 hemel_000 , " denkt_253 lizzie_010 . >
+24725	< " mijn_330 hemel_080 , waar_5600 moet_241 ik_300 naar_6105 toe_630 ? " >
+24726	< iemand_440 kijkt_2530 haar_303 onderzoekend_205 aan_6205 . >
+24727	< maar_700 wat_400 geeft_253 het_440 of_710 de_370 mensen_001 haar_330 tranen_001 zien_254 . >
+24728	< het_440 kan_273 toch_500 van_600 de_370 regen_000 komen_200 ? >
+24729	< er_510 is_243 een_450 kerk_000 boven_600 duizend_470 treden_001 , en_700 er_510 is_243 gezang_000 : plechtig_100 en_700 gewijd_216 . >
+24730	< en_700 lizzie_010 beklimt_253 de_370 treden_001 , een_460 voor_600 een_460 . >
+24731	< het_300 zijn_274 er_510 minder_444 dan_710 ze_300 gedacht_206 had_275 . >
+24732	< het_440 is_273 donker_100 in_600 het_370 portaal_000 , maar_700 de_370 stemmen_001 zijn_274 er_510 duidelijker_104 en_700 het_440 is_273 er_510 droog_100 . >
+24733	< op_600 een_450 prikbord_000 hangen_244 wat_450 brieven_001 en_700 biljetten_001 . >
+24734	< " het_440 is_273 een_450 roomse_103 kerk_000 , " begrijpt_253 lizzie_010 . >
+24735	< en_700 ondanks_600 de_370 schrijnende_203 leegte_000 in_600 haar_330 hoofd_000 moet_273 ze_300 spottend_205 glimlachen_200 . >
+24736	< haar_330 vader_000 , een_450 verlopen_100 vrachtwagenchauffeur_000 , die_420 zich_340 ondanks_600 alle_453 ellende_000 beroemde_265 op_600 zijn_330 spaanse_103 afkomst_000 , had_275 er_5400 op_6100 gestaan_216 dat_710 zij_300 communie_000 deed_255 . > 
+24737	< straks_500 zal_273 hij_300 me_303 zien_210 , straks_500 zal_273 hij_300 me_303 horen_210 . >
+24738	< het_370 meisje_000 is_273 blank_100 , zij_300 zijn_274 even_500 wit_100 , even_500 blond_100 , ze_300 zitten_244 naast_600 elkaar_340 . >
+24739	< hij_300 houdt_253 haar_330 hand_000 vast_150 . >
+24740	< ze_300 heeft_253 een_450 bril_000 . >
+24741	< waarom_520 heb_272 je_300 geen_450 blank_100 meisje_000 uitgezocht_216 , ritchie_010 ? >
+24742	< ik_300 houd_243 niet_500 van_600 blanke_103 meisjes_001 ... >
+24743	< het_300 zijn_274 vissen_001 ! >
+24744	< ze_300 voelen_254 niets_440 , en_700 als_710 ze_300 iets_440 voelen_254 , laten_274 ze_300 het_440 niet_500 merken_200 ... >
+24745	< denk_252 je_300 dat_710 ik_300 laat_271 merken_210 wat_420 ik_300 voel_251 ? >
+24746	< ja_800 , ik_300 kan_271 het_440 lezen_210 , in_600 je_330 ogen_001 en_700 in_600 je_330 mond_000 en_700 in_600 je_330 handen_001 . >
+24747	< ik_300 houd_241 van_600 je_303 . >
+24748	< jezus_080 , wat_400 houd_241 ik_300 van_600 je_303 ! >
+24749	< het_370 nummer_000 is_273 uit_500 : de_370 mensen_001 klappen_244 , niet_500 te_500 hard_150 . >
+24750	< de_370 bar_000 is_273 vol_100 geroezemoes_000 . >
+24751	< in_600 een_450 hoek_000 lacht_243 een_450 vrouw_000 . >
+24752	< nu_510 moet_241 ik_300 weer_500 . >
+24753	< nu_510 zal_273 hij_300 me_303 zien_210 . >
+24754	< langzaam_150 sta_2410 ik_300 op_6205 van_600 mijn_330 krukje_000 en_700 loop_241 naar_600 de_370 microfoon_000 ... >
+24755	< het_370 licht_000 is_273 op_600 mij_303 . >
+24756	< ik_300 ben_271 een_450 kat_000 die_420 vanuit_600 een_450 nis_000 de_370 zon_000 instapt_243 en_700 verbaasd_219 knipoogt_243 omdat_710 de_370 zon_000 zo_510 wreed_100 kan_273 zijn_230 . >
+24757	< de_370 mensen_001 letten_244 niet_500 op_600 me_303 . >
+24758	< ze_300 praten_244 , ze_300 lachen_244 , ze_300 vrijen_244 in_600 een_450 hoek_000 . >
+24759	< alleen_500 die_360 op_600 de_370 dansvloer_000 wachten_244 . >
+24760	< de_370 stilte_000 maakt_253 hen_303 naakt_100 . >
+24761	< weerloos_150 staren_244 ze_300 naar_600 elkaar_340 met_600 vreemde_103 ogen_001 , en_700 spreken_254 woorden_001 die_420 ze_300 niet_500 verstaan_254 . >
+24762	< ze_300 maken_254 ruimte_000 tussen_600 hun_330 hongerige_103 lichamen_001 . >
+24763	< ze_300 hebben_254 mij_303 nodig_100 , mij_303 en_700 de_370 drummer_000 . >
+24764	< daar_510 is_273 een_450 roffel_000 , daar_510 is_273 mijn_330 stem_000 die_420 losbreekt_243 uit_600 mijn_330 keel_000 en_700 op_600 hen_303 toestormt_243 vanuit_600 een_450 luidspreker_000 , en_700 de_370 ruimte_000 krimpt_243 . >
+24765	< ze_300 zijn_274 weer_500 `e`en_460 : hun_330 voeten_001 staan_244 onbeweeglijk_150 in_600 de_370 grond_000 geplant_216 , slechts_500 hun_330 lichamen_001 schuiven_244 ritmisch_150 langs_600 elkaar_340 . >
+24766	< en_700 dankbaar_150 verliezen_264 ze_300 zich_340 in_600 elkaar_340 en_700 vergeten_254 mij_303 . >
+24767	< dan_510 kijk_241 ik_300 naar_600 h`em_303 . >
+24768	< hij_300 weet_253 het_440 niet_500 , n`og_500 niet_500 ! > 
+24769	< maar_700 eindelijk_500 was_275 ze_300 weer_500 bij_600 mij_303 . >
+24770	< " wat_400 zei_255 je_300 , jean-pierre_010 ? " >
+24771	< " dat_710 je_300 niet_500 in_600 het_370 gras_000 moet_272 lopen_200 : je_300 wordt_272 ziek_100 ! " >
+24772	< " dat_360 geloof_251 ik_300 niet_500 . >
+24773	< koeien_001 lopen_244 ook_500 in_600 het_370 gras_000 . " >
+24774	< " voor_600 mensen_001 is_273 het_440 slecht_100 . >
+24775	< het_440 staat_243 in_600 de_370 boeken_001 . " >
+24776	< " o_800 ... , " zei_255 ze_300 teleurgesteld_219 , en_700 stapte_245 in_600 haar_330 rode_103 pumps_001 . >
+24777	< " je_300 zult_272 zien_210 dat_710 mijn_330 schoenen_001 nat_100 worden_274 , en_700 mijn_330 voeten_001 rood_100 ! >
+24778	< dat_360 is_273 altijd_510 zo_510 als_710 het_440 regent_243 . >
+24779	< het_440 was_275 ook_500 zo_510 toen_710 ik_300 met_600 richard_010 wandelde_245 . >
+24780	< maar_700 hij_300 geeft_243 er_5400 niet_500 om_6105 dat_710 ik_300 met_600 blote_103 voeten_001 liep_245 . >
+24781	< hij_300 had_275 zelf_340 ook_500 de_370 schoenen_001 uitgedaan_216 . >
+24782	< hij_300 was_275 zo_510 lief_100 , richard_010 ... >
+24783	< zo_510 jammer_500 ... " >
+24784	< vreemd_100 , dat_710 er_510 zo_510 weinig_450 verdriet_000 klonk_245 in_600 haar_330 stem_000 . >
+24785	< ze_300 moest_275 de_370 herinnering_000 aan_600 hem_303 uit_600 haar_330 hoofd_000 hebben_230 gezet_216 . >
+24786	< misschien_500 wist_255 zij_300 niet_500 meer_500 hoe_520 hij_300 liep_245 , hoe_520 hij_300 lachte_245 , hoe_520 hij_300 zijn_330 voorhoofd_000 fronste_255 als_710 hij_300 iets_440 vroeg_255 . >
+24787	< makkelijk_100 moet_273 dat_360 zijn_230 , om_650 alles_440 wat_420 verdriet_000 doet_253 zo_510 snel_150 te_650 vergeten_210 . >
+24788	< hoe_520 zou_275 ik_300 hem_303 vergeten_210 ? ... >
+24789	< nu_510 stond_245 ze_300 vlak_500 voor_600 me_303 en_700 keek_245 verbaasd_219 . >
+24790	< ik_300 had_275 haar_330 vraag_000 niet_500 gehoord_216 . >
+24791	< " vroeg_252 je_300 iets_440 , marcielle_010 ? " >
+24792	< " ja_800 ... " >
+24793	< " wat_400 dan_510 ? " >
+24794	< " ... ik_300 ... ik_300 weet_251 het_440 niet_500 meer_500 . >
+24795	< waar_5600 dacht_245 jij_300 aan_6105 ? " >
+24796	< ik_300 haalde_2550 mijn_330 schouders_001 op_6205 . >
+24797	< " jij_300 dacht_255 aan_600 richard_010 , natuurlijk_150 . >
+24798	< is_273 het_440 niet_500 ? " >
+24799	< klein_100 wijs_100 zusje_000 van_600 me_303 . >
+24800	< hoe_520 zou_275 jij_300 begrijpen_210 dat_710 je_440 daarover_540 niet_500 praten_200 moet_272 ? >
+24801	< " misschien_500 wel_500 ... " >
+24802	< " jij_300 dacht_255 natuurlijk_150 dat_710 het_440 zo_510 jammer_500 is_273 ... " >
+24803	< " dat_360 moet_272 je_300 niet_500 zeggen_210 , marcielle_010 . >
+24804	< ik_300 denk_251 dat_710 richard_010 het_440 heel_500 prettig_150 heeft_253 in_600 zijn_330 nieuwe_103 huis_000 dat_420 we_300 straks_500 gaan_274 bekijken_210 . >
+24805	< en_700 annette_010 is_273 erg_150 aardig_100 ... " >
+24806	< " o_800 ja_800 ? " >
+24807	< " dat_360 weet_252 je_300 wel_500 ! >
+24808	< jij_300 kent_252 annette_010 toch_500 ook_500 ! " >
+24809	< " ja_800 ... " >
+24810	< " nou_580 dan_510 . >
+24811	< wij_300 zijn_274 er_510 al_500 heel_500 gauw_500 : daarboven_540 op_600 de_370 heuvel_000 zal_273 het_440 zijn_200 . " >
+24812	< ze_300 antwoordde_245 niet_500 . >
+24813	< natuurlijk_150 : ze_300 heeft_253 het_370 recht_000 eerlijk_100 te_650 zijn_230 . > 
+24814	< en_700 ze_300 geeft_253 me_303 een_450 kus_000 op_600 mijn_330 voorhoofd_000 . >
+24815	< het_440 is_273 net_500 of_710 ze_300 een_450 beetje_000 verdrietig_100 is_273 . >
+24816	< vader_000 pakt_253 mijn_330 jas_000 . >
+24817	< " wij_300 moeten_244 weg_500 , " haast_253 hij_300 . >
+24818	< ik_300 geef_251 de_370 vrouw_000 een_450 handje_000 . >
+24819	< " tot_600 ziens_201 , " zegt_253 ze_300 vriendelijk_150 . >
+24820	< en_700 tegen_600 vader_000 zegt_253 ze_300 : >
+24821	< " tot_600 straks_500 " . >
+24822	< ze_300 kijkt_2530 ons_303 na_6205 door_600 het_370 raam_000 als_710 we_300 over_600 het_370 weggetje_000 tussen_600 de_370 weilanden_001 doorlopen_244 . >
+24823	< we_300 hollen_244 samen_500 een_450 poosje_000 en_700 we_300 lachen_244 zo_510 hard_150 als_710 het_440 van_600 moeder_000 nooit_510 mag_243 . >
+24824	< in_600 de_370 trein_000 ben_271 ik_300 slaperig_100 . >
+24825	< ik_300 wil_271 wel_500 mijn_330 ogen_001 openhouden_210 , maar_700 steeds_500 vallen_244 ze_300 dicht_100 . >
+24826	< ik_300 kruip_243 heel_500 dicht_500 tegen_600 vader_000 aan_630 . >
+24827	< hij_300 heeft_253 een_450 zachte_103 jas_000 , die_420 naar_600 tabak_000 ruikt_243 . >
+24828	< lekker_100 . >
+24829	< vader_000 is_273 heel_500 sterk_100 . >
+24830	< hij_300 draagt_2530 mij_303 de_370 trappen_001 van_600 het_370 station_000 af_6205 en_700 zelfs_500 draagt_253 hij_300 mij_303 naar_600 de_370 tram_000 . >
+24831	< maar_700 daar_510 word_271 ik_300 wakker_100 , want_700 er_510 zit_243 een_450 mevrouw_000 met_600 een_450 hondje_000 tegenover_600 ons_303 . >
+24832	< het_370 hondje_000 snuffelt_243 steeds_500 aan_600 haar_330 wang_000 , en_700 dan_510 zegt_253 ze_300 met_600 een_450 piepstem_000 : >
+24833	< " jasses_800 , keesje_010 , mag_243 niet_500 hoor_287 ! " >
+24834	< bij_600 de_370 hoek_000 moeten_274 vader_000 en_700 ik_300 uitstappen_200 . >
+24835	< wat_400 is_273 het_440 druk_100 hier_510 . >
+24836	< al_450 die_370 fietsers_001 en_700 al_450 die_370 auto's_001 ! >
+24837	< het_440 regent_243 zachtjes_500 . >
+24838	< de_370 achterlichten_001 van_600 de_370 auto's_001 schijnen_244 terug_500 op_600 de_370 natte_103 straat_000 . >
+24839	< rode_103 spiegeltjes_001 . >
+24840	< de_370 tram_000 belt_243 en_700 glijdt_243 weg_500 over_600 de_370 glimmende_203 rails_000 . >
+24841	< vader_000 houdt_253 mijn_330 hand_000 vast_150 . >
+24842	< " houd_242 je_300 van_600 de_370 stad_000 , marieke_010 ? " zegt_253 hij_300 . >
+24843	< " jouw_330 moeder_000 houdt_243 ook_500 zo_510 van_600 de_370 drukte_000 . >
+24844	< ik_300 kan_243 er_5400 niet_500 tegen_6105 ... " >
+24845	< hij_300 zwijgt_243 . >
+24846	< we_300 gaan_2540 de_370 bocht_000 om_6205 , en_700 de_370 stille_103 straat_000 in_640 , waar_530 de_370 grote_103 school_000 staat_243 . >
+24847	< nu_510 zijn_274 we_300 straks_500 thuis_500 , nog_500 twee_470 straten_001 maar_500 . >
+24848	< bij_600 de_370 hoek_000 van_600 de_370 groenteboer_000 zegt_253 vader_000 me_303 altijd_510 gedag_000 , en_700 dan_510 kijkt_2530 hij_300 me_303 na_6205 tot_710 moeder_000 de_370 deur_000 heeft_273 opengedaan_216 . >
+24849	< " ga_2420 je_300 mee_6205 naar_600 huis_000 , vader_000 ? " >
+24850	< hij_300 schrikt_243 . >
+24851	< " nee_800 , marieke_010 . > 
+24852	< en_700 toen_710 de_370 oude_103 man_000 om_600 zich_340 heen_630 keek_245 naar_600 de_370 enkele_453 schamele_103 huisjes_001 rondom_640 , waarin_560 de_370 mensen_001 nu_510 bezig_100 waren_276 zich_340 klaar_100 te_650 maken_220 voor_600 de_370 paasmis_000 , voelde_255 hij_300 in_600 zich_340 dezelfde_350 vlijmende_203 haat_000 tegen_600 hen_303 allen_441 , die_420 hij_300 in_600 zich_340 gedragen_216 had_275 al_450 die_370 maanden_001 , dat_530 hij_300 het_440 wist_255 . >
+24853	< hij_300 had_275 het_440 gelezen_216 in_600 de_370 ogen_001 van_600 het_370 dorp_000 , in_600 de_370 spottende_203 , haast_500 triomfantelijke_103 blikken_001 der_372 vrouwen_001 , in_600 het_370 zich_340 vol_100 stille_103 schaamte_000 afwenden_221 der_372 mannen_001 , toen_710 hij_300 terugkeerde_245 uit_600 de_370 bossen_001 aan_600 de_370 rivieroever_000 , waar_530 na_600 een_450 lange_103 , warme_103 zomer_000 het_370 laatste_109 berkenvlot_000 de_370 wolga_010 afgedreven_206 was_275 . >
+24854	< vol_100 onbestemde_103 angst_000 had_275 hij_300 op_600 anuschka_010 gewacht_206 in_600 zijn_330 oude_103 , stille_103 huisje_000 dat_420 hem_303 opnam_255 als_710 was_275 hij_300 nimmer_510 weggeweest_206 . >
+24855	< het_370 late_103 licht_000 van_600 de_370 russische_103 winteravond_000 drong_245 door_600 de_370 stoffige_103 ruiten_001 naar_600 binnen_500 en_700 maakte_255 de_370 kamer_000 kleiner_104 . >
+24856	< toen_710 zij_300 kwam_245 voorbij_600 het_370 raam_000 herkende_255 hij_300 haar_330 aan_600 de_370 schommelende_203 , ietwat_440 onbeholpen_100 gang_000 , die_420 haar_303 in_600 haar_330 achterlijkheid_000 eigen_100 was_275 . >
+24857	< maar_700 door_600 het_370 openen_211 van_600 de_370 deur_000 werd_275 zij_300 een_450 vreemde_123 voor_600 hem_303 . >
+24858	< wit_100 en_700 rijzig_100 stond_245 zij_300 daar_510 in_600 de_370 deuropening_000 , oneindig_150 ver_150 van_600 hem_303 verwijderd_216 , met_600 een_450 gelaten_100 glimlach_000 om_600 haar_330 lippen_001 , en_700 haar_330 handen_001 gevouwen_216 over_600 haar_330 buik_000 , die_370 opbolde_245 onder_600 de_370 ruwgeweven_100 rok_000 . >
+24859	< achter_600 haar_303 lag_275 het_370 wijde_103 russische_103 land_000 opengeslagen_206 onder_600 een_450 rijzige_103 hemel_000 . >
+24860	< toen_510 had_275 leonog-wasiliwitsj_010 begrepen_206 ! >
+24861	< " wie_400 ? " vroeg_255 hij_300 met_600 ingehouden_216 stem_000 . >
+24862	< maar_700 haar_330 schouders_001 schokten_246 en_700 haar_330 ene_453 hand_000 maakte_255 een_450 weids_100 gebaar_000 naar_600 de_370 huizen_001 om_600 hem_303 heen_630 . >
+24863	< lamgeslagen_219 was_275 hij_300 haar_303 voorbij_150 gegaan_206 naar_600 buiten_500 , en_700 had_275 zijn_330 vuisten_001 gebald_216 tegen_600 de_370 grauwe_103 lucht_000 in_600 machteloze_103 woede_000 . >
+24864	< later_154 was_275 het_440 stil_100 geworden_236 in_600 hem_303 en_700 met_600 de_370 eeuwige_103 gelatenheid_000 , die_420 zijn_330 volk_000 eigen_100 was_275 , had_275 hij_300 ook_500 dit_360 aanvaard_216 , en_700 was_275 zijn_330 weg_000 gegaan_216 zoals_720 altijd_510 . > 
