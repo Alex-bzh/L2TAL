@@ -6,5 +6,8 @@ dependencies:
   - jieba
   - jupyterlab
   - jupyterlab-latex
+  - matplotlib
+  - numpy
   - pip
   - python
+  - seaborn
