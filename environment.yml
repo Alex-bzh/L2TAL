@@ -8,6 +8,7 @@ dependencies:
   - jupyterlab-latex
   - matplotlib
   - numpy
+  - pandas
   - pip
   - python
   - seaborn
