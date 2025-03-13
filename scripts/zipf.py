@@ -6,38 +6,38 @@ import matplotlib.pyplot as plt
 import argparse
 
 def plot_zipf_law(filename):
-    # Charger les données
+    # Load data
     df = pd.read_csv(filename, sep="\t", header=None, names=["Rank", "Word", "Observed", "Theoretical", "AbsDiff", "MAE"])
+
+    # Convert theoretical frequency to integer (handling commas in numbers)
+    df["Theoretical"] = df["Theoretical"].astype(str).str.replace(',', '.').astype(float).astype(int)
     
-    # Configurer le style du graphique
+    # Set theme
     sns.set_theme(style="whitegrid")
     
-    # Tracer la loi de Zipf
+    # Zipf's law
     plt.figure(figsize=(10, 6))
     sns.lineplot(x=df["Rank"], y=df["Theoretical"], marker="o", markersize=5, label="Fréquence théorique", linestyle="--")
     sns.lineplot(x=df["Rank"], y=df["Observed"], marker="s", markersize=5, label="Fréquence observée", linestyle="-")
     
-    # Mise à l'échelle logarithmique
+    # Adjust scale
     plt.xscale("log")
     plt.yscale("log")
     
-    # Labels et titre
-    plt.xlabel("Rang du mot (log)")
-    plt.ylabel("Fréquence (log)")
-    plt.title("Loi de Zipf - Comparaison des fréquences théoriques et observées")
+    # Labels & title
+    plt.xlabel("Word rank (log)")
+    plt.ylabel("Frequency (log)")
+    plt.title("Zipf's law - Comparison of theoretical and observed frequencies")
     plt.legend()
     
-    # Sauvegarde du fichier
-    output_file = "zipf.png"
+    # Save the figure
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"Graphique sauvegardé sous {output_file}")
+    print(f"Graph saved as zipf.png")
 
 if __name__ == "__main__":
-    # Configuration des arguments de ligne de commande
-    parser = argparse.ArgumentParser(description="Tracer la loi de Zipf à partir d'un fichier tabulé et comparer les fréquences théoriques et observées.")
-    parser.add_argument("filename", type=str, help="Nom du fichier contenant les données")
+    # Command-line argument parsing
+    parser = argparse.ArgumentParser(description="Plot Zipf's Law from a tab-separated file and save the image.")
+    parser.add_argument("filename", type=str, help="Name of the input data file.")
     args = parser.parse_args()
     
     plot_zipf_law(args.filename)
-
-
